@@ -1,0 +1,7 @@
+configuration,models,n_models
+Diversity-guided heterogeneous,"[""LinearRegression"", ""GradientBoosting"", ""GRU"", ""ETS_day"", ""Naive_day""]",5
+Accuracy-only top five,"[""ElasticNet"", ""Ridge"", ""LightGBM"", ""GradientBoosting"", ""XGBoost""]",5
+All 12 models,"[""LinearRegression"", ""Ridge"", ""ElasticNet"", ""GradientBoosting"", ""RandomForest"", ""XGBoost"", ""LightGBM"", ""Bagging"", ""GRU"", ""LSTM"", ""ETS_day"", ""Naive_day""]",12
+Non-statistical ML-DL,"[""LinearRegression"", ""Ridge"", ""ElasticNet"", ""GradientBoosting"", ""RandomForest"", ""XGBoost"", ""LightGBM"", ""Bagging"", ""GRU"", ""LSTM""]",10
+Homogeneous tree-based,"[""GradientBoosting"", ""RandomForest"", ""XGBoost"", ""LightGBM"", ""Bagging""]",5
+Five least-correlated (2017),"[""XGBoost"", ""Bagging"", ""LSTM"", ""ETS_day"", ""Naive_day""]",5

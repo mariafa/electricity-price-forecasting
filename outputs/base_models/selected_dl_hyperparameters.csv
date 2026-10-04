@@ -1,0 +1,3 @@
+model,selected_parameters
+GRU,"{""batch_size"": 32, ""dense_units"": 32, ""dropout"": 0.0, ""learning_rate"": 0.0005, ""units"": 64}"
+LSTM,"{""batch_size"": 64, ""dense_units"": 64, ""dropout"": 0.2, ""learning_rate"": 0.001, ""units"": 64}"

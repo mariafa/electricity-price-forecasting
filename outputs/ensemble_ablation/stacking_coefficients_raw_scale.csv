@@ -1,0 +1,2017 @@
+configuration,meta_model,horizon,base_model,raw_coefficient,raw_intercept
+Diversity-guided heterogeneous,Ridge,1,LinearRegression,0.22023931980179717,17.729713659126645
+Diversity-guided heterogeneous,Ridge,1,GradientBoosting,0.10029598194893954,17.729713659126645
+Diversity-guided heterogeneous,Ridge,1,GRU,-0.12187480262956774,17.729713659126645
+Diversity-guided heterogeneous,Ridge,1,ETS_day,0.3232082555976237,17.729713659126645
+Diversity-guided heterogeneous,Ridge,1,Naive_day,0.14553802060192328,17.729713659126645
+Diversity-guided heterogeneous,Ridge,2,LinearRegression,0.21712828686371208,19.110798771729886
+Diversity-guided heterogeneous,Ridge,2,GradientBoosting,-0.06186028059413944,19.110798771729886
+Diversity-guided heterogeneous,Ridge,2,GRU,0.014188300574756719,19.110798771729886
+Diversity-guided heterogeneous,Ridge,2,ETS_day,0.24331898983618946,19.110798771729886
+Diversity-guided heterogeneous,Ridge,2,Naive_day,0.2016578984055287,19.110798771729886
+Diversity-guided heterogeneous,Ridge,3,LinearRegression,0.17530127484350824,18.119416025023774
+Diversity-guided heterogeneous,Ridge,3,GradientBoosting,0.2072282615562352,18.119416025023774
+Diversity-guided heterogeneous,Ridge,3,GRU,-0.15910141666174735,18.119416025023774
+Diversity-guided heterogeneous,Ridge,3,ETS_day,0.211356850397202,18.119416025023774
+Diversity-guided heterogeneous,Ridge,3,Naive_day,0.18834768897409881,18.119416025023774
+Diversity-guided heterogeneous,Ridge,4,LinearRegression,0.14050312725024164,14.237722564924383
+Diversity-guided heterogeneous,Ridge,4,GradientBoosting,0.1321875458709526,14.237722564924383
+Diversity-guided heterogeneous,Ridge,4,GRU,0.09079101609036694,14.237722564924383
+Diversity-guided heterogeneous,Ridge,4,ETS_day,0.1187858295895685,14.237722564924383
+Diversity-guided heterogeneous,Ridge,4,Naive_day,0.22832401905049454,14.237722564924383
+Diversity-guided heterogeneous,Ridge,5,LinearRegression,0.13842484050813814,12.381835739001374
+Diversity-guided heterogeneous,Ridge,5,GradientBoosting,0.08690728940233994,12.381835739001374
+Diversity-guided heterogeneous,Ridge,5,GRU,0.22069554649151674,12.381835739001374
+Diversity-guided heterogeneous,Ridge,5,ETS_day,0.07056917216582584,12.381835739001374
+Diversity-guided heterogeneous,Ridge,5,Naive_day,0.24088423822547192,12.381835739001374
+Diversity-guided heterogeneous,Ridge,6,LinearRegression,0.12800668213432354,14.77840346438245
+Diversity-guided heterogeneous,Ridge,6,GradientBoosting,0.07892528757837423,14.77840346438245
+Diversity-guided heterogeneous,Ridge,6,GRU,0.17587521784435026,14.77840346438245
+Diversity-guided heterogeneous,Ridge,6,ETS_day,0.06889575607661004,14.77840346438245
+Diversity-guided heterogeneous,Ridge,6,Naive_day,0.2500934701731766,14.77840346438245
+Diversity-guided heterogeneous,Ridge,7,LinearRegression,0.2063796808535282,14.138564883170595
+Diversity-guided heterogeneous,Ridge,7,GradientBoosting,0.20994825412835,14.138564883170595
+Diversity-guided heterogeneous,Ridge,7,GRU,0.08938839112739906,14.138564883170595
+Diversity-guided heterogeneous,Ridge,7,ETS_day,0.029931034108310238,14.138564883170595
+Diversity-guided heterogeneous,Ridge,7,Naive_day,0.1997058647002222,14.138564883170595
+Diversity-guided heterogeneous,Ridge,8,LinearRegression,0.30805163736533026,9.682838762058914
+Diversity-guided heterogeneous,Ridge,8,GradientBoosting,0.52524441683147,9.682838762058914
+Diversity-guided heterogeneous,Ridge,8,GRU,-0.1673311975093401,9.682838762058914
+Diversity-guided heterogeneous,Ridge,8,ETS_day,-0.011728312251389605,9.682838762058914
+Diversity-guided heterogeneous,Ridge,8,Naive_day,0.18912403288186136,9.682838762058914
+Diversity-guided heterogeneous,Ridge,9,LinearRegression,0.3313493523811324,7.4802391937268595
+Diversity-guided heterogeneous,Ridge,9,GradientBoosting,0.5536823237817641,7.4802391937268595
+Diversity-guided heterogeneous,Ridge,9,GRU,-0.1582539991351017,7.4802391937268595
+Diversity-guided heterogeneous,Ridge,9,ETS_day,-0.005512210216285702,7.4802391937268595
+Diversity-guided heterogeneous,Ridge,9,Naive_day,0.16213743040710496,7.4802391937268595
+Diversity-guided heterogeneous,Ridge,10,LinearRegression,0.4075239622873275,8.559935534502841
+Diversity-guided heterogeneous,Ridge,10,GradientBoosting,0.45760019491125287,8.559935534502841
+Diversity-guided heterogeneous,Ridge,10,GRU,-0.1679101613633355,8.559935534502841
+Diversity-guided heterogeneous,Ridge,10,ETS_day,0.015354720768646473,8.559935534502841
+Diversity-guided heterogeneous,Ridge,10,Naive_day,0.1584564062767504,8.559935534502841
+Diversity-guided heterogeneous,Ridge,11,LinearRegression,0.40258708188145087,7.15876725206288
+Diversity-guided heterogeneous,Ridge,11,GradientBoosting,0.5112005097126949,7.15876725206288
+Diversity-guided heterogeneous,Ridge,11,GRU,-0.20625897248477315,7.15876725206288
+Diversity-guided heterogeneous,Ridge,11,ETS_day,0.032079273117557185,7.15876725206288
+Diversity-guided heterogeneous,Ridge,11,Naive_day,0.15529804968366873,7.15876725206288
+Diversity-guided heterogeneous,Ridge,12,LinearRegression,0.35379704756137853,4.104529996738762
+Diversity-guided heterogeneous,Ridge,12,GradientBoosting,0.5133800761558314,4.104529996738762
+Diversity-guided heterogeneous,Ridge,12,GRU,-0.0893106691362362,4.104529996738762
+Diversity-guided heterogeneous,Ridge,12,ETS_day,0.033103536539539506,4.104529996738762
+Diversity-guided heterogeneous,Ridge,12,Naive_day,0.13946008174167446,4.104529996738762
+Diversity-guided heterogeneous,Ridge,13,LinearRegression,0.35464431477681413,6.151754732817736
+Diversity-guided heterogeneous,Ridge,13,GradientBoosting,0.5599679608369664,6.151754732817736
+Diversity-guided heterogeneous,Ridge,13,GRU,-0.2114044377017786,6.151754732817736
+Diversity-guided heterogeneous,Ridge,13,ETS_day,0.04948003875485701,6.151754732817736
+Diversity-guided heterogeneous,Ridge,13,Naive_day,0.1636989500143163,6.151754732817736
+Diversity-guided heterogeneous,Ridge,14,LinearRegression,0.2865402590509245,4.226139355970965
+Diversity-guided heterogeneous,Ridge,14,GradientBoosting,0.6046543248919009,4.226139355970965
+Diversity-guided heterogeneous,Ridge,14,GRU,-0.17900645229202827,4.226139355970965
+Diversity-guided heterogeneous,Ridge,14,ETS_day,0.04515100529959982,4.226139355970965
+Diversity-guided heterogeneous,Ridge,14,Naive_day,0.1946397340554311,4.226139355970965
+Diversity-guided heterogeneous,Ridge,15,LinearRegression,0.2952419495006727,11.239812576531243
+Diversity-guided heterogeneous,Ridge,15,GradientBoosting,0.4644178822222707,11.239812576531243
+Diversity-guided heterogeneous,Ridge,15,GRU,-0.21544786574539582,11.239812576531243
+Diversity-guided heterogeneous,Ridge,15,ETS_day,0.04686794168579893,11.239812576531243
+Diversity-guided heterogeneous,Ridge,15,Naive_day,0.22078143894431046,11.239812576531243
+Diversity-guided heterogeneous,Ridge,16,LinearRegression,0.2145782889007683,9.714995900440371
+Diversity-guided heterogeneous,Ridge,16,GradientBoosting,0.6683117423006404,9.714995900440371
+Diversity-guided heterogeneous,Ridge,16,GRU,-0.3290164066395672,9.714995900440371
+Diversity-guided heterogeneous,Ridge,16,ETS_day,0.04262428460658525,9.714995900440371
+Diversity-guided heterogeneous,Ridge,16,Naive_day,0.23969474555439044,9.714995900440371
+Diversity-guided heterogeneous,Ridge,17,LinearRegression,0.18064321575331388,4.246615459288407
+Diversity-guided heterogeneous,Ridge,17,GradientBoosting,0.46773484620014844,4.246615459288407
+Diversity-guided heterogeneous,Ridge,17,GRU,0.006365060566350777,4.246615459288407
+Diversity-guided heterogeneous,Ridge,17,ETS_day,0.03316714303493755,4.246615459288407
+Diversity-guided heterogeneous,Ridge,17,Naive_day,0.26174977338924604,4.246615459288407
+Diversity-guided heterogeneous,Ridge,18,LinearRegression,0.19225368531348921,2.6602076581029337
+Diversity-guided heterogeneous,Ridge,18,GradientBoosting,0.5673423023562898,2.6602076581029337
+Diversity-guided heterogeneous,Ridge,18,GRU,-0.11264297101624954,2.6602076581029337
+Diversity-guided heterogeneous,Ridge,18,ETS_day,0.030166074176014652,2.6602076581029337
+Diversity-guided heterogeneous,Ridge,18,Naive_day,0.3038068273103603,2.6602076581029337
+Diversity-guided heterogeneous,Ridge,19,LinearRegression,0.22419581091348867,-3.858589108708422
+Diversity-guided heterogeneous,Ridge,19,GradientBoosting,0.6100129450466538,-3.858589108708422
+Diversity-guided heterogeneous,Ridge,19,GRU,-0.05822202123463189,-3.858589108708422
+Diversity-guided heterogeneous,Ridge,19,ETS_day,-0.02349349384274575,-3.858589108708422
+Diversity-guided heterogeneous,Ridge,19,Naive_day,0.35733885494222234,-3.858589108708422
+Diversity-guided heterogeneous,Ridge,20,LinearRegression,0.2819808640226908,0.2758321030475699
+Diversity-guided heterogeneous,Ridge,20,GradientBoosting,0.5409402919253817,0.2758321030475699
+Diversity-guided heterogeneous,Ridge,20,GRU,-0.1624381351911207,0.2758321030475699
+Diversity-guided heterogeneous,Ridge,20,ETS_day,0.006960650484179889,0.2758321030475699
+Diversity-guided heterogeneous,Ridge,20,Naive_day,0.3609545296066804,0.2758321030475699
+Diversity-guided heterogeneous,Ridge,21,LinearRegression,0.2834958736646438,12.553814528014605
+Diversity-guided heterogeneous,Ridge,21,GradientBoosting,0.4251370862154731,12.553814528014605
+Diversity-guided heterogeneous,Ridge,21,GRU,-0.3767381354785519,12.553814528014605
+Diversity-guided heterogeneous,Ridge,21,ETS_day,0.01447856770721299,12.553814528014605
+Diversity-guided heterogeneous,Ridge,21,Naive_day,0.4429542763709011,12.553814528014605
+Diversity-guided heterogeneous,Ridge,22,LinearRegression,0.20308253488728414,12.01438952481783
+Diversity-guided heterogeneous,Ridge,22,GradientBoosting,0.17228575301847457,12.01438952481783
+Diversity-guided heterogeneous,Ridge,22,GRU,-0.09281628517625899,12.01438952481783
+Diversity-guided heterogeneous,Ridge,22,ETS_day,-0.0038426731112347736,12.01438952481783
+Diversity-guided heterogeneous,Ridge,22,Naive_day,0.5233263848500926,12.01438952481783
+Diversity-guided heterogeneous,Ridge,23,LinearRegression,0.18414889404496373,14.253161498620855
+Diversity-guided heterogeneous,Ridge,23,GradientBoosting,0.16289125668924867,14.253161498620855
+Diversity-guided heterogeneous,Ridge,23,GRU,-0.13359981661416948,14.253161498620855
+Diversity-guided heterogeneous,Ridge,23,ETS_day,-0.04573119518930823,14.253161498620855
+Diversity-guided heterogeneous,Ridge,23,Naive_day,0.5813834237078126,14.253161498620855
+Diversity-guided heterogeneous,Ridge,24,LinearRegression,0.21531778025868364,12.330185856036543
+Diversity-guided heterogeneous,Ridge,24,GradientBoosting,0.20151695173262582,12.330185856036543
+Diversity-guided heterogeneous,Ridge,24,GRU,-0.10342255569645399,12.330185856036543
+Diversity-guided heterogeneous,Ridge,24,ETS_day,-0.07319793588578796,12.330185856036543
+Diversity-guided heterogeneous,Ridge,24,Naive_day,0.5383820945362543,12.330185856036543
+Diversity-guided heterogeneous,ElasticNet,1,LinearRegression,0.21882734943811255,17.63703577348194
+Diversity-guided heterogeneous,ElasticNet,1,GradientBoosting,0.09903162575247332,17.63703577348194
+Diversity-guided heterogeneous,ElasticNet,1,GRU,-0.11491082250382421,17.63703577348194
+Diversity-guided heterogeneous,ElasticNet,1,ETS_day,0.3205621276919065,17.63703577348194
+Diversity-guided heterogeneous,ElasticNet,1,Naive_day,0.14603435944353269,17.63703577348194
+Diversity-guided heterogeneous,ElasticNet,2,LinearRegression,0.21596568255147094,19.07745953676254
+Diversity-guided heterogeneous,ElasticNet,2,GradientBoosting,-0.05738170176550686,19.07745953676254
+Diversity-guided heterogeneous,ElasticNet,2,GRU,0.013309490839503783,19.07745953676254
+Diversity-guided heterogeneous,ElasticNet,2,ETS_day,0.24227817192372156,19.07745953676254
+Diversity-guided heterogeneous,ElasticNet,2,Naive_day,0.20110129304612215,19.07745953676254
+Diversity-guided heterogeneous,ElasticNet,3,LinearRegression,0.174740424889277,18.04410536354723
+Diversity-guided heterogeneous,ElasticNet,3,GradientBoosting,0.20450180277490454,18.04410536354723
+Diversity-guided heterogeneous,ElasticNet,3,GRU,-0.15175695819763113,18.04410536354723
+Diversity-guided heterogeneous,ElasticNet,3,ETS_day,0.20947751012996976,18.04410536354723
+Diversity-guided heterogeneous,ElasticNet,3,Naive_day,0.18813022820012,18.04410536354723
+Diversity-guided heterogeneous,ElasticNet,4,LinearRegression,0.14030404334466073,14.283141113521815
+Diversity-guided heterogeneous,ElasticNet,4,GradientBoosting,0.13174905795201033,14.283141113521815
+Diversity-guided heterogeneous,ElasticNet,4,GRU,0.09161829654358165,14.283141113521815
+Diversity-guided heterogeneous,ElasticNet,4,ETS_day,0.11839021499457535,14.283141113521815
+Diversity-guided heterogeneous,ElasticNet,4,Naive_day,0.2275045757210013,14.283141113521815
+Diversity-guided heterogeneous,ElasticNet,5,LinearRegression,0.13817684960144355,12.438540513493628
+Diversity-guided heterogeneous,ElasticNet,5,GradientBoosting,0.08725364683076534,12.438540513493628
+Diversity-guided heterogeneous,ElasticNet,5,GRU,0.2201351288004825,12.438540513493628
+Diversity-guided heterogeneous,ElasticNet,5,ETS_day,0.0705462391562843,12.438540513493628
+Diversity-guided heterogeneous,ElasticNet,5,Naive_day,0.23999978757352514,12.438540513493628
+Diversity-guided heterogeneous,ElasticNet,6,LinearRegression,0.127776615385634,14.82731198227221
+Diversity-guided heterogeneous,ElasticNet,6,GradientBoosting,0.07934859618847787,14.82731198227221
+Diversity-guided heterogeneous,ElasticNet,6,GRU,0.17560072539399407,14.82731198227221
+Diversity-guided heterogeneous,ElasticNet,6,ETS_day,0.06879857210515503,14.82731198227221
+Diversity-guided heterogeneous,ElasticNet,6,Naive_day,0.24913988783390786,14.82731198227221
+Diversity-guided heterogeneous,ElasticNet,7,LinearRegression,0.2055955697248383,14.190070265299752
+Diversity-guided heterogeneous,ElasticNet,7,GradientBoosting,0.20950736616539217,14.190070265299752
+Diversity-guided heterogeneous,ElasticNet,7,GRU,0.09003471417348613,14.190070265299752
+Diversity-guided heterogeneous,ElasticNet,7,ETS_day,0.030052931779842765,14.190070265299752
+Diversity-guided heterogeneous,ElasticNet,7,Naive_day,0.19905409540682148,14.190070265299752
+Diversity-guided heterogeneous,ElasticNet,8,LinearRegression,0.3061865571934544,9.682130498918376
+Diversity-guided heterogeneous,ElasticNet,8,GradientBoosting,0.5184303612149763,9.682130498918376
+Diversity-guided heterogeneous,ElasticNet,8,GRU,-0.15939461039530767,9.682130498918376
+Diversity-guided heterogeneous,ElasticNet,8,ETS_day,-0.010379799340654389,9.682130498918376
+Diversity-guided heterogeneous,ElasticNet,8,Naive_day,0.18870757962726176,9.682130498918376
+Diversity-guided heterogeneous,ElasticNet,9,LinearRegression,0.3292485942078142,7.430845235598817
+Diversity-guided heterogeneous,ElasticNet,9,GradientBoosting,0.5479854748493356,7.430845235598817
+Diversity-guided heterogeneous,ElasticNet,9,GRU,-0.15042454211867298,7.430845235598817
+Diversity-guided heterogeneous,ElasticNet,9,ETS_day,-0.004483338817670289,7.430845235598817
+Diversity-guided heterogeneous,ElasticNet,9,Naive_day,0.16213959362265454,7.430845235598817
+Diversity-guided heterogeneous,ElasticNet,10,LinearRegression,0.40479097831711747,8.470775817432134
+Diversity-guided heterogeneous,ElasticNet,10,GradientBoosting,0.45247925230482744,8.470775817432134
+Diversity-guided heterogeneous,ElasticNet,10,GRU,-0.15887410895517426,8.470775817432134
+Diversity-guided heterogeneous,ElasticNet,10,ETS_day,0.015358424158025241,8.470775817432134
+Diversity-guided heterogeneous,ElasticNet,10,Naive_day,0.15884848420164682,8.470775817432134
+Diversity-guided heterogeneous,ElasticNet,11,LinearRegression,0.39981285363617974,7.081737130161358
+Diversity-guided heterogeneous,ElasticNet,11,GradientBoosting,0.5079578185614804,7.081737130161358
+Diversity-guided heterogeneous,ElasticNet,11,GRU,-0.19909669174333144,7.081737130161358
+Diversity-guided heterogeneous,ElasticNet,11,ETS_day,0.031869142103915664,7.081737130161358
+Diversity-guided heterogeneous,ElasticNet,11,Naive_day,0.15573523459600788,7.081737130161358
+Diversity-guided heterogeneous,ElasticNet,12,LinearRegression,0.3517981632841205,4.06452662018112
+Diversity-guided heterogeneous,ElasticNet,12,GradientBoosting,0.5100802801197425,4.06452662018112
+Diversity-guided heterogeneous,ElasticNet,12,GRU,-0.08365083850738188,4.06452662018112
+Diversity-guided heterogeneous,ElasticNet,12,ETS_day,0.03305570897541585,4.06452662018112
+Diversity-guided heterogeneous,ElasticNet,12,Naive_day,0.13970959166604568,4.06452662018112
+Diversity-guided heterogeneous,ElasticNet,13,LinearRegression,0.3521068360516131,6.1350321674812776
+Diversity-guided heterogeneous,ElasticNet,13,GradientBoosting,0.5540783526437701,6.1350321674812776
+Diversity-guided heterogeneous,ElasticNet,13,GRU,-0.20279134858709127,6.1350321674812776
+Diversity-guided heterogeneous,ElasticNet,13,ETS_day,0.049294055929445114,6.1350321674812776
+Diversity-guided heterogeneous,ElasticNet,13,Naive_day,0.16384445056116534,6.1350321674812776
+Diversity-guided heterogeneous,ElasticNet,14,LinearRegression,0.28532402981728633,4.222339965746926
+Diversity-guided heterogeneous,ElasticNet,14,GradientBoosting,0.6003647416669773,4.222339965746926
+Diversity-guided heterogeneous,ElasticNet,14,GRU,-0.1729188000269123,4.222339965746926
+Diversity-guided heterogeneous,ElasticNet,14,ETS_day,0.04502334560951641,4.222339965746926
+Diversity-guided heterogeneous,ElasticNet,14,Naive_day,0.19408552926298567,4.222339965746926
+Diversity-guided heterogeneous,ElasticNet,15,LinearRegression,0.29377073774064455,11.222355508011084
+Diversity-guided heterogeneous,ElasticNet,15,GradientBoosting,0.4602862933546262,11.222355508011084
+Diversity-guided heterogeneous,ElasticNet,15,GRU,-0.20875312182620942,11.222355508011084
+Diversity-guided heterogeneous,ElasticNet,15,ETS_day,0.04683497670588857,11.222355508011084
+Diversity-guided heterogeneous,ElasticNet,15,Naive_day,0.22013422914986977,11.222355508011084
+Diversity-guided heterogeneous,ElasticNet,16,LinearRegression,0.2138822850782847,9.688210370544951
+Diversity-guided heterogeneous,ElasticNet,16,GradientBoosting,0.661692165761827,9.688210370544951
+Diversity-guided heterogeneous,ElasticNet,16,GRU,-0.31987940766845785,9.688210370544951
+Diversity-guided heterogeneous,ElasticNet,16,ETS_day,0.04259553556227905,9.688210370544951
+Diversity-guided heterogeneous,ElasticNet,16,Naive_day,0.2386855865056113,9.688210370544951
+Diversity-guided heterogeneous,ElasticNet,17,LinearRegression,0.18050061327675093,4.315907650313875
+Diversity-guided heterogeneous,ElasticNet,17,GradientBoosting,0.4651022413977202,4.315907650313875
+Diversity-guided heterogeneous,ElasticNet,17,GRU,0.0087805180944605,4.315907650313875
+Diversity-guided heterogeneous,ElasticNet,17,ETS_day,0.03329034306075169,4.315907650313875
+Diversity-guided heterogeneous,ElasticNet,17,Naive_day,0.2605111276813575,4.315907650313875
+Diversity-guided heterogeneous,ElasticNet,18,LinearRegression,0.19167360943257797,2.6620139379250176
+Diversity-guided heterogeneous,ElasticNet,18,GradientBoosting,0.5623756052180384,2.6620139379250176
+Diversity-guided heterogeneous,ElasticNet,18,GRU,-0.1054924277102041,2.6620139379250176
+Diversity-guided heterogeneous,ElasticNet,18,ETS_day,0.030516845372860077,2.6620139379250176
+Diversity-guided heterogeneous,ElasticNet,18,Naive_day,0.3018260668167822,2.6620139379250176
+Diversity-guided heterogeneous,ElasticNet,19,LinearRegression,0.22303403522164905,-3.80018525993831
+Diversity-guided heterogeneous,ElasticNet,19,GradientBoosting,0.6044062199254536,-3.80018525993831
+Diversity-guided heterogeneous,ElasticNet,19,GRU,-0.05243463716442472,-3.80018525993831
+Diversity-guided heterogeneous,ElasticNet,19,ETS_day,-0.02114387363593214,-3.80018525993831
+Diversity-guided heterogeneous,ElasticNet,19,Naive_day,0.35481144254427815,-3.80018525993831
+Diversity-guided heterogeneous,ElasticNet,20,LinearRegression,0.28089593205910257,0.17108158568553478
+Diversity-guided heterogeneous,ElasticNet,20,GradientBoosting,0.5379732776574925,0.17108158568553478
+Diversity-guided heterogeneous,ElasticNet,20,GRU,-0.1552871705615579,0.17108158568553478
+Diversity-guided heterogeneous,ElasticNet,20,ETS_day,0.007664648380395282,0.17108158568553478
+Diversity-guided heterogeneous,ElasticNet,20,Naive_day,0.35894812273726867,0.17108158568553478
+Diversity-guided heterogeneous,ElasticNet,21,LinearRegression,0.2825636328158948,12.281263169837743
+Diversity-guided heterogeneous,ElasticNet,21,GradientBoosting,0.4229163227399582,12.281263169837743
+Diversity-guided heterogeneous,ElasticNet,21,GRU,-0.36627103089984697,12.281263169837743
+Diversity-guided heterogeneous,ElasticNet,21,ETS_day,0.015447189770542514,12.281263169837743
+Diversity-guided heterogeneous,ElasticNet,21,Naive_day,0.4397448989143369,12.281263169837743
+Diversity-guided heterogeneous,ElasticNet,22,LinearRegression,0.20266602927481558,12.079684236543933
+Diversity-guided heterogeneous,ElasticNet,22,GradientBoosting,0.17083337905805035,12.079684236543933
+Diversity-guided heterogeneous,ElasticNet,22,GRU,-0.0892547381347164,12.079684236543933
+Diversity-guided heterogeneous,ElasticNet,22,ETS_day,-0.0003395712300452495,12.079684236543933
+Diversity-guided heterogeneous,ElasticNet,22,Naive_day,0.5170214862904712,12.079684236543933
+Diversity-guided heterogeneous,ElasticNet,23,LinearRegression,0.18412369454291694,14.269343225036138
+Diversity-guided heterogeneous,ElasticNet,23,GradientBoosting,0.16149180593018936,14.269343225036138
+Diversity-guided heterogeneous,ElasticNet,23,GRU,-0.1278194254221309,14.269343225036138
+Diversity-guided heterogeneous,ElasticNet,23,ETS_day,-0.03979945953157283,14.269343225036138
+Diversity-guided heterogeneous,ElasticNet,23,Naive_day,0.5711448382861992,14.269343225036138
+Diversity-guided heterogeneous,ElasticNet,24,LinearRegression,0.21396978810059095,12.44723453887115
+Diversity-guided heterogeneous,ElasticNet,24,GradientBoosting,0.20343278097046008,12.44723453887115
+Diversity-guided heterogeneous,ElasticNet,24,GRU,-0.10011013147210945,12.44723453887115
+Diversity-guided heterogeneous,ElasticNet,24,ETS_day,-0.06331418157786332,12.44723453887115
+Diversity-guided heterogeneous,ElasticNet,24,Naive_day,0.5228519580042519,12.44723453887115
+Accuracy-only top five,Ridge,1,ElasticNet,1.41703945304773,14.247753584568244
+Accuracy-only top five,Ridge,1,Ridge,-0.5936852440451384,14.247753584568244
+Accuracy-only top five,Ridge,1,LightGBM,0.14925603086293687,14.247753584568244
+Accuracy-only top five,Ridge,1,GradientBoosting,-0.2988042643661792,14.247753584568244
+Accuracy-only top five,Ridge,1,XGBoost,0.07669768701938207,14.247753584568244
+Accuracy-only top five,Ridge,2,ElasticNet,1.4854818758412636,17.65787764229821
+Accuracy-only top five,Ridge,2,Ridge,-0.7701170426291645,17.65787764229821
+Accuracy-only top five,Ridge,2,LightGBM,0.41960045699030746,17.65787764229821
+Accuracy-only top five,Ridge,2,GradientBoosting,-0.6317322084107898,17.65787764229821
+Accuracy-only top five,Ridge,2,XGBoost,0.15934851780598883,17.65787764229821
+Accuracy-only top five,Ridge,3,ElasticNet,1.5147719203647443,13.979367689830774
+Accuracy-only top five,Ridge,3,Ridge,-0.8926790240060448,13.979367689830774
+Accuracy-only top five,Ridge,3,LightGBM,0.4597815025959307,13.979367689830774
+Accuracy-only top five,Ridge,3,GradientBoosting,-0.29217588367531716,13.979367689830774
+Accuracy-only top five,Ridge,3,XGBoost,-0.04362925932023051,13.979367689830774
+Accuracy-only top five,Ridge,4,ElasticNet,1.6597229560083995,13.632682148773725
+Accuracy-only top five,Ridge,4,Ridge,-1.0824778325277917,13.632682148773725
+Accuracy-only top five,Ridge,4,LightGBM,0.4658875006509499,13.632682148773725
+Accuracy-only top five,Ridge,4,GradientBoosting,-0.515515781110833,13.632682148773725
+Accuracy-only top five,Ridge,4,XGBoost,0.2178521794392212,13.632682148773725
+Accuracy-only top five,Ridge,5,ElasticNet,1.4784680065677303,14.022239927369213
+Accuracy-only top five,Ridge,5,Ridge,-0.907473115161878,14.022239927369213
+Accuracy-only top five,Ridge,5,LightGBM,0.40538115389170093,14.022239927369213
+Accuracy-only top five,Ridge,5,GradientBoosting,-0.3692652088663308,14.022239927369213
+Accuracy-only top five,Ridge,5,XGBoost,0.126896261721699,14.022239927369213
+Accuracy-only top five,Ridge,6,ElasticNet,1.4405857152278803,15.590878373421248
+Accuracy-only top five,Ridge,6,Ridge,-0.8432483220395884,15.590878373421248
+Accuracy-only top five,Ridge,6,LightGBM,0.4007220723221285,15.590878373421248
+Accuracy-only top five,Ridge,6,GradientBoosting,-0.3236180487022441,15.590878373421248
+Accuracy-only top five,Ridge,6,XGBoost,0.01772194358643234,15.590878373421248
+Accuracy-only top five,Ridge,7,ElasticNet,0.9139397902601608,15.821983704815224
+Accuracy-only top five,Ridge,7,Ridge,-0.2645337567882494,15.821983704815224
+Accuracy-only top five,Ridge,7,LightGBM,0.4270623117878062,15.821983704815224
+Accuracy-only top five,Ridge,7,GradientBoosting,-0.4043703677731651,15.821983704815224
+Accuracy-only top five,Ridge,7,XGBoost,0.02569275973943545,15.821983704815224
+Accuracy-only top five,Ridge,8,ElasticNet,0.6734448643652068,10.49602230049073
+Accuracy-only top five,Ridge,8,Ridge,0.07508250456547245,10.49602230049073
+Accuracy-only top five,Ridge,8,LightGBM,0.4826502386635367,10.49602230049073
+Accuracy-only top five,Ridge,8,GradientBoosting,-0.31516423971683133,10.49602230049073
+Accuracy-only top five,Ridge,8,XGBoost,-0.09283640387132862,10.49602230049073
+Accuracy-only top five,Ridge,9,ElasticNet,0.7457258682446234,5.6560347083993605
+Accuracy-only top five,Ridge,9,Ridge,-0.0032272987980622933,5.6560347083993605
+Accuracy-only top five,Ridge,9,LightGBM,0.5457786985183339,5.6560347083993605
+Accuracy-only top five,Ridge,9,GradientBoosting,-0.22266497294645568,5.6560347083993605
+Accuracy-only top five,Ridge,9,XGBoost,-0.14715702091781782,5.6560347083993605
+Accuracy-only top five,Ridge,10,ElasticNet,0.9706410553844937,7.627310391412166
+Accuracy-only top five,Ridge,10,Ridge,-0.07398673368989496,7.627310391412166
+Accuracy-only top five,Ridge,10,LightGBM,0.5397047623212988,7.627310391412166
+Accuracy-only top five,Ridge,10,GradientBoosting,-0.6500499931444143,7.627310391412166
+Accuracy-only top five,Ridge,10,XGBoost,0.09876859222932512,7.627310391412166
+Accuracy-only top five,Ridge,11,ElasticNet,0.816399486998811,3.932530207884227
+Accuracy-only top five,Ridge,11,Ridge,-0.10423537676838106,3.932530207884227
+Accuracy-only top five,Ridge,11,LightGBM,0.30464152336101347,3.932530207884227
+Accuracy-only top five,Ridge,11,GradientBoosting,0.03114646465832685,3.932530207884227
+Accuracy-only top five,Ridge,11,XGBoost,-0.10882835255582039,3.932530207884227
+Accuracy-only top five,Ridge,12,ElasticNet,0.6951494126391856,3.9881938146878255
+Accuracy-only top five,Ridge,12,Ridge,0.1400510385073964,3.9881938146878255
+Accuracy-only top five,Ridge,12,LightGBM,-0.03705152572556238,3.9881938146878255
+Accuracy-only top five,Ridge,12,GradientBoosting,-0.12053750662449204,3.9881938146878255
+Accuracy-only top five,Ridge,12,XGBoost,0.26215719462821835,3.9881938146878255
+Accuracy-only top five,Ridge,13,ElasticNet,0.555557446005855,5.336621092423854
+Accuracy-only top five,Ridge,13,Ridge,0.19569890113330826,5.336621092423854
+Accuracy-only top five,Ridge,13,LightGBM,0.18686172116198704,5.336621092423854
+Accuracy-only top five,Ridge,13,GradientBoosting,0.05179419392318596,5.336621092423854
+Accuracy-only top five,Ridge,13,XGBoost,-0.07518039099058085,5.336621092423854
+Accuracy-only top five,Ridge,14,ElasticNet,0.5779962280488977,2.8713788951519845
+Accuracy-only top five,Ridge,14,Ridge,0.2455258839786189,2.8713788951519845
+Accuracy-only top five,Ridge,14,LightGBM,-0.047338576437389736,2.8713788951519845
+Accuracy-only top five,Ridge,14,GradientBoosting,-0.11800494142035449,2.8713788951519845
+Accuracy-only top five,Ridge,14,XGBoost,0.30579926666285484,2.8713788951519845
+Accuracy-only top five,Ridge,15,ElasticNet,0.6013658538199852,10.950710742010273
+Accuracy-only top five,Ridge,15,Ridge,0.25136357592397857,10.950710742010273
+Accuracy-only top five,Ridge,15,LightGBM,-0.04773414902605802,10.950710742010273
+Accuracy-only top five,Ridge,15,GradientBoosting,-0.6346618150018363,10.950710742010273
+Accuracy-only top five,Ridge,15,XGBoost,0.6437157510324963,10.950710742010273
+Accuracy-only top five,Ridge,16,ElasticNet,0.9059747065453284,7.069853803063701
+Accuracy-only top five,Ridge,16,Ridge,-0.22184612845928564,7.069853803063701
+Accuracy-only top five,Ridge,16,LightGBM,-0.04356714915846794,7.069853803063701
+Accuracy-only top five,Ridge,16,GradientBoosting,0.051171477372134025,7.069853803063701
+Accuracy-only top five,Ridge,16,XGBoost,0.20270828835862323,7.069853803063701
+Accuracy-only top five,Ridge,17,ElasticNet,0.8154078234585997,8.721372654732022
+Accuracy-only top five,Ridge,17,Ridge,-0.14245514007070278,8.721372654732022
+Accuracy-only top five,Ridge,17,LightGBM,0.03560753918968145,8.721372654732022
+Accuracy-only top five,Ridge,17,GradientBoosting,-0.1257990634105998,8.721372654732022
+Accuracy-only top five,Ridge,17,XGBoost,0.27118671259365645,8.721372654732022
+Accuracy-only top five,Ridge,18,ElasticNet,0.8751794331750935,6.046039886350556
+Accuracy-only top five,Ridge,18,Ridge,-0.13854863873146547,6.046039886350556
+Accuracy-only top five,Ridge,18,LightGBM,0.030612843607232935,6.046039886350556
+Accuracy-only top five,Ridge,18,GradientBoosting,-0.4357620978131492,6.046039886350556
+Accuracy-only top five,Ridge,18,XGBoost,0.5786941736669716,6.046039886350556
+Accuracy-only top five,Ridge,19,ElasticNet,0.964522443270305,-1.7264653971722268
+Accuracy-only top five,Ridge,19,Ridge,-0.27537489886799527,-1.7264653971722268
+Accuracy-only top five,Ridge,19,LightGBM,-0.13765782184592187,-1.7264653971722268
+Accuracy-only top five,Ridge,19,GradientBoosting,-0.1870195658238542,-1.7264653971722268
+Accuracy-only top five,Ridge,19,XGBoost,0.7019091903742891,-1.7264653971722268
+Accuracy-only top five,Ridge,20,ElasticNet,0.5500806728152541,-4.834224928597735
+Accuracy-only top five,Ridge,20,Ridge,0.21613566604910436,-4.834224928597735
+Accuracy-only top five,Ridge,20,LightGBM,-0.22199807818587675,-4.834224928597735
+Accuracy-only top five,Ridge,20,GradientBoosting,-0.014139698400252941,-4.834224928597735
+Accuracy-only top five,Ridge,20,XGBoost,0.585889882316935,-4.834224928597735
+Accuracy-only top five,Ridge,21,ElasticNet,0.4716329423396598,-2.7648249086831242
+Accuracy-only top five,Ridge,21,Ridge,0.34827947177355306,-2.7648249086831242
+Accuracy-only top five,Ridge,21,LightGBM,-0.01408366110076725,-2.7648249086831242
+Accuracy-only top five,Ridge,21,GradientBoosting,0.10808182101991401,-2.7648249086831242
+Accuracy-only top five,Ridge,21,XGBoost,0.15828256606551971,-2.7648249086831242
+Accuracy-only top five,Ridge,22,ElasticNet,0.7005046901931479,6.677324687005132
+Accuracy-only top five,Ridge,22,Ridge,0.12110616751690212,6.677324687005132
+Accuracy-only top five,Ridge,22,LightGBM,0.1882379529229173,6.677324687005132
+Accuracy-only top five,Ridge,22,GradientBoosting,-0.3004706267620461,6.677324687005132
+Accuracy-only top five,Ridge,22,XGBoost,0.1925602473358922,6.677324687005132
+Accuracy-only top five,Ridge,23,ElasticNet,1.234597786935231,9.26550815306868
+Accuracy-only top five,Ridge,23,Ridge,-0.36290268958193633,9.26550815306868
+Accuracy-only top five,Ridge,23,LightGBM,0.11208520101338426,9.26550815306868
+Accuracy-only top five,Ridge,23,GradientBoosting,0.09120507974702675,9.26550815306868
+Accuracy-only top five,Ridge,23,XGBoost,-0.22671817468915256,9.26550815306868
+Accuracy-only top five,Ridge,24,ElasticNet,1.6717214321018465,12.188228548360428
+Accuracy-only top five,Ridge,24,Ridge,-0.7297440947596255,12.188228548360428
+Accuracy-only top five,Ridge,24,LightGBM,-0.4176645244487234,12.188228548360428
+Accuracy-only top five,Ridge,24,GradientBoosting,-0.02456703145197158,12.188228548360428
+Accuracy-only top five,Ridge,24,XGBoost,0.295911587668976,12.188228548360428
+Accuracy-only top five,ElasticNet,1,ElasticNet,1.031306091313278,13.885668770132895
+Accuracy-only top five,ElasticNet,1,Ridge,-0.21656317736742295,13.885668770132895
+Accuracy-only top five,ElasticNet,1,LightGBM,0.14605150790154023,13.885668770132895
+Accuracy-only top five,ElasticNet,1,GradientBoosting,-0.2513330666969652,13.885668770132895
+Accuracy-only top five,ElasticNet,1,XGBoost,0.05012855976560041,13.885668770132895
+Accuracy-only top five,ElasticNet,2,ElasticNet,1.0394300352477703,17.39303308783969
+Accuracy-only top five,ElasticNet,2,Ridge,-0.3325015100522279,17.39303308783969
+Accuracy-only top five,ElasticNet,2,LightGBM,0.41871957524590697,17.39303308783969
+Accuracy-only top five,ElasticNet,2,GradientBoosting,-0.5890644208138079,17.39303308783969
+Accuracy-only top five,ElasticNet,2,XGBoost,0.13228258324712944,17.39303308783969
+Accuracy-only top five,ElasticNet,3,ElasticNet,1.075518729747778,13.747893299474601
+Accuracy-only top five,ElasticNet,3,Ridge,-0.4584381164453873,13.747893299474601
+Accuracy-only top five,ElasticNet,3,LightGBM,0.44625732196395856,13.747893299474601
+Accuracy-only top five,ElasticNet,3,GradientBoosting,-0.2574074966933532,13.747893299474601
+Accuracy-only top five,ElasticNet,3,XGBoost,-0.054702090901855044,13.747893299474601
+Accuracy-only top five,ElasticNet,4,ElasticNet,1.2016927757464915,13.400057490191998
+Accuracy-only top five,ElasticNet,4,Ridge,-0.6278774135675989,13.400057490191998
+Accuracy-only top five,ElasticNet,4,LightGBM,0.45176970999851845,13.400057490191998
+Accuracy-only top five,ElasticNet,4,GradientBoosting,-0.4688499010207377,13.400057490191998
+Accuracy-only top five,ElasticNet,4,XGBoost,0.19382703757793454,13.400057490191998
+Accuracy-only top five,ElasticNet,5,ElasticNet,1.067507596253829,13.802435334359206
+Accuracy-only top five,ElasticNet,5,Ridge,-0.5003679411595419,13.802435334359206
+Accuracy-only top five,ElasticNet,5,LightGBM,0.3944602146686552,13.802435334359206
+Accuracy-only top five,ElasticNet,5,GradientBoosting,-0.33258308849436974,13.802435334359206
+Accuracy-only top five,ElasticNet,5,XGBoost,0.11001233039660233,13.802435334359206
+Accuracy-only top five,ElasticNet,6,ElasticNet,1.025349027235992,15.309534432667533
+Accuracy-only top five,ElasticNet,6,Ridge,-0.43161435825365435,15.309534432667533
+Accuracy-only top five,ElasticNet,6,LightGBM,0.3924625115616446,15.309534432667533
+Accuracy-only top five,ElasticNet,6,GradientBoosting,-0.28688556298935614,15.309534432667533
+Accuracy-only top five,ElasticNet,6,XGBoost,1.7471188516706022e-05,15.309534432667533
+Accuracy-only top five,ElasticNet,7,ElasticNet,0.6426769622109396,15.445901635976583
+Accuracy-only top five,ElasticNet,7,Ridge,-0.0,15.445901635976583
+Accuracy-only top five,ElasticNet,7,LightGBM,0.41852982318043735,15.445901635976583
+Accuracy-only top five,ElasticNet,7,GradientBoosting,-0.3638645432258428,15.445901635976583
+Accuracy-only top five,ElasticNet,7,XGBoost,0.008805628671188904,15.445901635976583
+Accuracy-only top five,ElasticNet,8,ElasticNet,0.5708477008672873,10.234848797581996
+Accuracy-only top five,ElasticNet,8,Ridge,0.172366957756271,10.234848797581996
+Accuracy-only top five,ElasticNet,8,LightGBM,0.4628859466660804,10.234848797581996
+Accuracy-only top five,ElasticNet,8,GradientBoosting,-0.28985781700012025,10.234848797581996
+Accuracy-only top five,ElasticNet,8,XGBoost,-0.08755396762823794,10.234848797581996
+Accuracy-only top five,ElasticNet,9,ElasticNet,0.6196887475814246,5.401841259562545
+Accuracy-only top five,ElasticNet,9,Ridge,0.11693530680943544,5.401841259562545
+Accuracy-only top five,ElasticNet,9,LightGBM,0.5261892915991738,5.401841259562545
+Accuracy-only top five,ElasticNet,9,GradientBoosting,-0.20051061872030365,5.401841259562545
+Accuracy-only top five,ElasticNet,9,XGBoost,-0.1390284467891555,5.401841259562545
+Accuracy-only top five,ElasticNet,10,ElasticNet,0.7978754535547693,7.216029892410383
+Accuracy-only top five,ElasticNet,10,Ridge,0.08426860433059123,7.216029892410383
+Accuracy-only top five,ElasticNet,10,LightGBM,0.5195685920282465,7.216029892410383
+Accuracy-only top five,ElasticNet,10,GradientBoosting,-0.5966242337708152,7.216029892410383
+Accuracy-only top five,ElasticNet,10,XGBoost,0.0871003208994325,7.216029892410383
+Accuracy-only top five,ElasticNet,11,ElasticNet,0.6669534677760014,3.83406565152751
+Accuracy-only top five,ElasticNet,11,Ridge,0.04838131421853521,3.83406565152751
+Accuracy-only top five,ElasticNet,11,LightGBM,0.2948398281710375,3.83406565152751
+Accuracy-only top five,ElasticNet,11,GradientBoosting,0.025020095711213226,3.83406565152751
+Accuracy-only top five,ElasticNet,11,XGBoost,-0.09399008942661098,3.83406565152751
+Accuracy-only top five,ElasticNet,12,ElasticNet,0.6061662879596509,3.729269867149746
+Accuracy-only top five,ElasticNet,12,Ridge,0.2159541080311578,3.729269867149746
+Accuracy-only top five,ElasticNet,12,LightGBM,-0.02636824351559501,3.729269867149746
+Accuracy-only top five,ElasticNet,12,GradientBoosting,-0.09257327055039541,3.729269867149746
+Accuracy-only top five,ElasticNet,12,XGBoost,0.2412064825765742,3.729269867149746
+Accuracy-only top five,ElasticNet,13,ElasticNet,0.5042160713815137,5.296017918505569
+Accuracy-only top five,ElasticNet,13,Ridge,0.24755988899803327,5.296017918505569
+Accuracy-only top five,ElasticNet,13,LightGBM,0.18128931366163967,5.296017918505569
+Accuracy-only top five,ElasticNet,13,GradientBoosting,0.04906169460073519,5.296017918505569
+Accuracy-only top five,ElasticNet,13,XGBoost,-0.06657583045320237,5.296017918505569
+Accuracy-only top five,ElasticNet,14,ElasticNet,0.5268832854512722,2.68290838927809
+Accuracy-only top five,ElasticNet,14,Ridge,0.2848909523372194,2.68290838927809
+Accuracy-only top five,ElasticNet,14,LightGBM,-0.038088643075249985,2.68290838927809
+Accuracy-only top five,ElasticNet,14,GradientBoosting,-0.09387537250554323,2.68290838927809
+Accuracy-only top five,ElasticNet,14,XGBoost,0.2875758452573642,2.68290838927809
+Accuracy-only top five,ElasticNet,15,ElasticNet,0.5507804041972435,10.664735876740586
+Accuracy-only top five,ElasticNet,15,Ridge,0.29171915476786575,10.664735876740586
+Accuracy-only top five,ElasticNet,15,LightGBM,-0.03660896305458414,10.664735876740586
+Accuracy-only top five,ElasticNet,15,GradientBoosting,-0.6072026988311318,10.664735876740586
+Accuracy-only top five,ElasticNet,15,XGBoost,0.6208580566986338,10.664735876740586
+Accuracy-only top five,ElasticNet,16,ElasticNet,0.6835319409045636,6.943680948637862
+Accuracy-only top five,ElasticNet,16,Ridge,-0.0,6.943680948637862
+Accuracy-only top five,ElasticNet,16,LightGBM,-0.03523027917413046,6.943680948637862
+Accuracy-only top five,ElasticNet,16,GradientBoosting,0.05355668650876322,6.943680948637862
+Accuracy-only top five,ElasticNet,16,XGBoost,0.19504133679404143,6.943680948637862
+Accuracy-only top five,ElasticNet,17,ElasticNet,0.6705469670978969,8.505061462397336
+Accuracy-only top five,ElasticNet,17,Ridge,0.0,8.505061462397336
+Accuracy-only top five,ElasticNet,17,LightGBM,0.03852925661812925,8.505061462397336
+Accuracy-only top five,ElasticNet,17,GradientBoosting,-0.10631696337166435,8.505061462397336
+Accuracy-only top five,ElasticNet,17,XGBoost,0.2556677198716214,8.505061462397336
+Accuracy-only top five,ElasticNet,18,ElasticNet,0.7196612179555522,5.738870584676761
+Accuracy-only top five,ElasticNet,18,Ridge,0.012960963362897633,5.738870584676761
+Accuracy-only top five,ElasticNet,18,LightGBM,0.03377394813127845,5.738870584676761
+Accuracy-only top five,ElasticNet,18,GradientBoosting,-0.4014142398275518,5.738870584676761
+Accuracy-only top five,ElasticNet,18,XGBoost,0.5512121302008628,5.738870584676761
+Accuracy-only top five,ElasticNet,19,ElasticNet,0.6913576850877179,-2.093558291508053
+Accuracy-only top five,ElasticNet,19,Ridge,-0.0,-2.093558291508053
+Accuracy-only top five,ElasticNet,19,LightGBM,-0.11406661477745403,-2.093558291508053
+Accuracy-only top five,ElasticNet,19,GradientBoosting,-0.16275086729030505,-2.093558291508053
+Accuracy-only top five,ElasticNet,19,XGBoost,0.6586089200525593,-2.093558291508053
+Accuracy-only top five,ElasticNet,20,ElasticNet,0.49102018583955986,-4.972289656818596
+Accuracy-only top five,ElasticNet,20,Ridge,0.26768804096601145,-4.972289656818596
+Accuracy-only top five,ElasticNet,20,LightGBM,-0.1922294128537902,-4.972289656818596
+Accuracy-only top five,ElasticNet,20,GradientBoosting,-0.0,-4.972289656818596
+Accuracy-only top five,ElasticNet,20,XGBoost,0.5520809264523956,-4.972289656818596
+Accuracy-only top five,ElasticNet,21,ElasticNet,0.45160281975297917,-2.7843833904575774
+Accuracy-only top five,ElasticNet,21,Ridge,0.36351726236772286,-2.7843833904575774
+Accuracy-only top five,ElasticNet,21,LightGBM,-0.0,-2.7843833904575774
+Accuracy-only top five,ElasticNet,21,GradientBoosting,0.10786952872343203,-2.7843833904575774
+Accuracy-only top five,ElasticNet,21,XGBoost,0.14957058505016937,-2.7843833904575774
+Accuracy-only top five,ElasticNet,22,ElasticNet,0.6060860721353695,6.477541905065564
+Accuracy-only top five,ElasticNet,22,Ridge,0.21206391286801193,6.477541905065564
+Accuracy-only top five,ElasticNet,22,LightGBM,0.18676242827072245,6.477541905065564
+Accuracy-only top five,ElasticNet,22,GradientBoosting,-0.2739528093212462,6.477541905065564
+Accuracy-only top five,ElasticNet,22,XGBoost,0.1745846059275216,6.477541905065564
+Accuracy-only top five,ElasticNet,23,ElasticNet,0.8935121527664053,9.406881623263942
+Accuracy-only top five,ElasticNet,23,Ridge,-0.01608295961804136,9.406881623263942
+Accuracy-only top five,ElasticNet,23,LightGBM,0.10676041439076951,9.406881623263942
+Accuracy-only top five,ElasticNet,23,GradientBoosting,0.08078073605951863,9.406881623263942
+Accuracy-only top five,ElasticNet,23,XGBoost,-0.21741766270176638,9.406881623263942
+Accuracy-only top five,ElasticNet,24,ElasticNet,1.2082317456474236,11.982899533359003
+Accuracy-only top five,ElasticNet,24,Ridge,-0.26504279544346343,11.982899533359003
+Accuracy-only top five,ElasticNet,24,LightGBM,-0.4005699935253928,11.982899533359003
+Accuracy-only top five,ElasticNet,24,GradientBoosting,-0.010456111882005431,11.982899533359003
+Accuracy-only top five,ElasticNet,24,XGBoost,0.27046969745771654,11.982899533359003
+All 12 models,Ridge,1,LinearRegression,-0.03533904949977992,18.67577234726196
+All 12 models,Ridge,1,Ridge,-0.5911610059350111,18.67577234726196
+All 12 models,Ridge,1,ElasticNet,1.259486324724146,18.67577234726196
+All 12 models,Ridge,1,GradientBoosting,-0.42440503383118633,18.67577234726196
+All 12 models,Ridge,1,RandomForest,-0.22256918731809444,18.67577234726196
+All 12 models,Ridge,1,XGBoost,0.21354580095720718,18.67577234726196
+All 12 models,Ridge,1,LightGBM,0.17676723340804695,18.67577234726196
+All 12 models,Ridge,1,Bagging,0.21219836956444096,18.67577234726196
+All 12 models,Ridge,1,GRU,-0.2743697921665024,18.67577234726196
+All 12 models,Ridge,1,LSTM,0.07570399704495613,18.67577234726196
+All 12 models,Ridge,1,ETS_day,0.18766869718338253,18.67577234726196
+All 12 models,Ridge,1,Naive_day,0.0672359652695106,18.67577234726196
+All 12 models,Ridge,2,LinearRegression,-0.009420912525966363,20.259037326856042
+All 12 models,Ridge,2,Ridge,-0.9550415603425491,20.259037326856042
+All 12 models,Ridge,2,ElasticNet,1.5134658771183787,20.259037326856042
+All 12 models,Ridge,2,GradientBoosting,-0.7322427676267234,20.259037326856042
+All 12 models,Ridge,2,RandomForest,-0.4116315534339797,20.259037326856042
+All 12 models,Ridge,2,XGBoost,0.2726320686964314,20.259037326856042
+All 12 models,Ridge,2,LightGBM,0.3863863365403936,20.259037326856042
+All 12 models,Ridge,2,Bagging,0.4964138377604093,20.259037326856042
+All 12 models,Ridge,2,GRU,-0.2600231803784661,20.259037326856042
+All 12 models,Ridge,2,LSTM,0.0434225220015786,20.259037326856042
+All 12 models,Ridge,2,ETS_day,0.116042870789215,20.259037326856042
+All 12 models,Ridge,2,Naive_day,0.13039569356694156,20.259037326856042
+All 12 models,Ridge,3,LinearRegression,-0.028327509128969447,18.482676586106862
+All 12 models,Ridge,3,Ridge,-1.198303080872155,18.482676586106862
+All 12 models,Ridge,3,ElasticNet,1.7311288950152461,18.482676586106862
+All 12 models,Ridge,3,GradientBoosting,-0.3251769599856979,18.482676586106862
+All 12 models,Ridge,3,RandomForest,-0.4420784025645756,18.482676586106862
+All 12 models,Ridge,3,XGBoost,0.005270541531049964,18.482676586106862
+All 12 models,Ridge,3,LightGBM,0.4769539366862581,18.482676586106862
+All 12 models,Ridge,3,Bagging,0.49557001707913434,18.482676586106862
+All 12 models,Ridge,3,GRU,-0.306560462528429,18.482676586106862
+All 12 models,Ridge,3,LSTM,0.03189699138780261,18.482676586106862
+All 12 models,Ridge,3,ETS_day,0.07397582180561522,18.482676586106862
+All 12 models,Ridge,3,Naive_day,0.11241367543835339,18.482676586106862
+All 12 models,Ridge,4,LinearRegression,0.0032301741554868527,15.323057599879917
+All 12 models,Ridge,4,Ridge,-1.3890947818864907,15.323057599879917
+All 12 models,Ridge,4,ElasticNet,1.7345388694822041,15.323057599879917
+All 12 models,Ridge,4,GradientBoosting,-0.5557146229277765,15.323057599879917
+All 12 models,Ridge,4,RandomForest,-0.5936101046777688,15.323057599879917
+All 12 models,Ridge,4,XGBoost,0.27155261253722696,15.323057599879917
+All 12 models,Ridge,4,LightGBM,0.4833465919869486,15.323057599879917
+All 12 models,Ridge,4,Bagging,0.4819543694954382,15.323057599879917
+All 12 models,Ridge,4,GRU,0.018691517198184942,15.323057599879917
+All 12 models,Ridge,4,LSTM,0.03602237182995021,15.323057599879917
+All 12 models,Ridge,4,ETS_day,0.043272984847527965,15.323057599879917
+All 12 models,Ridge,4,Naive_day,0.15343879970361224,15.323057599879917
+All 12 models,Ridge,5,LinearRegression,0.009473736326986868,14.442852531324078
+All 12 models,Ridge,5,Ridge,-1.2247888578284314,14.442852531324078
+All 12 models,Ridge,5,ElasticNet,1.5668222469724695,14.442852531324078
+All 12 models,Ridge,5,GradientBoosting,-0.42028433058001335,14.442852531324078
+All 12 models,Ridge,5,RandomForest,-0.5706037276861377,14.442852531324078
+All 12 models,Ridge,5,XGBoost,0.18278913524772886,14.442852531324078
+All 12 models,Ridge,5,LightGBM,0.41542038040084833,14.442852531324078
+All 12 models,Ridge,5,Bagging,0.46028983025243864,14.442852531324078
+All 12 models,Ridge,5,GRU,0.08984542032051383,14.442852531324078
+All 12 models,Ridge,5,LSTM,0.02123117230207153,14.442852531324078
+All 12 models,Ridge,5,ETS_day,0.009441761972414421,14.442852531324078
+All 12 models,Ridge,5,Naive_day,0.1688407103214557,14.442852531324078
+All 12 models,Ridge,6,LinearRegression,-0.048657254282839846,16.772997766104364
+All 12 models,Ridge,6,Ridge,-1.0953300671602808,16.772997766104364
+All 12 models,Ridge,6,ElasticNet,1.6020301938820833,16.772997766104364
+All 12 models,Ridge,6,GradientBoosting,-0.4416574074679336,16.772997766104364
+All 12 models,Ridge,6,RandomForest,-0.43122759326645066,16.772997766104364
+All 12 models,Ridge,6,XGBoost,0.11458880488208976,16.772997766104364
+All 12 models,Ridge,6,LightGBM,0.41692327384006483,16.772997766104364
+All 12 models,Ridge,6,Bagging,0.3822887942482593,16.772997766104364
+All 12 models,Ridge,6,GRU,-0.0768592668804466,16.772997766104364
+All 12 models,Ridge,6,LSTM,0.058752503203309804,16.772997766104364
+All 12 models,Ridge,6,ETS_day,0.0007334939497950986,16.772997766104364
+All 12 models,Ridge,6,Naive_day,0.16649471514666705,16.772997766104364
+All 12 models,Ridge,7,LinearRegression,-0.038985493849822986,17.63308849022166
+All 12 models,Ridge,7,Ridge,-0.44129316257725826,17.63308849022166
+All 12 models,Ridge,7,ElasticNet,1.1384076898012947,17.63308849022166
+All 12 models,Ridge,7,GradientBoosting,-0.42228530243141904,17.63308849022166
+All 12 models,Ridge,7,RandomForest,-0.003498618684042995,17.63308849022166
+All 12 models,Ridge,7,XGBoost,0.06968729477887171,17.63308849022166
+All 12 models,Ridge,7,LightGBM,0.44460886646369935,17.63308849022166
+All 12 models,Ridge,7,Bagging,-0.006978592166010992,17.63308849022166
+All 12 models,Ridge,7,GRU,-0.2456986654928962,17.63308849022166
+All 12 models,Ridge,7,LSTM,0.07794992831718289,17.63308849022166
+All 12 models,Ridge,7,ETS_day,-0.018951706374929354,17.63308849022166
+All 12 models,Ridge,7,Naive_day,0.0928376210088636,17.63308849022166
+All 12 models,Ridge,8,LinearRegression,0.001771220973074928,12.284162618806995
+All 12 models,Ridge,8,Ridge,-0.02497673657788756,12.284162618806995
+All 12 models,Ridge,8,ElasticNet,0.8626267874494937,12.284162618806995
+All 12 models,Ridge,8,GradientBoosting,-0.14033724152990612,12.284162618806995
+All 12 models,Ridge,8,RandomForest,0.05527397672686472,12.284162618806995
+All 12 models,Ridge,8,XGBoost,-0.09404526788931858,12.284162618806995
+All 12 models,Ridge,8,LightGBM,0.44144645242016006,12.284162618806995
+All 12 models,Ridge,8,Bagging,-0.011838582812438178,12.284162618806995
+All 12 models,Ridge,8,GRU,-0.3582254836877926,12.284162618806995
+All 12 models,Ridge,8,LSTM,0.04358481816315054,12.284162618806995
+All 12 models,Ridge,8,ETS_day,-0.0739872745067938,12.284162618806995
+All 12 models,Ridge,8,Naive_day,0.07414694375109826,12.284162618806995
+All 12 models,Ridge,9,LinearRegression,0.05972191860478849,13.544553732546817
+All 12 models,Ridge,9,Ridge,-0.064073001093611,13.544553732546817
+All 12 models,Ridge,9,ElasticNet,0.8161035351170508,13.544553732546817
+All 12 models,Ridge,9,GradientBoosting,-0.12475733147636432,13.544553732546817
+All 12 models,Ridge,9,RandomForest,-0.4687700325564826,13.544553732546817
+All 12 models,Ridge,9,XGBoost,-0.04144449823670086,13.544553732546817
+All 12 models,Ridge,9,LightGBM,0.5422116033683478,13.544553732546817
+All 12 models,Ridge,9,Bagging,0.3834579677288138,13.544553732546817
+All 12 models,Ridge,9,GRU,-0.6098434674134495,13.544553732546817
+All 12 models,Ridge,9,LSTM,0.2583411517433435,13.544553732546817
+All 12 models,Ridge,9,ETS_day,-0.036200252415303724,13.544553732546817
+All 12 models,Ridge,9,Naive_day,0.04323983904667178,13.544553732546817
+All 12 models,Ridge,10,LinearRegression,0.10367472154998766,16.21151893748396
+All 12 models,Ridge,10,Ridge,-0.15301684656316586,16.21151893748396
+All 12 models,Ridge,10,ElasticNet,0.9309902768407966,16.21151893748396
+All 12 models,Ridge,10,GradientBoosting,-0.53723520869625,16.21151893748396
+All 12 models,Ridge,10,RandomForest,-0.5637516406071391,16.21151893748396
+All 12 models,Ridge,10,XGBoost,0.31501103414885684,16.21151893748396
+All 12 models,Ridge,10,LightGBM,0.5025612489178874,16.21151893748396
+All 12 models,Ridge,10,Bagging,0.37834049414976606,16.21151893748396
+All 12 models,Ridge,10,GRU,-0.34217767657813264,16.21151893748396
+All 12 models,Ridge,10,LSTM,0.03498909865236174,16.21151893748396
+All 12 models,Ridge,10,ETS_day,-0.003964864748321325,16.21151893748396
+All 12 models,Ridge,10,Naive_day,0.06245739800432863,16.21151893748396
+All 12 models,Ridge,11,LinearRegression,0.1631753495372597,9.690876631088997
+All 12 models,Ridge,11,Ridge,-0.20828470417354902,9.690876631088997
+All 12 models,Ridge,11,ElasticNet,0.760490904450881,9.690876631088997
+All 12 models,Ridge,11,GradientBoosting,0.11066748730435663,9.690876631088997
+All 12 models,Ridge,11,RandomForest,-0.2864055176196798,9.690876631088997
+All 12 models,Ridge,11,XGBoost,-0.003182487509867953,9.690876631088997
+All 12 models,Ridge,11,LightGBM,0.3013536430773554,9.690876631088997
+All 12 models,Ridge,11,Bagging,0.12243700607868763,9.690876631088997
+All 12 models,Ridge,11,GRU,-0.3675189598293426,9.690876631088997
+All 12 models,Ridge,11,LSTM,0.2104360462697059,9.690876631088997
+All 12 models,Ridge,11,ETS_day,0.004299925358396794,9.690876631088997
+All 12 models,Ridge,11,Naive_day,0.02512703882971779,9.690876631088997
+All 12 models,Ridge,12,LinearRegression,0.10073270850922958,8.985482261820884
+All 12 models,Ridge,12,Ridge,-0.020821685937303904,8.985482261820884
+All 12 models,Ridge,12,ElasticNet,0.622094300314672,8.985482261820884
+All 12 models,Ridge,12,GradientBoosting,-0.0022853222919126358,8.985482261820884
+All 12 models,Ridge,12,RandomForest,-0.31220678610890906,8.985482261820884
+All 12 models,Ridge,12,XGBoost,0.4476294624640954,8.985482261820884
+All 12 models,Ridge,12,LightGBM,-0.03164664223680906,8.985482261820884
+All 12 models,Ridge,12,Bagging,-0.02071081785966921,8.985482261820884
+All 12 models,Ridge,12,GRU,-0.06797464690429145,8.985482261820884
+All 12 models,Ridge,12,LSTM,0.06242307979822961,8.985482261820884
+All 12 models,Ridge,12,ETS_day,0.010157811145238251,8.985482261820884
+All 12 models,Ridge,12,Naive_day,0.0604537784365284,8.985482261820884
+All 12 models,Ridge,13,LinearRegression,0.07198839121796359,10.268013473393424
+All 12 models,Ridge,13,Ridge,0.05549824740922383,10.268013473393424
+All 12 models,Ridge,13,ElasticNet,0.7198160204289665,10.268013473393424
+All 12 models,Ridge,13,GradientBoosting,0.16173994084900786,10.268013473393424
+All 12 models,Ridge,13,RandomForest,-0.2797974170707636,10.268013473393424
+All 12 models,Ridge,13,XGBoost,0.08850331548921808,10.268013473393424
+All 12 models,Ridge,13,LightGBM,0.14640704518534237,10.268013473393424
+All 12 models,Ridge,13,Bagging,0.1222951293337273,10.268013473393424
+All 12 models,Ridge,13,GRU,-0.5274027250407396,10.268013473393424
+All 12 models,Ridge,13,LSTM,0.2884022762803876,10.268013473393424
+All 12 models,Ridge,13,ETS_day,0.004606337251603936,10.268013473393424
+All 12 models,Ridge,13,Naive_day,-0.024665039258388314,10.268013473393424
+All 12 models,Ridge,14,LinearRegression,0.04089605559921453,9.658943483854259
+All 12 models,Ridge,14,Ridge,-0.023372716172787928,9.658943483854259
+All 12 models,Ridge,14,ElasticNet,0.6385679617388854,9.658943483854259
+All 12 models,Ridge,14,GradientBoosting,-0.026775524401416815,9.658943483854259
+All 12 models,Ridge,14,RandomForest,-0.4425799760115645,9.658943483854259
+All 12 models,Ridge,14,XGBoost,0.6499176777070791,9.658943483854259
+All 12 models,Ridge,14,LightGBM,-0.029017733486756136,9.658943483854259
+All 12 models,Ridge,14,Bagging,0.01829723903739855,9.658943483854259
+All 12 models,Ridge,14,GRU,-0.3418457958339011,9.658943483854259
+All 12 models,Ridge,14,LSTM,0.19848156670391714,9.658943483854259
+All 12 models,Ridge,14,ETS_day,0.02598981236133571,9.658943483854259
+All 12 models,Ridge,14,Naive_day,0.13174772088927522,9.658943483854259
+All 12 models,Ridge,15,LinearRegression,0.02622377016765926,20.272045218092714
+All 12 models,Ridge,15,Ridge,0.102248501616253,20.272045218092714
+All 12 models,Ridge,15,ElasticNet,0.5294586810774902,20.272045218092714
+All 12 models,Ridge,15,GradientBoosting,-0.4903527775426871,20.272045218092714
+All 12 models,Ridge,15,RandomForest,-0.8130262958997028,20.272045218092714
+All 12 models,Ridge,15,XGBoost,0.9368400613987051,20.272045218092714
+All 12 models,Ridge,15,LightGBM,0.010513236916564793,20.272045218092714
+All 12 models,Ridge,15,Bagging,0.46567773431898934,20.272045218092714
+All 12 models,Ridge,15,GRU,-0.4755899753591492,20.272045218092714
+All 12 models,Ridge,15,LSTM,0.1888925900410383,20.272045218092714
+All 12 models,Ridge,15,ETS_day,0.04099222454953572,20.272045218092714
+All 12 models,Ridge,15,Naive_day,0.10254735767027104,20.272045218092714
+All 12 models,Ridge,16,LinearRegression,0.032231901143135774,16.925642817513435
+All 12 models,Ridge,16,Ridge,-0.7455859089759554,16.925642817513435
+All 12 models,Ridge,16,ElasticNet,1.233497754286995,16.925642817513435
+All 12 models,Ridge,16,GradientBoosting,0.2608275008700058,16.925642817513435
+All 12 models,Ridge,16,RandomForest,-0.4525534685903387,16.925642817513435
+All 12 models,Ridge,16,XGBoost,0.41705466407345904,16.925642817513435
+All 12 models,Ridge,16,LightGBM,-0.03457620960132335,16.925642817513435
+All 12 models,Ridge,16,Bagging,0.20420845064337406,16.925642817513435
+All 12 models,Ridge,16,GRU,-0.6274847337173215,16.925642817513435
+All 12 models,Ridge,16,LSTM,0.212880570706838,16.925642817513435
+All 12 models,Ridge,16,ETS_day,0.029153528470623333,16.925642817513435
+All 12 models,Ridge,16,Naive_day,0.1440421027851214,16.925642817513435
+All 12 models,Ridge,17,LinearRegression,0.025459192985546823,10.111958671712081
+All 12 models,Ridge,17,Ridge,-0.5131495745687003,10.111958671712081
+All 12 models,Ridge,17,ElasticNet,0.8947003369004595,10.111958671712081
+All 12 models,Ridge,17,GradientBoosting,0.08126953256824314,10.111958671712081
+All 12 models,Ridge,17,RandomForest,-0.4212523486895713,10.111958671712081
+All 12 models,Ridge,17,XGBoost,0.362280600164416,10.111958671712081
+All 12 models,Ridge,17,LightGBM,0.02803290487640321,10.111958671712081
+All 12 models,Ridge,17,Bagging,0.1556342683945072,10.111958671712081
+All 12 models,Ridge,17,GRU,-0.0986978871248947,10.111958671712081
+All 12 models,Ridge,17,LSTM,0.09999227381217726,10.111958671712081
+All 12 models,Ridge,17,ETS_day,0.01170405000274163,10.111958671712081
+All 12 models,Ridge,17,Naive_day,0.19809428407584612,10.111958671712081
+All 12 models,Ridge,18,LinearRegression,0.0232093603552498,10.514067379612385
+All 12 models,Ridge,18,Ridge,-0.5872002644534196,10.514067379612385
+All 12 models,Ridge,18,ElasticNet,1.0059089396764236,10.514067379612385
+All 12 models,Ridge,18,GradientBoosting,-0.1768356960096493,10.514067379612385
+All 12 models,Ridge,18,RandomForest,-0.8781805486850958,10.514067379612385
+All 12 models,Ridge,18,XGBoost,0.770407610662178,10.514067379612385
+All 12 models,Ridge,18,LightGBM,-0.049053076872430545,10.514067379612385
+All 12 models,Ridge,18,Bagging,0.551090134949186,10.514067379612385
+All 12 models,Ridge,18,GRU,-0.11973439555267347,10.514067379612385
+All 12 models,Ridge,18,LSTM,0.024627231992894193,10.514067379612385
+All 12 models,Ridge,18,ETS_day,0.0003469856263439531,10.514067379612385
+All 12 models,Ridge,18,Naive_day,0.2607773172790797,10.514067379612385
+All 12 models,Ridge,19,LinearRegression,0.18325732528079738,2.314510008318571
+All 12 models,Ridge,19,Ridge,-0.7016848656253115,2.314510008318571
+All 12 models,Ridge,19,ElasticNet,0.7588470321524488,2.314510008318571
+All 12 models,Ridge,19,GradientBoosting,0.15263839853345956,2.314510008318571
+All 12 models,Ridge,19,RandomForest,-0.6826052788447466,2.314510008318571
+All 12 models,Ridge,19,XGBoost,0.7424058329586786,2.314510008318571
+All 12 models,Ridge,19,LightGBM,-0.19432470475663693,2.314510008318571
+All 12 models,Ridge,19,Bagging,0.39282060664807356,2.314510008318571
+All 12 models,Ridge,19,GRU,-0.04829894132634507,2.314510008318571
+All 12 models,Ridge,19,LSTM,0.08437156872638735,2.314510008318571
+All 12 models,Ridge,19,ETS_day,-0.02709481202633824,2.314510008318571
+All 12 models,Ridge,19,Naive_day,0.33475362393373825,2.314510008318571
+All 12 models,Ridge,20,LinearRegression,0.1544765703366207,5.994913942705644
+All 12 models,Ridge,20,Ridge,-0.028564246902528016,5.994913942705644
+All 12 models,Ridge,20,ElasticNet,0.33426517492183344,5.994913942705644
+All 12 models,Ridge,20,GradientBoosting,0.306816526278701,5.994913942705644
+All 12 models,Ridge,20,RandomForest,-0.37317121013567806,5.994913942705644
+All 12 models,Ridge,20,XGBoost,0.5251090992657576,5.994913942705644
+All 12 models,Ridge,20,LightGBM,-0.19788351085815595,5.994913942705644
+All 12 models,Ridge,20,Bagging,0.008523805299966367,5.994913942705644
+All 12 models,Ridge,20,GRU,-0.17605542157280665,5.994913942705644
+All 12 models,Ridge,20,LSTM,0.11410669132440386,5.994913942705644
+All 12 models,Ridge,20,ETS_day,-0.013791174738325836,5.994913942705644
+All 12 models,Ridge,20,Naive_day,0.2667970104822976,5.994913942705644
+All 12 models,Ridge,21,LinearRegression,0.14286590112801525,14.099613805123823
+All 12 models,Ridge,21,Ridge,0.059521566555571684,14.099613805123823
+All 12 models,Ridge,21,ElasticNet,0.1794319922340515,14.099613805123823
+All 12 models,Ridge,21,GradientBoosting,0.3436915635493882,14.099613805123823
+All 12 models,Ridge,21,RandomForest,-0.0929953255848872,14.099613805123823
+All 12 models,Ridge,21,XGBoost,0.2776231969036988,14.099613805123823
+All 12 models,Ridge,21,LightGBM,-0.05673021648355481,14.099613805123823
+All 12 models,Ridge,21,Bagging,-0.3136287403811352,14.099613805123823
+All 12 models,Ridge,21,GRU,-0.2436064188611977,14.099613805123823
+All 12 models,Ridge,21,LSTM,0.10241657350980725,14.099613805123823
+All 12 models,Ridge,21,ETS_day,0.006047661036800948,14.099613805123823
+All 12 models,Ridge,21,Naive_day,0.3579804251627204,14.099613805123823
+All 12 models,Ridge,22,LinearRegression,0.0637534140840931,14.339636035676321
+All 12 models,Ridge,22,Ridge,0.22337913825638828,14.339636035676321
+All 12 models,Ridge,22,ElasticNet,0.000599752924927994,14.339636035676321
+All 12 models,Ridge,22,GradientBoosting,-0.2561629989595246,14.339636035676321
+All 12 models,Ridge,22,RandomForest,0.06728813446860311,14.339636035676321
+All 12 models,Ridge,22,XGBoost,0.4876570189887122,14.339636035676321
+All 12 models,Ridge,22,LightGBM,0.1469790571228571,14.339636035676321
+All 12 models,Ridge,22,Bagging,-0.45652258385740224,14.339636035676321
+All 12 models,Ridge,22,GRU,-0.03130592146828698,14.339636035676321
+All 12 models,Ridge,22,LSTM,0.06621332951952245,14.339636035676321
+All 12 models,Ridge,22,ETS_day,0.0031792418321721517,14.339636035676321
+All 12 models,Ridge,22,Naive_day,0.4473100593961856,14.339636035676321
+All 12 models,Ridge,23,LinearRegression,0.017849667525431264,15.310031417958491
+All 12 models,Ridge,23,Ridge,-0.1593152449590542,15.310031417958491
+All 12 models,Ridge,23,ElasticNet,0.5243950478685682,15.310031417958491
+All 12 models,Ridge,23,GradientBoosting,0.23362770127053453,15.310031417958491
+All 12 models,Ridge,23,RandomForest,0.043592736190134686,15.310031417958491
+All 12 models,Ridge,23,XGBoost,-0.005308804909672273,15.310031417958491
+All 12 models,Ridge,23,LightGBM,-0.01113846994195741,15.310031417958491
+All 12 models,Ridge,23,Bagging,-0.2945051544149849,15.310031417958491
+All 12 models,Ridge,23,GRU,-0.12458921715340722,15.310031417958491
+All 12 models,Ridge,23,LSTM,0.07996485266222396,15.310031417958491
+All 12 models,Ridge,23,ETS_day,-0.03810946076868668,15.310031417958491
+All 12 models,Ridge,23,Naive_day,0.46008258574309757,15.310031417958491
+All 12 models,Ridge,24,LinearRegression,0.08113196146339159,21.09419219506512
+All 12 models,Ridge,24,Ridge,-0.6664758916027108,21.09419219506512
+All 12 models,Ridge,24,ElasticNet,1.1214844335983067,21.09419219506512
+All 12 models,Ridge,24,GradientBoosting,0.014143184400874746,21.09419219506512
+All 12 models,Ridge,24,RandomForest,0.09173467870374784,21.09419219506512
+All 12 models,Ridge,24,XGBoost,0.5352048251991842,21.09419219506512
+All 12 models,Ridge,24,LightGBM,-0.4496127550938355,21.09419219506512
+All 12 models,Ridge,24,Bagging,-0.391343998914084,21.09419219506512
+All 12 models,Ridge,24,GRU,0.07615532381743542,21.09419219506512
+All 12 models,Ridge,24,LSTM,-0.1538199588452224,21.09419219506512
+All 12 models,Ridge,24,ETS_day,-0.05733778787796178,21.09419219506512
+All 12 models,Ridge,24,Naive_day,0.393041633137092,21.09419219506512
+All 12 models,ElasticNet,1,LinearRegression,-0.037266962872728016,18.34669468033826
+All 12 models,ElasticNet,1,Ridge,-0.21615925883242063,18.34669468033826
+All 12 models,ElasticNet,1,ElasticNet,0.8794551727427473,18.34669468033826
+All 12 models,ElasticNet,1,GradientBoosting,-0.3737455752098436,18.34669468033826
+All 12 models,ElasticNet,1,RandomForest,-0.17057900312938068,18.34669468033826
+All 12 models,ElasticNet,1,XGBoost,0.18184915746192004,18.34669468033826
+All 12 models,ElasticNet,1,LightGBM,0.17640707356012883,18.34669468033826
+All 12 models,ElasticNet,1,Bagging,0.15754770026001158,18.34669468033826
+All 12 models,ElasticNet,1,GRU,-0.2576033187094678,18.34669468033826
+All 12 models,ElasticNet,1,LSTM,0.061786444103739555,18.34669468033826
+All 12 models,ElasticNet,1,ETS_day,0.1925913129703542,18.34669468033826
+All 12 models,ElasticNet,1,Naive_day,0.058986875858467715,18.34669468033826
+All 12 models,ElasticNet,2,LinearRegression,-0.012545474932558991,19.90517765814744
+All 12 models,ElasticNet,2,Ridge,-0.4566129800924237,19.90517765814744
+All 12 models,ElasticNet,2,ElasticNet,1.008006214619601,19.90517765814744
+All 12 models,ElasticNet,2,GradientBoosting,-0.6776643045333475,19.90517765814744
+All 12 models,ElasticNet,2,RandomForest,-0.33313963486124754,19.90517765814744
+All 12 models,ElasticNet,2,XGBoost,0.236902653027453,19.90517765814744
+All 12 models,ElasticNet,2,LightGBM,0.39087103033461723,19.90517765814744
+All 12 models,ElasticNet,2,Bagging,0.4135375472886042,19.90517765814744
+All 12 models,ElasticNet,2,GRU,-0.2411482069197495,19.90517765814744
+All 12 models,ElasticNet,2,LSTM,0.027625138181053655,19.90517765814744
+All 12 models,ElasticNet,2,ETS_day,0.12256622056581772,19.90517765814744
+All 12 models,ElasticNet,2,Naive_day,0.12056617034987989,19.90517765814744
+All 12 models,ElasticNet,3,LinearRegression,-0.032565339085018755,18.05967356969613
+All 12 models,ElasticNet,3,Ridge,-0.6464170573995247,18.05967356969613
+All 12 models,ElasticNet,3,ElasticNet,1.1763783108575112,18.05967356969613
+All 12 models,ElasticNet,3,GradientBoosting,-0.27673187490541473,18.05967356969613
+All 12 models,ElasticNet,3,RandomForest,-0.35628112664622263,18.05967356969613
+All 12 models,ElasticNet,3,XGBoost,-0.009869208569705442,18.05967356969613
+All 12 models,ElasticNet,3,LightGBM,0.46298224490524026,18.05967356969613
+All 12 models,ElasticNet,3,Bagging,0.40207923966257264,18.05967356969613
+All 12 models,ElasticNet,3,GRU,-0.2792213580007312,18.05967356969613
+All 12 models,ElasticNet,3,LSTM,0.01137188046217708,18.05967356969613
+All 12 models,ElasticNet,3,ETS_day,0.08267856941514774,18.05967356969613
+All 12 models,ElasticNet,3,Naive_day,0.1016805660853114,18.05967356969613
+All 12 models,ElasticNet,4,LinearRegression,-0.00476610843745837,15.27697277570817
+All 12 models,ElasticNet,4,Ridge,-0.8326926639749533,15.27697277570817
+All 12 models,ElasticNet,4,ElasticNet,1.187536897411458,15.27697277570817
+All 12 models,ElasticNet,4,GradientBoosting,-0.4861140057875259,15.27697277570817
+All 12 models,ElasticNet,4,RandomForest,-0.5131221725244943,15.27697277570817
+All 12 models,ElasticNet,4,XGBoost,0.24544735103810186,15.27697277570817
+All 12 models,ElasticNet,4,LightGBM,0.4703539775120139,15.27697277570817
+All 12 models,ElasticNet,4,Bagging,0.3970073541962688,15.27697277570817
+All 12 models,ElasticNet,4,GRU,0.017332806156974984,15.27697277570817
+All 12 models,ElasticNet,4,LSTM,0.00990387043167193,15.27697277570817
+All 12 models,ElasticNet,4,ETS_day,0.052262112929796774,15.27697277570817
+All 12 models,ElasticNet,4,Naive_day,0.14401087665980605,15.27697277570817
+All 12 models,ElasticNet,5,LinearRegression,0.0009370780215850459,14.268144350251621
+All 12 models,ElasticNet,5,Ridge,-0.7273613133882216,14.268144350251621
+All 12 models,ElasticNet,5,ElasticNet,1.0760942591567502,14.268144350251621
+All 12 models,ElasticNet,5,GradientBoosting,-0.36810718992592906,14.268144350251621
+All 12 models,ElasticNet,5,RandomForest,-0.49463123990971775,14.268144350251621
+All 12 models,ElasticNet,5,XGBoost,0.16402701303371856,14.268144350251621
+All 12 models,ElasticNet,5,LightGBM,0.40456290270427403,14.268144350251621
+All 12 models,ElasticNet,5,Bagging,0.3807399954732047,14.268144350251621
+All 12 models,ElasticNet,5,GRU,0.09905435355766845,14.268144350251621
+All 12 models,ElasticNet,5,LSTM,0.00018614798647077709,14.268144350251621
+All 12 models,ElasticNet,5,ETS_day,0.01597268655438391,14.268144350251621
+All 12 models,ElasticNet,5,Naive_day,0.16053267817580624,14.268144350251621
+All 12 models,ElasticNet,6,LinearRegression,-0.050201961755994756,16.31903177616205
+All 12 models,ElasticNet,6,Ridge,-0.6064672704355635,16.31903177616205
+All 12 models,ElasticNet,6,ElasticNet,1.1124340859035342,16.31903177616205
+All 12 models,ElasticNet,6,GradientBoosting,-0.38514661560098223,16.31903177616205
+All 12 models,ElasticNet,6,RandomForest,-0.35934263865494004,16.31903177616205
+All 12 models,ElasticNet,6,XGBoost,0.0870953616634548,16.31903177616205
+All 12 models,ElasticNet,6,LightGBM,0.406946613879457,16.31903177616205
+All 12 models,ElasticNet,6,Bagging,0.3107923013047029,16.31903177616205
+All 12 models,ElasticNet,6,GRU,-0.056635611484628534,16.31903177616205
+All 12 models,ElasticNet,6,LSTM,0.037421901560356484,16.31903177616205
+All 12 models,ElasticNet,6,ETS_day,0.004248952928606975,16.31903177616205
+All 12 models,ElasticNet,6,Naive_day,0.15870302922775584,16.31903177616205
+All 12 models,ElasticNet,7,LinearRegression,-0.03612478144456321,17.024970288019347
+All 12 models,ElasticNet,7,Ridge,-0.10202053595757225,17.024970288019347
+All 12 models,ElasticNet,7,ElasticNet,0.7851831021714302,17.024970288019347
+All 12 models,ElasticNet,7,GradientBoosting,-0.38022913121286694,17.024970288019347
+All 12 models,ElasticNet,7,RandomForest,-0.004159652602919927,17.024970288019347
+All 12 models,ElasticNet,7,XGBoost,0.05077065415054618,17.024970288019347
+All 12 models,ElasticNet,7,LightGBM,0.4337212976770884,17.024970288019347
+All 12 models,ElasticNet,7,Bagging,-0.0003297320149603777,17.024970288019347
+All 12 models,ElasticNet,7,GRU,-0.2203355390871968,17.024970288019347
+All 12 models,ElasticNet,7,LSTM,0.05989991386415619,17.024970288019347
+All 12 models,ElasticNet,7,ETS_day,-0.01713562533149749,17.024970288019347
+All 12 models,ElasticNet,7,Naive_day,0.09113338051550686,17.024970288019347
+All 12 models,ElasticNet,8,LinearRegression,0.007729051075352157,12.138476639142617
+All 12 models,ElasticNet,8,Ridge,0.12624056990274457,12.138476639142617
+All 12 models,ElasticNet,8,ElasticNet,0.6920036983741387,12.138476639142617
+All 12 models,ElasticNet,8,GradientBoosting,-0.12010529163156085,12.138476639142617
+All 12 models,ElasticNet,8,RandomForest,0.03202753388116327,12.138476639142617
+All 12 models,ElasticNet,8,XGBoost,-0.0796362175912155,12.138476639142617
+All 12 models,ElasticNet,8,LightGBM,0.42514621320181534,12.138476639142617
+All 12 models,ElasticNet,8,Bagging,0.0,12.138476639142617
+All 12 models,ElasticNet,8,GRU,-0.3454839270977335,12.138476639142617
+All 12 models,ElasticNet,8,LSTM,0.03617115964274771,12.138476639142617
+All 12 models,ElasticNet,8,ETS_day,-0.0707586240659445,12.138476639142617
+All 12 models,ElasticNet,8,Naive_day,0.07576120459842428,12.138476639142617
+All 12 models,ElasticNet,9,LinearRegression,0.06411078454301858,13.105921019133895
+All 12 models,ElasticNet,9,Ridge,0.07930550726480237,13.105921019133895
+All 12 models,ElasticNet,9,ElasticNet,0.6550923807193766,13.105921019133895
+All 12 models,ElasticNet,9,GradientBoosting,-0.10455013269114617,13.105921019133895
+All 12 models,ElasticNet,9,RandomForest,-0.40637926117707035,13.105921019133895
+All 12 models,ElasticNet,9,XGBoost,-0.03403997484480294,13.105921019133895
+All 12 models,ElasticNet,9,LightGBM,0.5224181548427577,13.105921019133895
+All 12 models,ElasticNet,9,Bagging,0.3157407147890361,13.105921019133895
+All 12 models,ElasticNet,9,GRU,-0.584922107430167,13.105921019133895
+All 12 models,ElasticNet,9,LSTM,0.24883469215091378,13.105921019133895
+All 12 models,ElasticNet,9,ETS_day,-0.03519589158929405,13.105921019133895
+All 12 models,ElasticNet,9,Naive_day,0.04582012564838161,13.105921019133895
+All 12 models,ElasticNet,10,LinearRegression,0.11198683859994323,15.61582631742818
+All 12 models,ElasticNet,10,Ridge,0.016773240561038297,15.61582631742818
+All 12 models,ElasticNet,10,ElasticNet,0.7320974242553568,15.61582631742818
+All 12 models,ElasticNet,10,GradientBoosting,-0.48024340649384956,15.61582631742818
+All 12 models,ElasticNet,10,RandomForest,-0.4832688818232461,15.61582631742818
+All 12 models,ElasticNet,10,XGBoost,0.29188554336217354,15.61582631742818
+All 12 models,ElasticNet,10,LightGBM,0.4850279296261537,15.61582631742818
+All 12 models,ElasticNet,10,Bagging,0.2973158318990897,15.61582631742818
+All 12 models,ElasticNet,10,GRU,-0.3244669791303564,15.61582631742818
+All 12 models,ElasticNet,10,LSTM,0.030813788722418377,15.61582631742818
+All 12 models,ElasticNet,10,ETS_day,-0.00371236932485086,15.61582631742818
+All 12 models,ElasticNet,10,Naive_day,0.06385121255609663,15.61582631742818
+All 12 models,ElasticNet,11,LinearRegression,0.16383700890054428,9.316566255270075
+All 12 models,ElasticNet,11,Ridge,-0.0,9.316566255270075
+All 12 models,ElasticNet,11,ElasticNet,0.5532434800148651,9.316566255270075
+All 12 models,ElasticNet,11,GradientBoosting,0.11271596263049628,9.316566255270075
+All 12 models,ElasticNet,11,RandomForest,-0.23058458041226282,9.316566255270075
+All 12 models,ElasticNet,11,XGBoost,0.0,9.316566255270075
+All 12 models,ElasticNet,11,LightGBM,0.289285299321277,9.316566255270075
+All 12 models,ElasticNet,11,Bagging,0.07111628970170038,9.316566255270075
+All 12 models,ElasticNet,11,GRU,-0.3509521279562732,9.316566255270075
+All 12 models,ElasticNet,11,LSTM,0.2013759825317976,9.316566255270075
+All 12 models,ElasticNet,11,ETS_day,0.0029086551161310445,9.316566255270075
+All 12 models,ElasticNet,11,Naive_day,0.026549873639916764,9.316566255270075
+All 12 models,ElasticNet,12,LinearRegression,0.10274914159302342,8.717487408103011
+All 12 models,ElasticNet,12,Ridge,0.08158073829754282,8.717487408103011
+All 12 models,ElasticNet,12,ElasticNet,0.5132228221843042,8.717487408103011
+All 12 models,ElasticNet,12,GradientBoosting,0.004031533014427429,8.717487408103011
+All 12 models,ElasticNet,12,RandomForest,-0.29791261837021177,8.717487408103011
+All 12 models,ElasticNet,12,XGBoost,0.4277616981334831,8.717487408103011
+All 12 models,ElasticNet,12,LightGBM,-0.019017035078158797,8.717487408103011
+All 12 models,ElasticNet,12,Bagging,-0.023383930268727086,8.717487408103011
+All 12 models,ElasticNet,12,GRU,-0.06183164752056925,8.717487408103011
+All 12 models,ElasticNet,12,LSTM,0.05592391151887808,8.717487408103011
+All 12 models,ElasticNet,12,ETS_day,0.009649410496757757,8.717487408103011
+All 12 models,ElasticNet,12,Naive_day,0.060076192791421186,8.717487408103011
+All 12 models,ElasticNet,13,LinearRegression,0.07583752646667037,10.006979529161505
+All 12 models,ElasticNet,13,Ridge,0.1503830035718886,10.006979529161505
+All 12 models,ElasticNet,13,ElasticNet,0.6069013523821317,10.006979529161505
+All 12 models,ElasticNet,13,GradientBoosting,0.17120644627844683,10.006979529161505
+All 12 models,ElasticNet,13,RandomForest,-0.22745523408069865,10.006979529161505
+All 12 models,ElasticNet,13,XGBoost,0.08061919786107585,10.006979529161505
+All 12 models,ElasticNet,13,LightGBM,0.1430675640674885,10.006979529161505
+All 12 models,ElasticNet,13,Bagging,0.0732613171910674,10.006979529161505
+All 12 models,ElasticNet,13,GRU,-0.5034601557057322,10.006979529161505
+All 12 models,ElasticNet,13,LSTM,0.2746829232263352,10.006979529161505
+All 12 models,ElasticNet,13,ETS_day,0.00485744904740153,10.006979529161505
+All 12 models,ElasticNet,13,Naive_day,-0.018173776543246423,10.006979529161505
+All 12 models,ElasticNet,14,LinearRegression,0.04419388797399842,9.291684028047634
+All 12 models,ElasticNet,14,Ridge,0.07198815120115803,9.291684028047634
+All 12 models,ElasticNet,14,ElasticNet,0.530736264778054,9.291684028047634
+All 12 models,ElasticNet,14,GradientBoosting,-0.001953354767628365,9.291684028047634
+All 12 models,ElasticNet,14,RandomForest,-0.4132383021682326,9.291684028047634
+All 12 models,ElasticNet,14,XGBoost,0.6199608383945285,9.291684028047634
+All 12 models,ElasticNet,14,LightGBM,-0.021234661936736458,9.291684028047634
+All 12 models,ElasticNet,14,Bagging,-0.0,9.291684028047634
+All 12 models,ElasticNet,14,GRU,-0.3283118814568925,9.291684028047634
+All 12 models,ElasticNet,14,LSTM,0.18912970077592423,9.291684028047634
+All 12 models,ElasticNet,14,ETS_day,0.02552761139562856,9.291684028047634
+All 12 models,ElasticNet,14,Naive_day,0.12995527385871386,9.291684028047634
+All 12 models,ElasticNet,15,LinearRegression,0.028457006441978593,19.786267991413638
+All 12 models,ElasticNet,15,Ridge,0.15676346824873916,19.786267991413638
+All 12 models,ElasticNet,15,ElasticNet,0.4686582999164535,19.786267991413638
+All 12 models,ElasticNet,15,GradientBoosting,-0.45775368210269946,19.786267991413638
+All 12 models,ElasticNet,15,RandomForest,-0.7177539566786685,19.786267991413638
+All 12 models,ElasticNet,15,XGBoost,0.9049274447122361,19.786267991413638
+All 12 models,ElasticNet,15,LightGBM,0.007402586634514362,19.786267991413638
+All 12 models,ElasticNet,15,Bagging,0.3813584527629656,19.786267991413638
+All 12 models,ElasticNet,15,GRU,-0.46324605811390346,19.786267991413638
+All 12 models,ElasticNet,15,LSTM,0.1816709921532316,19.786267991413638
+All 12 models,ElasticNet,15,ETS_day,0.03986179800961684,19.786267991413638
+All 12 models,ElasticNet,15,Naive_day,0.10310773899190405,19.786267991413638
+All 12 models,ElasticNet,16,LinearRegression,0.03118912777878562,16.25995891756655
+All 12 models,ElasticNet,16,Ridge,-0.3646301615946592,16.25995891756655
+All 12 models,ElasticNet,16,ElasticNet,0.8615422616861179,16.25995891756655
+All 12 models,ElasticNet,16,GradientBoosting,0.24979661083586122,16.25995891756655
+All 12 models,ElasticNet,16,RandomForest,-0.40091196792904654,16.25995891756655
+All 12 models,ElasticNet,16,XGBoost,0.3999399202273698,16.25995891756655
+All 12 models,ElasticNet,16,LightGBM,-0.02955143400683342,16.25995891756655
+All 12 models,ElasticNet,16,Bagging,0.17026944143685452,16.25995891756655
+All 12 models,ElasticNet,16,GRU,-0.6001185536316208,16.25995891756655
+All 12 models,ElasticNet,16,LSTM,0.20210398775093857,16.25995891756655
+All 12 models,ElasticNet,16,ETS_day,0.028704366049759504,16.25995891756655
+All 12 models,ElasticNet,16,Naive_day,0.13946426545509044,16.25995891756655
+All 12 models,ElasticNet,17,LinearRegression,0.0233624075039063,9.635198862591409
+All 12 models,ElasticNet,17,Ridge,-0.21622736762451436,9.635198862591409
+All 12 models,ElasticNet,17,ElasticNet,0.6106026026263089,9.635198862591409
+All 12 models,ElasticNet,17,GradientBoosting,0.07638342983474014,9.635198862591409
+All 12 models,ElasticNet,17,RandomForest,-0.3725747966434068,9.635198862591409
+All 12 models,ElasticNet,17,XGBoost,0.3521577423004439,9.635198862591409
+All 12 models,ElasticNet,17,LightGBM,0.02614680809911199,9.635198862591409
+All 12 models,ElasticNet,17,Bagging,0.11983965945382449,9.635198862591409
+All 12 models,ElasticNet,17,GRU,-0.08417311035650665,9.635198862591409
+All 12 models,ElasticNet,17,LSTM,0.09516274242410719,9.635198862591409
+All 12 models,ElasticNet,17,ETS_day,0.010764924788301041,9.635198862591409
+All 12 models,ElasticNet,17,Naive_day,0.19173871896454284,9.635198862591409
+All 12 models,ElasticNet,18,LinearRegression,0.02355252868239217,9.795480740972067
+All 12 models,ElasticNet,18,Ridge,-0.25416954554660903,9.795480740972067
+All 12 models,ElasticNet,18,ElasticNet,0.679316080886506,9.795480740972067
+All 12 models,ElasticNet,18,GradientBoosting,-0.15845136950617647,9.795480740972067
+All 12 models,ElasticNet,18,RandomForest,-0.7887893966331037,9.795480740972067
+All 12 models,ElasticNet,18,XGBoost,0.7310594241442435,9.795480740972067
+All 12 models,ElasticNet,18,LightGBM,-0.03841244327231781,9.795480740972067
+All 12 models,ElasticNet,18,Bagging,0.48058812773453397,9.795480740972067
+All 12 models,ElasticNet,18,GRU,-0.10911445351305052,9.795480740972067
+All 12 models,ElasticNet,18,LSTM,0.018887495469851714,9.795480740972067
+All 12 models,ElasticNet,18,ETS_day,0.00018605474663745797,9.795480740972067
+All 12 models,ElasticNet,18,Naive_day,0.25422258547033566,9.795480740972067
+All 12 models,ElasticNet,19,LinearRegression,0.18077506640812668,1.8589215129770622
+All 12 models,ElasticNet,19,Ridge,-0.36998093216631084,1.8589215129770622
+All 12 models,ElasticNet,19,ElasticNet,0.44085198429520117,1.8589215129770622
+All 12 models,ElasticNet,19,GradientBoosting,0.1458193576193394,1.8589215129770622
+All 12 models,ElasticNet,19,RandomForest,-0.6069118116162379,1.8589215129770622
+All 12 models,ElasticNet,19,XGBoost,0.7073264190679489,1.8589215129770622
+All 12 models,ElasticNet,19,LightGBM,-0.16655401454970262,1.8589215129770622
+All 12 models,ElasticNet,19,Bagging,0.327275488597581,1.8589215129770622
+All 12 models,ElasticNet,19,GRU,-0.03340131251586176,1.8589215129770622
+All 12 models,ElasticNet,19,LSTM,0.07483429620457667,1.8589215129770622
+All 12 models,ElasticNet,19,ETS_day,-0.025908837455924334,1.8589215129770622
+All 12 models,ElasticNet,19,Naive_day,0.32877630486821363,1.8589215129770622
+All 12 models,ElasticNet,20,LinearRegression,0.1541396023634032,5.823532753325729
+All 12 models,ElasticNet,20,Ridge,0.03686709365231989,5.823532753325729
+All 12 models,ElasticNet,20,ElasticNet,0.2648393032350424,5.823532753325729
+All 12 models,ElasticNet,20,GradientBoosting,0.2973318241049409,5.823532753325729
+All 12 models,ElasticNet,20,RandomForest,-0.355964610437863,5.823532753325729
+All 12 models,ElasticNet,20,XGBoost,0.5040362731675495,5.823532753325729
+All 12 models,ElasticNet,20,LightGBM,-0.17021878723205283,5.823532753325729
+All 12 models,ElasticNet,20,Bagging,-0.0,5.823532753325729
+All 12 models,ElasticNet,20,GRU,-0.16999195889305582,5.823532753325729
+All 12 models,ElasticNet,20,LSTM,0.11035013222501855,5.823532753325729
+All 12 models,ElasticNet,20,ETS_day,-0.011654087773340175,5.823532753325729
+All 12 models,ElasticNet,20,Naive_day,0.263880109667498,5.823532753325729
+All 12 models,ElasticNet,21,LinearRegression,0.1394762453097573,13.549823240349795
+All 12 models,ElasticNet,21,Ridge,0.08704569484396608,13.549823240349795
+All 12 models,ElasticNet,21,ElasticNet,0.15741923465420146,13.549823240349795
+All 12 models,ElasticNet,21,GradientBoosting,0.32674953709376625,13.549823240349795
+All 12 models,ElasticNet,21,RandomForest,-0.10555475536282984,13.549823240349795
+All 12 models,ElasticNet,21,XGBoost,0.26752411830076384,13.549823240349795
+All 12 models,ElasticNet,21,LightGBM,-0.036002274675224634,13.549823240349795
+All 12 models,ElasticNet,21,Bagging,-0.28979363210645365,13.549823240349795
+All 12 models,ElasticNet,21,GRU,-0.22981064721130678,13.549823240349795
+All 12 models,ElasticNet,21,LSTM,0.09720780060388733,13.549823240349795
+All 12 models,ElasticNet,21,ETS_day,0.006584323532951479,13.549823240349795
+All 12 models,ElasticNet,21,Naive_day,0.35197359006568035,13.549823240349795
+All 12 models,ElasticNet,22,LinearRegression,0.06031734497813105,14.003851418775447
+All 12 models,ElasticNet,22,Ridge,0.18514835177024636,14.003851418775447
+All 12 models,ElasticNet,22,ElasticNet,0.047438165817284786,14.003851418775447
+All 12 models,ElasticNet,22,GradientBoosting,-0.22830931793471934,14.003851418775447
+All 12 models,ElasticNet,22,RandomForest,0.0,14.003851418775447
+All 12 models,ElasticNet,22,XGBoost,0.4633685592597177,14.003851418775447
+All 12 models,ElasticNet,22,LightGBM,0.14835675484693386,14.003851418775447
+All 12 models,ElasticNet,22,Bagging,-0.38468404461982414,14.003851418775447
+All 12 models,ElasticNet,22,GRU,-0.025665542093225534,14.003851418775447
+All 12 models,ElasticNet,22,LSTM,0.061435497900408975,14.003851418775447
+All 12 models,ElasticNet,22,ETS_day,0.0030255741595026867,14.003851418775447
+All 12 models,ElasticNet,22,Naive_day,0.4378950111034642,14.003851418775447
+All 12 models,ElasticNet,23,LinearRegression,0.013406448595888739,15.184126377675781
+All 12 models,ElasticNet,23,Ridge,-0.0,15.184126377675781
+All 12 models,ElasticNet,23,ElasticNet,0.3689103466502907,15.184126377675781
+All 12 models,ElasticNet,23,GradientBoosting,0.21272273420939825,15.184126377675781
+All 12 models,ElasticNet,23,RandomForest,0.0,15.184126377675781
+All 12 models,ElasticNet,23,XGBoost,-0.0005771388748585365,15.184126377675781
+All 12 models,ElasticNet,23,LightGBM,-0.0,15.184126377675781
+All 12 models,ElasticNet,23,Bagging,-0.24587875829497785,15.184126377675781
+All 12 models,ElasticNet,23,GRU,-0.11440715332933042,15.184126377675781
+All 12 models,ElasticNet,23,LSTM,0.07756944934068823,15.184126377675781
+All 12 models,ElasticNet,23,ETS_day,-0.03293835317631357,15.184126377675781
+All 12 models,ElasticNet,23,Naive_day,0.4514772696565296,15.184126377675781
+All 12 models,ElasticNet,24,LinearRegression,0.07103874646215304,21.03062329389533
+All 12 models,ElasticNet,24,Ridge,-0.2836749812914377,21.03062329389533
+All 12 models,ElasticNet,24,ElasticNet,0.7498228164326615,21.03062329389533
+All 12 models,ElasticNet,24,GradientBoosting,0.00392352817082036,21.03062329389533
+All 12 models,ElasticNet,24,RandomForest,0.03512627605622183,21.03062329389533
+All 12 models,ElasticNet,24,XGBoost,0.5110365164394864,21.03062329389533
+All 12 models,ElasticNet,24,LightGBM,-0.4212327839670804,21.03062329389533
+All 12 models,ElasticNet,24,Bagging,-0.324708140146081,21.03062329389533
+All 12 models,ElasticNet,24,GRU,0.0757871650647036,21.03062329389533
+All 12 models,ElasticNet,24,LSTM,-0.15391506821034315,21.03062329389533
+All 12 models,ElasticNet,24,ETS_day,-0.04836427584250821,21.03062329389533
+All 12 models,ElasticNet,24,Naive_day,0.3837983501895255,21.03062329389533
+Non-statistical ML-DL,Ridge,1,LinearRegression,-0.06207107866279429,16.951195518284976
+Non-statistical ML-DL,Ridge,1,Ridge,-0.5143455837326955,16.951195518284976
+Non-statistical ML-DL,Ridge,1,ElasticNet,1.4652354881514789,16.951195518284976
+Non-statistical ML-DL,Ridge,1,GradientBoosting,-0.2959670504002075,16.951195518284976
+Non-statistical ML-DL,Ridge,1,RandomForest,-0.21865222117049543,16.951195518284976
+Non-statistical ML-DL,Ridge,1,XGBoost,0.14125799813703177,16.951195518284976
+Non-statistical ML-DL,Ridge,1,LightGBM,0.14152524469796213,16.951195518284976
+Non-statistical ML-DL,Ridge,1,Bagging,0.2093105087542441,16.951195518284976
+Non-statistical ML-DL,Ridge,1,GRU,-0.19424461501777268,16.951195518284976
+Non-statistical ML-DL,Ridge,1,LSTM,0.017263865518302376,16.951195518284976
+Non-statistical ML-DL,Ridge,2,LinearRegression,-0.031618488707164466,20.28299338955699
+Non-statistical ML-DL,Ridge,2,Ridge,-0.7823432874025876,20.28299338955699
+Non-statistical ML-DL,Ridge,2,ElasticNet,1.6189855266364304,20.28299338955699
+Non-statistical ML-DL,Ridge,2,GradientBoosting,-0.6491188758712912,20.28299338955699
+Non-statistical ML-DL,Ridge,2,RandomForest,-0.3854177860482617,20.28299338955699
+Non-statistical ML-DL,Ridge,2,XGBoost,0.16812081543300694,20.28299338955699
+Non-statistical ML-DL,Ridge,2,LightGBM,0.41581340283854046,20.28299338955699
+Non-statistical ML-DL,Ridge,2,Bagging,0.47736649271040393,20.28299338955699
+Non-statistical ML-DL,Ridge,2,GRU,-0.2672430388989531,20.28299338955699
+Non-statistical ML-DL,Ridge,2,LSTM,0.03936515718348912,20.28299338955699
+Non-statistical ML-DL,Ridge,3,LinearRegression,-0.048121262283337574,17.939982521155155
+Non-statistical ML-DL,Ridge,3,Ridge,-1.0280133093459927,17.939982521155155
+Non-statistical ML-DL,Ridge,3,ElasticNet,1.7676744881146587,17.939982521155155
+Non-statistical ML-DL,Ridge,3,GradientBoosting,-0.28415654275380214,17.939982521155155
+Non-statistical ML-DL,Ridge,3,RandomForest,-0.45936172226031735,17.939982521155155
+Non-statistical ML-DL,Ridge,3,XGBoost,-0.032471978638961015,17.939982521155155
+Non-statistical ML-DL,Ridge,3,LightGBM,0.48727641832002844,17.939982521155155
+Non-statistical ML-DL,Ridge,3,Bagging,0.4922089025552843,17.939982521155155
+Non-statistical ML-DL,Ridge,3,GRU,-0.2864902571126432,17.939982521155155
+Non-statistical ML-DL,Ridge,3,LSTM,0.04317180690031996,17.939982521155155
+Non-statistical ML-DL,Ridge,4,LinearRegression,-0.02055931015658519,15.206110271986653
+Non-statistical ML-DL,Ridge,4,Ridge,-1.182708851538884,15.206110271986653
+Non-statistical ML-DL,Ridge,4,ElasticNet,1.7443914165187522,15.206110271986653
+Non-statistical ML-DL,Ridge,4,GradientBoosting,-0.5013839519248584,15.206110271986653
+Non-statistical ML-DL,Ridge,4,RandomForest,-0.6262105827182349,15.206110271986653
+Non-statistical ML-DL,Ridge,4,XGBoost,0.23173150138941984,15.206110271986653
+Non-statistical ML-DL,Ridge,4,LightGBM,0.49348312567299657,15.206110271986653
+Non-statistical ML-DL,Ridge,4,Bagging,0.4551981017041674,15.206110271986653
+Non-statistical ML-DL,Ridge,4,GRU,0.05221656765021962,15.206110271986653
+Non-statistical ML-DL,Ridge,4,LSTM,0.056844940587075544,15.206110271986653
+Non-statistical ML-DL,Ridge,5,LinearRegression,-0.016834981907958096,15.401604059326772
+Non-statistical ML-DL,Ridge,5,Ridge,-0.9836792203104294,15.401604059326772
+Non-statistical ML-DL,Ridge,5,ElasticNet,1.5329926808597298,15.401604059326772
+Non-statistical ML-DL,Ridge,5,GradientBoosting,-0.36410918006370924,15.401604059326772
+Non-statistical ML-DL,Ridge,5,RandomForest,-0.5928980260560375,15.401604059326772
+Non-statistical ML-DL,Ridge,5,XGBoost,0.15432454323585756,15.401604059326772
+Non-statistical ML-DL,Ridge,5,LightGBM,0.43349811072728195,15.401604059326772
+Non-statistical ML-DL,Ridge,5,Bagging,0.4270056950169042,15.401604059326772
+Non-statistical ML-DL,Ridge,5,GRU,0.0351842429105166,15.401604059326772
+Non-statistical ML-DL,Ridge,5,LSTM,0.06960656672037584,15.401604059326772
+Non-statistical ML-DL,Ridge,6,LinearRegression,-0.07300130015806021,17.537777114186458
+Non-statistical ML-DL,Ridge,6,Ridge,-0.8489059880895488,17.537777114186458
+Non-statistical ML-DL,Ridge,6,ElasticNet,1.5366011643109148,17.537777114186458
+Non-statistical ML-DL,Ridge,6,GradientBoosting,-0.3491409363338146,17.537777114186458
+Non-statistical ML-DL,Ridge,6,RandomForest,-0.45801791428831157,17.537777114186458
+Non-statistical ML-DL,Ridge,6,XGBoost,0.07636635801939703,17.537777114186458
+Non-statistical ML-DL,Ridge,6,LightGBM,0.4209729675852725,17.537777114186458
+Non-statistical ML-DL,Ridge,6,Bagging,0.3587100919322642,17.537777114186458
+Non-statistical ML-DL,Ridge,6,GRU,-0.1314582577688291,17.537777114186458
+Non-statistical ML-DL,Ridge,6,LSTM,0.10668873053216327,17.537777114186458
+Non-statistical ML-DL,Ridge,7,LinearRegression,-0.05161287854040824,19.386112893327613
+Non-statistical ML-DL,Ridge,7,Ridge,-0.3675435105144292,19.386112893327613
+Non-statistical ML-DL,Ridge,7,ElasticNet,1.1367106996937468,19.386112893327613
+Non-statistical ML-DL,Ridge,7,GradientBoosting,-0.37634800523966394,19.386112893327613
+Non-statistical ML-DL,Ridge,7,RandomForest,-0.03092457649481306,19.386112893327613
+Non-statistical ML-DL,Ridge,7,XGBoost,0.04007695987682255,19.386112893327613
+Non-statistical ML-DL,Ridge,7,LightGBM,0.4576057510606958,19.386112893327613
+Non-statistical ML-DL,Ridge,7,Bagging,0.0025119315497010362,19.386112893327613
+Non-statistical ML-DL,Ridge,7,GRU,-0.3155110890352232,19.386112893327613
+Non-statistical ML-DL,Ridge,7,LSTM,0.11467452427264825,19.386112893327613
+Non-statistical ML-DL,Ridge,8,LinearRegression,-0.0007192573520440447,15.559709847618187
+Non-statistical ML-DL,Ridge,8,Ridge,0.02067612383249519,15.559709847618187
+Non-statistical ML-DL,Ridge,8,ElasticNet,0.8099247671649233,15.559709847618187
+Non-statistical ML-DL,Ridge,8,GradientBoosting,-0.16442966236091527,15.559709847618187
+Non-statistical ML-DL,Ridge,8,RandomForest,-0.03542563551525505,15.559709847618187
+Non-statistical ML-DL,Ridge,8,XGBoost,-0.0823641497505066,15.559709847618187
+Non-statistical ML-DL,Ridge,8,LightGBM,0.48791010089428355,15.559709847618187
+Non-statistical ML-DL,Ridge,8,Bagging,0.04621576957799179,15.559709847618187
+Non-statistical ML-DL,Ridge,8,GRU,-0.4189755062884117,15.559709847618187
+Non-statistical ML-DL,Ridge,8,LSTM,0.0510307691586201,15.559709847618187
+Non-statistical ML-DL,Ridge,9,LinearRegression,0.06368926327919885,15.811473712811669
+Non-statistical ML-DL,Ridge,9,Ridge,-0.026634385685631493,15.811473712811669
+Non-statistical ML-DL,Ridge,9,ElasticNet,0.7849543616318575,15.811473712811669
+Non-statistical ML-DL,Ridge,9,GradientBoosting,-0.1331647467745001,15.811473712811669
+Non-statistical ML-DL,Ridge,9,RandomForest,-0.5166965655572975,15.811473712811669
+Non-statistical ML-DL,Ridge,9,XGBoost,-0.04598438640136437,15.811473712811669
+Non-statistical ML-DL,Ridge,9,LightGBM,0.5672940221408557,15.811473712811669
+Non-statistical ML-DL,Ridge,9,Bagging,0.42672589136668915,15.811473712811669
+Non-statistical ML-DL,Ridge,9,GRU,-0.6741577030714855,15.811473712811669
+Non-statistical ML-DL,Ridge,9,LSTM,0.2715520194205866,15.811473712811669
+Non-statistical ML-DL,Ridge,10,LinearRegression,0.09796206432890654,17.084868005758132
+Non-statistical ML-DL,Ridge,10,Ridge,-0.11218372625231572,17.084868005758132
+Non-statistical ML-DL,Ridge,10,ElasticNet,0.9629183165811152,17.084868005758132
+Non-statistical ML-DL,Ridge,10,GradientBoosting,-0.5178550319583642,17.084868005758132
+Non-statistical ML-DL,Ridge,10,RandomForest,-0.5919058213915263,17.084868005758132
+Non-statistical ML-DL,Ridge,10,XGBoost,0.2658199846602129,17.084868005758132
+Non-statistical ML-DL,Ridge,10,LightGBM,0.515510638244508,17.084868005758132
+Non-statistical ML-DL,Ridge,10,Bagging,0.4245131489121824,17.084868005758132
+Non-statistical ML-DL,Ridge,10,GRU,-0.3854239271156175,17.084868005758132
+Non-statistical ML-DL,Ridge,10,LSTM,0.054061688540713755,17.084868005758132
+Non-statistical ML-DL,Ridge,11,LinearRegression,0.15858202927630263,9.604607654840756
+Non-statistical ML-DL,Ridge,11,Ridge,-0.1805158043598627,9.604607654840756
+Non-statistical ML-DL,Ridge,11,ElasticNet,0.7781397703652025,9.604607654840756
+Non-statistical ML-DL,Ridge,11,GradientBoosting,0.10201607266755586,9.604607654840756
+Non-statistical ML-DL,Ridge,11,RandomForest,-0.2822878104655373,9.604607654840756
+Non-statistical ML-DL,Ridge,11,XGBoost,-0.009400188052507584,9.604607654840756
+Non-statistical ML-DL,Ridge,11,LightGBM,0.2951101186247546,9.604607654840756
+Non-statistical ML-DL,Ridge,11,Bagging,0.13366099195246486,9.604607654840756
+Non-statistical ML-DL,Ridge,11,GRU,-0.38430149622997556,9.604607654840756
+Non-statistical ML-DL,Ridge,11,LSTM,0.222790020124973,9.604607654840756
+Non-statistical ML-DL,Ridge,12,LinearRegression,0.09245520286126681,8.405334571017889
+Non-statistical ML-DL,Ridge,12,Ridge,0.03778293532110777,8.405334571017889
+Non-statistical ML-DL,Ridge,12,ElasticNet,0.6566444836051909,8.405334571017889
+Non-statistical ML-DL,Ridge,12,GradientBoosting,0.005515027945828839,8.405334571017889
+Non-statistical ML-DL,Ridge,12,RandomForest,-0.27889680043074966,8.405334571017889
+Non-statistical ML-DL,Ridge,12,XGBoost,0.398576708390745,8.405334571017889
+Non-statistical ML-DL,Ridge,12,LightGBM,-0.031281372955702665,8.405334571017889
+Non-statistical ML-DL,Ridge,12,Bagging,-0.019179599801222025,8.405334571017889
+Non-statistical ML-DL,Ridge,12,GRU,-0.08455649189951034,8.405334571017889
+Non-statistical ML-DL,Ridge,12,LSTM,0.08131584209819513,8.405334571017889
+Non-statistical ML-DL,Ridge,13,LinearRegression,0.07452160265017214,9.912966555532613
+Non-statistical ML-DL,Ridge,13,Ridge,0.045901203692423065,9.912966555532613
+Non-statistical ML-DL,Ridge,13,ElasticNet,0.7028488258403937,9.912966555532613
+Non-statistical ML-DL,Ridge,13,GradientBoosting,0.16283950031483807,9.912966555532613
+Non-statistical ML-DL,Ridge,13,RandomForest,-0.28413304076212803,9.912966555532613
+Non-statistical ML-DL,Ridge,13,XGBoost,0.10287081643534068,9.912966555532613
+Non-statistical ML-DL,Ridge,13,LightGBM,0.14429145696367143,9.912966555532613
+Non-statistical ML-DL,Ridge,13,Bagging,0.11696518588462249,9.912966555532613
+Non-statistical ML-DL,Ridge,13,GRU,-0.5136830078956987,9.912966555532613
+Non-statistical ML-DL,Ridge,13,LSTM,0.2809659170484747,9.912966555532613
+Non-statistical ML-DL,Ridge,14,LinearRegression,0.012178213463983166,8.672893701494097
+Non-statistical ML-DL,Ridge,14,Ridge,0.11121973488571417,8.672893701494097
+Non-statistical ML-DL,Ridge,14,ElasticNet,0.7105864838154146,8.672893701494097
+Non-statistical ML-DL,Ridge,14,GradientBoosting,-0.008496400029065838,8.672893701494097
+Non-statistical ML-DL,Ridge,14,RandomForest,-0.39326625552443406,8.672893701494097
+Non-statistical ML-DL,Ridge,14,XGBoost,0.5084890875129742,8.672893701494097
+Non-statistical ML-DL,Ridge,14,LightGBM,-0.026744455418572517,8.672893701494097
+Non-statistical ML-DL,Ridge,14,Bagging,0.061812454760447465,8.672893701494097
+Non-statistical ML-DL,Ridge,14,GRU,-0.37191604067968664,8.672893701494097
+Non-statistical ML-DL,Ridge,14,LSTM,0.2541398902348962,8.672893701494097
+Non-statistical ML-DL,Ridge,15,LinearRegression,-0.009454151583812097,19.006664823215225
+Non-statistical ML-DL,Ridge,15,Ridge,0.3007303865976888,19.006664823215225
+Non-statistical ML-DL,Ridge,15,ElasticNet,0.5784483731153925,19.006664823215225
+Non-statistical ML-DL,Ridge,15,GradientBoosting,-0.5230295067947468,19.006664823215225
+Non-statistical ML-DL,Ridge,15,RandomForest,-0.7652905027202724,19.006664823215225
+Non-statistical ML-DL,Ridge,15,XGBoost,0.8608633712265688,19.006664823215225
+Non-statistical ML-DL,Ridge,15,LightGBM,-0.008940457330188587,19.006664823215225
+Non-statistical ML-DL,Ridge,15,Bagging,0.49674145896517596,19.006664823215225
+Non-statistical ML-DL,Ridge,15,GRU,-0.4875914467476223,19.006664823215225
+Non-statistical ML-DL,Ridge,15,LSTM,0.2069192521633329,19.006664823215225
+Non-statistical ML-DL,Ridge,16,LinearRegression,-0.014733595249959036,17.095744953782066
+Non-statistical ML-DL,Ridge,16,Ridge,-0.5107302012760349,17.095744953782066
+Non-statistical ML-DL,Ridge,16,ElasticNet,1.2882123395399108,17.095744953782066
+Non-statistical ML-DL,Ridge,16,GradientBoosting,0.19732229239106305,17.095744953782066
+Non-statistical ML-DL,Ridge,16,RandomForest,-0.42972998440925214,17.095744953782066
+Non-statistical ML-DL,Ridge,16,XGBoost,0.34010377336389364,17.095744953782066
+Non-statistical ML-DL,Ridge,16,LightGBM,-0.025779367524710738,17.095744953782066
+Non-statistical ML-DL,Ridge,16,Bagging,0.25926827171044536,17.095744953782066
+Non-statistical ML-DL,Ridge,16,GRU,-0.6868904994296595,17.095744953782066
+Non-statistical ML-DL,Ridge,16,LSTM,0.2542875684724246,17.095744953782066
+Non-statistical ML-DL,Ridge,17,LinearRegression,-0.01955929961091225,10.713772495614919
+Non-statistical ML-DL,Ridge,17,Ridge,-0.18750318721234663,10.713772495614919
+Non-statistical ML-DL,Ridge,17,ElasticNet,0.8668389609859285,10.713772495614919
+Non-statistical ML-DL,Ridge,17,GradientBoosting,-0.07424150493852677,10.713772495614919
+Non-statistical ML-DL,Ridge,17,RandomForest,-0.36933805516973867,10.713772495614919
+Non-statistical ML-DL,Ridge,17,XGBoost,0.29549847127884465,10.713772495614919
+Non-statistical ML-DL,Ridge,17,LightGBM,0.06551699819821612,10.713772495614919
+Non-statistical ML-DL,Ridge,17,Bagging,0.20463340606599287,10.713772495614919
+Non-statistical ML-DL,Ridge,17,GRU,-0.07602641124750635,10.713772495614919
+Non-statistical ML-DL,Ridge,17,LSTM,0.10750912504252201,10.713772495614919
+Non-statistical ML-DL,Ridge,18,LinearRegression,-0.04272978301088045,10.136381821895625
+Non-statistical ML-DL,Ridge,18,Ridge,-0.2022753683927285,10.136381821895625
+Non-statistical ML-DL,Ridge,18,ElasticNet,1.0007163103856824,10.136381821895625
+Non-statistical ML-DL,Ridge,18,GradientBoosting,-0.38448583058676045,10.136381821895625
+Non-statistical ML-DL,Ridge,18,RandomForest,-0.8351340278313732,10.136381821895625
+Non-statistical ML-DL,Ridge,18,XGBoost,0.642734888743582,10.136381821895625
+Non-statistical ML-DL,Ridge,18,LightGBM,0.07180072841223357,10.136381821895625
+Non-statistical ML-DL,Ridge,18,Bagging,0.6369945855867016,10.136381821895625
+Non-statistical ML-DL,Ridge,18,GRU,-0.12393022334697115,10.136381821895625
+Non-statistical ML-DL,Ridge,18,LSTM,0.06894656065856733,10.136381821895625
+Non-statistical ML-DL,Ridge,19,LinearRegression,0.084287616588538,1.0258079954711903
+Non-statistical ML-DL,Ridge,19,Ridge,-0.3800216044155679,1.0258079954711903
+Non-statistical ML-DL,Ridge,19,ElasticNet,0.9569326849155135,1.0258079954711903
+Non-statistical ML-DL,Ridge,19,GradientBoosting,-0.09133019180819082,1.0258079954711903
+Non-statistical ML-DL,Ridge,19,RandomForest,-0.7375775116348902,1.0258079954711903
+Non-statistical ML-DL,Ridge,19,XGBoost,0.6929570205355413,1.0258079954711903
+Non-statistical ML-DL,Ridge,19,LightGBM,-0.10677399557408297,1.0258079954711903
+Non-statistical ML-DL,Ridge,19,Bagging,0.5717858897639175,1.0258079954711903
+Non-statistical ML-DL,Ridge,19,GRU,-0.1104076463054547,1.0258079954711903
+Non-statistical ML-DL,Ridge,19,LSTM,0.141501978430236,1.0258079954711903
+Non-statistical ML-DL,Ridge,20,LinearRegression,0.07866645941838239,3.5236487448501492
+Non-statistical ML-DL,Ridge,20,Ridge,0.12708347609321813,3.5236487448501492
+Non-statistical ML-DL,Ridge,20,ElasticNet,0.5493833815098714,3.5236487448501492
+Non-statistical ML-DL,Ridge,20,GradientBoosting,0.1356480362685534,3.5236487448501492
+Non-statistical ML-DL,Ridge,20,RandomForest,-0.4385296387184237,3.5236487448501492
+Non-statistical ML-DL,Ridge,20,XGBoost,0.579501848658324,3.5236487448501492
+Non-statistical ML-DL,Ridge,20,LightGBM,-0.15749296609997743,3.5236487448501492
+Non-statistical ML-DL,Ridge,20,Bagging,0.15719331970256167,3.5236487448501492
+Non-statistical ML-DL,Ridge,20,GRU,-0.1691689900141978,3.5236487448501492
+Non-statistical ML-DL,Ridge,20,LSTM,0.1064995749512857,3.5236487448501492
+Non-statistical ML-DL,Ridge,21,LinearRegression,0.01770299534144533,3.073968005918168
+Non-statistical ML-DL,Ridge,21,Ridge,0.21314227086945864,3.073968005918168
+Non-statistical ML-DL,Ridge,21,ElasticNet,0.5604242748308089,3.073968005918168
+Non-statistical ML-DL,Ridge,21,GradientBoosting,0.3273726805554063,3.073968005918168
+Non-statistical ML-DL,Ridge,21,RandomForest,-0.14393634538285285,3.073968005918168
+Non-statistical ML-DL,Ridge,21,XGBoost,0.17513084303663312,3.073968005918168
+Non-statistical ML-DL,Ridge,21,LightGBM,-0.032290251285729744,3.073968005918168
+Non-statistical ML-DL,Ridge,21,Bagging,-0.15484770133301345,3.073968005918168
+Non-statistical ML-DL,Ridge,21,GRU,-0.0593124223965369,3.073968005918168
+Non-statistical ML-DL,Ridge,21,LSTM,0.06363719768223053,3.073968005918168
+Non-statistical ML-DL,Ridge,22,LinearRegression,-0.06943930851383891,5.316904458899408
+Non-statistical ML-DL,Ridge,22,Ridge,0.15771763732963234,5.316904458899408
+Non-statistical ML-DL,Ridge,22,ElasticNet,0.7126652704883503,5.316904458899408
+Non-statistical ML-DL,Ridge,22,GradientBoosting,-0.25453587360142543,5.316904458899408
+Non-statistical ML-DL,Ridge,22,RandomForest,0.0025968227334769636,5.316904458899408
+Non-statistical ML-DL,Ridge,22,XGBoost,0.20634334203789256,5.316904458899408
+Non-statistical ML-DL,Ridge,22,LightGBM,0.19442366461757155,5.316904458899408
+Non-statistical ML-DL,Ridge,22,Bagging,-0.11819874016352082,5.316904458899408
+Non-statistical ML-DL,Ridge,22,GRU,-0.006315135623048101,5.316904458899408
+Non-statistical ML-DL,Ridge,22,LSTM,0.09969060726489114,5.316904458899408
+Non-statistical ML-DL,Ridge,23,LinearRegression,-0.09788877613050902,9.307695962483763
+Non-statistical ML-DL,Ridge,23,Ridge,-0.25098764784370936,9.307695962483763
+Non-statistical ML-DL,Ridge,23,ElasticNet,1.2409469619630447,9.307695962483763
+Non-statistical ML-DL,Ridge,23,GradientBoosting,0.061438598733156526,9.307695962483763
+Non-statistical ML-DL,Ridge,23,RandomForest,-0.05709068329268597,9.307695962483763
+Non-statistical ML-DL,Ridge,23,XGBoost,-0.2357986260399172,9.307695962483763
+Non-statistical ML-DL,Ridge,23,LightGBM,0.10360087548990031,9.307695962483763
+Non-statistical ML-DL,Ridge,23,Bagging,0.08732161816966495,9.307695962483763
+Non-statistical ML-DL,Ridge,23,GRU,-0.06284881769104562,9.307695962483763
+Non-statistical ML-DL,Ridge,23,LSTM,0.057543482575608484,9.307695962483763
+Non-statistical ML-DL,Ridge,24,LinearRegression,-0.03031905019220515,17.42754820749864
+Non-statistical ML-DL,Ridge,24,Ridge,-0.7139605215602353,17.42754820749864
+Non-statistical ML-DL,Ridge,24,ElasticNet,1.615210640542475,17.42754820749864
+Non-statistical ML-DL,Ridge,24,GradientBoosting,0.1334917166113491,17.42754820749864
+Non-statistical ML-DL,Ridge,24,RandomForest,0.06627178221731145,17.42754820749864
+Non-statistical ML-DL,Ridge,24,XGBoost,0.3713947619708288,17.42754820749864
+Non-statistical ML-DL,Ridge,24,LightGBM,-0.44172815615453453,17.42754820749864
+Non-statistical ML-DL,Ridge,24,Bagging,-0.3297278454184084,17.42754820749864
+Non-statistical ML-DL,Ridge,24,GRU,0.26064911839586846,17.42754820749864
+Non-statistical ML-DL,Ridge,24,LSTM,-0.2503073491379996,17.42754820749864
+Non-statistical ML-DL,ElasticNet,1,LinearRegression,-0.06317707156696555,16.493913833325422
+Non-statistical ML-DL,ElasticNet,1,Ridge,-0.13225057797019985,16.493913833325422
+Non-statistical ML-DL,ElasticNet,1,ElasticNet,1.0732444302017723,16.493913833325422
+Non-statistical ML-DL,ElasticNet,1,GradientBoosting,-0.2482605851930836,16.493913833325422
+Non-statistical ML-DL,ElasticNet,1,RandomForest,-0.1658038252986051,16.493913833325422
+Non-statistical ML-DL,ElasticNet,1,XGBoost,0.11230023328549801,16.493913833325422
+Non-statistical ML-DL,ElasticNet,1,LightGBM,0.14013347350213023,16.493913833325422
+Non-statistical ML-DL,ElasticNet,1,Bagging,0.1579031879004897,16.493913833325422
+Non-statistical ML-DL,ElasticNet,1,GRU,-0.1735982444079448,16.493913833325422
+Non-statistical ML-DL,ElasticNet,1,LSTM,0.0,16.493913833325422
+Non-statistical ML-DL,ElasticNet,2,LinearRegression,-0.03334439937933501,19.75962231053676
+Non-statistical ML-DL,ElasticNet,2,Ridge,-0.3085400656451094,19.75962231053676
+Non-statistical ML-DL,ElasticNet,2,ElasticNet,1.1331667047961678,19.75962231053676
+Non-statistical ML-DL,ElasticNet,2,GradientBoosting,-0.59987202310439,19.75962231053676
+Non-statistical ML-DL,ElasticNet,2,RandomForest,-0.3101485228423043,19.75962231053676
+Non-statistical ML-DL,ElasticNet,2,XGBoost,0.13821554203214861,19.75962231053676
+Non-statistical ML-DL,ElasticNet,2,LightGBM,0.41691092639366467,19.75962231053676
+Non-statistical ML-DL,ElasticNet,2,Bagging,0.40155799693401034,19.75962231053676
+Non-statistical ML-DL,ElasticNet,2,GRU,-0.24250829577490507,19.75962231053676
+Non-statistical ML-DL,ElasticNet,2,LSTM,0.020758318387691935,19.75962231053676
+Non-statistical ML-DL,ElasticNet,3,LinearRegression,-0.05052324293370195,17.300982684361976
+Non-statistical ML-DL,ElasticNet,3,Ridge,-0.5133636603166327,17.300982684361976
+Non-statistical ML-DL,ElasticNet,3,ElasticNet,1.247847154162502,17.300982684361976
+Non-statistical ML-DL,ElasticNet,3,GradientBoosting,-0.24350032819141168,17.300982684361976
+Non-statistical ML-DL,ElasticNet,3,RandomForest,-0.3744550939889998,17.300982684361976
+Non-statistical ML-DL,ElasticNet,3,XGBoost,-0.04471321931589658,17.300982684361976
+Non-statistical ML-DL,ElasticNet,3,LightGBM,0.47121268070924666,17.300982684361976
+Non-statistical ML-DL,ElasticNet,3,Bagging,0.4060156183696479,17.300982684361976
+Non-statistical ML-DL,ElasticNet,3,GRU,-0.25354045708104667,17.300982684361976
+Non-statistical ML-DL,ElasticNet,3,LSTM,0.0211972787872193,17.300982684361976
+Non-statistical ML-DL,ElasticNet,4,LinearRegression,-0.025181625081441516,14.951149483779641
+Non-statistical ML-DL,ElasticNet,4,Ridge,-0.6725871372613768,14.951149483779641
+Non-statistical ML-DL,ElasticNet,4,ElasticNet,1.240793030428627,14.951149483779641
+Non-statistical ML-DL,ElasticNet,4,GradientBoosting,-0.4374504438839071,14.951149483779641
+Non-statistical ML-DL,ElasticNet,4,RandomForest,-0.5435031611430998,14.951149483779641
+Non-statistical ML-DL,ElasticNet,4,XGBoost,0.2060185090497888,14.951149483779641
+Non-statistical ML-DL,ElasticNet,4,LightGBM,0.47839866332162917,14.951149483779641
+Non-statistical ML-DL,ElasticNet,4,Bagging,0.37549992968328244,14.951149483779641
+Non-statistical ML-DL,ElasticNet,4,GRU,0.05692763156382287,14.951149483779641
+Non-statistical ML-DL,ElasticNet,4,LSTM,0.028948626654760615,14.951149483779641
+Non-statistical ML-DL,ElasticNet,5,LinearRegression,-0.018123239966480208,15.04474360787177
+Non-statistical ML-DL,ElasticNet,5,Ridge,-0.5417696296492401,15.04474360787177
+Non-statistical ML-DL,ElasticNet,5,ElasticNet,1.089009266901976,15.04474360787177
+Non-statistical ML-DL,ElasticNet,5,GradientBoosting,-0.31786180046333484,15.04474360787177
+Non-statistical ML-DL,ElasticNet,5,RandomForest,-0.5169442441292621,15.04474360787177
+Non-statistical ML-DL,ElasticNet,5,XGBoost,0.13618888658162953,15.04474360787177
+Non-statistical ML-DL,ElasticNet,5,LightGBM,0.4217139572961185,15.04474360787177
+Non-statistical ML-DL,ElasticNet,5,Bagging,0.351917598455834,15.04474360787177
+Non-statistical ML-DL,ElasticNet,5,GRU,0.051333909173786295,15.04474360787177
+Non-statistical ML-DL,ElasticNet,5,LSTM,0.04776654877783084,15.04474360787177
+Non-statistical ML-DL,ElasticNet,6,LinearRegression,-0.07223745043396554,16.9576334879886
+Non-statistical ML-DL,ElasticNet,6,Ridge,-0.4160756741573322,16.9576334879886
+Non-statistical ML-DL,ElasticNet,6,ElasticNet,1.0967930718483174,16.9576334879886
+Non-statistical ML-DL,ElasticNet,6,GradientBoosting,-0.29976446441028237,16.9576334879886
+Non-statistical ML-DL,ElasticNet,6,RandomForest,-0.3838131914568244,16.9576334879886
+Non-statistical ML-DL,ElasticNet,6,XGBoost,0.05114449152287707,16.9576334879886
+Non-statistical ML-DL,ElasticNet,6,LightGBM,0.4110698020768712,16.9576334879886
+Non-statistical ML-DL,ElasticNet,6,Bagging,0.28738526042666696,16.9576334879886
+Non-statistical ML-DL,ElasticNet,6,GRU,-0.10486721967798891,16.9576334879886
+Non-statistical ML-DL,ElasticNet,6,LSTM,0.08370095630878759,16.9576334879886
+Non-statistical ML-DL,ElasticNet,7,LinearRegression,-0.04819217011746772,18.689693793191154
+Non-statistical ML-DL,ElasticNet,7,Ridge,-0.0413909591538228,18.689693793191154
+Non-statistical ML-DL,ElasticNet,7,ElasticNet,0.7960338744629787,18.689693793191154
+Non-statistical ML-DL,ElasticNet,7,GradientBoosting,-0.3351072314831113,18.689693793191154
+Non-statistical ML-DL,ElasticNet,7,RandomForest,-0.022696080489072793,18.689693793191154
+Non-statistical ML-DL,ElasticNet,7,XGBoost,0.021629434570445825,18.689693793191154
+Non-statistical ML-DL,ElasticNet,7,LightGBM,0.4461993074992083,18.689693793191154
+Non-statistical ML-DL,ElasticNet,7,Bagging,-0.0,18.689693793191154
+Non-statistical ML-DL,ElasticNet,7,GRU,-0.2863122680742149,18.689693793191154
+Non-statistical ML-DL,ElasticNet,7,LSTM,0.09589704335942348,18.689693793191154
+Non-statistical ML-DL,ElasticNet,8,LinearRegression,0.003723853583356322,15.281350751659495
+Non-statistical ML-DL,ElasticNet,8,Ridge,0.1561747021120469,15.281350751659495
+Non-statistical ML-DL,ElasticNet,8,ElasticNet,0.6626509452355965,15.281350751659495
+Non-statistical ML-DL,ElasticNet,8,GradientBoosting,-0.1410235775461405,15.281350751659495
+Non-statistical ML-DL,ElasticNet,8,RandomForest,-0.0019107669050805241,15.281350751659495
+Non-statistical ML-DL,ElasticNet,8,XGBoost,-0.07573727192565231,15.281350751659495
+Non-statistical ML-DL,ElasticNet,8,LightGBM,0.46825318354608825,15.281350751659495
+Non-statistical ML-DL,ElasticNet,8,Bagging,0.00916560486109312,15.281350751659495
+Non-statistical ML-DL,ElasticNet,8,GRU,-0.4050538327369277,15.281350751659495
+Non-statistical ML-DL,ElasticNet,8,LSTM,0.04364831234123792,15.281350751659495
+Non-statistical ML-DL,ElasticNet,9,LinearRegression,0.06738903018418972,15.38170095311925
+Non-statistical ML-DL,ElasticNet,9,Ridge,0.10832209536750845,15.38170095311925
+Non-statistical ML-DL,ElasticNet,9,ElasticNet,0.6371719864798813,15.38170095311925
+Non-statistical ML-DL,ElasticNet,9,GradientBoosting,-0.11107467874523232,15.38170095311925
+Non-statistical ML-DL,ElasticNet,9,RandomForest,-0.44899055991804004,15.38170095311925
+Non-statistical ML-DL,ElasticNet,9,XGBoost,-0.04167555436528095,15.38170095311925
+Non-statistical ML-DL,ElasticNet,9,LightGBM,0.5467305504901476,15.38170095311925
+Non-statistical ML-DL,ElasticNet,9,Bagging,0.355702340219508,15.38170095311925
+Non-statistical ML-DL,ElasticNet,9,GRU,-0.6512782408792808,15.38170095311925
+Non-statistical ML-DL,ElasticNet,9,LSTM,0.26329546813982396,15.38170095311925
+Non-statistical ML-DL,ElasticNet,10,LinearRegression,0.10634137321681979,16.495437007776474
+Non-statistical ML-DL,ElasticNet,10,Ridge,0.05768224902244024,16.495437007776474
+Non-statistical ML-DL,ElasticNet,10,ElasticNet,0.7655577370492174,16.495437007776474
+Non-statistical ML-DL,ElasticNet,10,GradientBoosting,-0.46048990419945207,16.495437007776474
+Non-statistical ML-DL,ElasticNet,10,RandomForest,-0.5089574007228822,16.495437007776474
+Non-statistical ML-DL,ElasticNet,10,XGBoost,0.2422227546547567,16.495437007776474
+Non-statistical ML-DL,ElasticNet,10,LightGBM,0.4976713394891252,16.495437007776474
+Non-statistical ML-DL,ElasticNet,10,Bagging,0.3411841442492752,16.495437007776474
+Non-statistical ML-DL,ElasticNet,10,GRU,-0.36790847743284744,16.495437007776474
+Non-statistical ML-DL,ElasticNet,10,LSTM,0.0501742746212472,16.495437007776474
+Non-statistical ML-DL,ElasticNet,11,LinearRegression,0.15979449027744613,9.402739374322046
+Non-statistical ML-DL,ElasticNet,11,Ridge,0.0,9.402739374322046
+Non-statistical ML-DL,ElasticNet,11,ElasticNet,0.5979742641782712,9.402739374322046
+Non-statistical ML-DL,ElasticNet,11,GradientBoosting,0.10032098854584688,9.402739374322046
+Non-statistical ML-DL,ElasticNet,11,RandomForest,-0.23171492535346822,9.402739374322046
+Non-statistical ML-DL,ElasticNet,11,XGBoost,-0.0,9.402739374322046
+Non-statistical ML-DL,ElasticNet,11,LightGBM,0.28295840028132296,9.402739374322046
+Non-statistical ML-DL,ElasticNet,11,Bagging,0.08336491951095432,9.402739374322046
+Non-statistical ML-DL,ElasticNet,11,GRU,-0.36878426167002015,9.402739374322046
+Non-statistical ML-DL,ElasticNet,11,LSTM,0.21376534415814216,9.402739374322046
+Non-statistical ML-DL,ElasticNet,12,LinearRegression,0.09512217560706557,8.177512736593613
+Non-statistical ML-DL,ElasticNet,12,Ridge,0.13565367971742381,8.177512736593613
+Non-statistical ML-DL,ElasticNet,12,ElasticNet,0.5500210308114962,8.177512736593613
+Non-statistical ML-DL,ElasticNet,12,GradientBoosting,0.01173395331465502,8.177512736593613
+Non-statistical ML-DL,ElasticNet,12,RandomForest,-0.2674080562626168,8.177512736593613
+Non-statistical ML-DL,ElasticNet,12,XGBoost,0.38004447367258964,8.177512736593613
+Non-statistical ML-DL,ElasticNet,12,LightGBM,-0.018383426240600544,8.177512736593613
+Non-statistical ML-DL,ElasticNet,12,Bagging,-0.020457182864149194,8.177512736593613
+Non-statistical ML-DL,ElasticNet,12,GRU,-0.07809158841640251,8.177512736593613
+Non-statistical ML-DL,ElasticNet,12,LSTM,0.07445934749303336,8.177512736593613
+Non-statistical ML-DL,ElasticNet,13,LinearRegression,0.0772940551928693,9.67568168198703
+Non-statistical ML-DL,ElasticNet,13,Ridge,0.143814986032321,9.67568168198703
+Non-statistical ML-DL,ElasticNet,13,ElasticNet,0.5963683653400417,9.67568168198703
+Non-statistical ML-DL,ElasticNet,13,GradientBoosting,0.17269144851291948,9.67568168198703
+Non-statistical ML-DL,ElasticNet,13,RandomForest,-0.22947521837779622,9.67568168198703
+Non-statistical ML-DL,ElasticNet,13,XGBoost,0.0899302692181845,9.67568168198703
+Non-statistical ML-DL,ElasticNet,13,LightGBM,0.14111753445479813,9.67568168198703
+Non-statistical ML-DL,ElasticNet,13,Bagging,0.06931062861486548,9.67568168198703
+Non-statistical ML-DL,ElasticNet,13,GRU,-0.4935511607095298,9.67568168198703
+Non-statistical ML-DL,ElasticNet,13,LSTM,0.26983661717609225,9.67568168198703
+Non-statistical ML-DL,ElasticNet,14,LinearRegression,0.016106674363695582,8.4736429408661
+Non-statistical ML-DL,ElasticNet,14,Ridge,0.19460968434717113,8.4736429408661
+Non-statistical ML-DL,ElasticNet,14,ElasticNet,0.6147480654421836,8.4736429408661
+Non-statistical ML-DL,ElasticNet,14,GradientBoosting,0.0008944922916886433,8.4736429408661
+Non-statistical ML-DL,ElasticNet,14,RandomForest,-0.34386222243129455,8.4736429408661
+Non-statistical ML-DL,ElasticNet,14,XGBoost,0.48788498528089347,8.4736429408661
+Non-statistical ML-DL,ElasticNet,14,LightGBM,-0.01639653317959422,8.4736429408661
+Non-statistical ML-DL,ElasticNet,14,Bagging,0.020535643110042703,8.4736429408661
+Non-statistical ML-DL,ElasticNet,14,GRU,-0.3561173493963904,8.4736429408661
+Non-statistical ML-DL,ElasticNet,14,LSTM,0.24270087261207468,8.4736429408661
+Non-statistical ML-DL,ElasticNet,15,LinearRegression,-0.000838507516454909,18.619394661554125
+Non-statistical ML-DL,ElasticNet,15,Ridge,0.3281459506974312,18.619394661554125
+Non-statistical ML-DL,ElasticNet,15,ElasticNet,0.5320192768782355,18.619394661554125
+Non-statistical ML-DL,ElasticNet,15,GradientBoosting,-0.4924197117889023,18.619394661554125
+Non-statistical ML-DL,ElasticNet,15,RandomForest,-0.6748095686333374,18.619394661554125
+Non-statistical ML-DL,ElasticNet,15,XGBoost,0.8256075535279405,18.619394661554125
+Non-statistical ML-DL,ElasticNet,15,LightGBM,-2.46876507117388e-05,18.619394661554125
+Non-statistical ML-DL,ElasticNet,15,Bagging,0.41392809761348737,18.619394661554125
+Non-statistical ML-DL,ElasticNet,15,GRU,-0.4757464549170687,18.619394661554125
+Non-statistical ML-DL,ElasticNet,15,LSTM,0.2007472780389275,18.619394661554125
+Non-statistical ML-DL,ElasticNet,16,LinearRegression,-0.009157470905726864,16.47731447063466
+Non-statistical ML-DL,ElasticNet,16,Ridge,-0.16577964282509633,16.47731447063466
+Non-statistical ML-DL,ElasticNet,16,ElasticNet,0.9364364847722859,16.47731447063466
+Non-statistical ML-DL,ElasticNet,16,GradientBoosting,0.19085776655272663,16.47731447063466
+Non-statistical ML-DL,ElasticNet,16,RandomForest,-0.3789043867941496,16.47731447063466
+Non-statistical ML-DL,ElasticNet,16,XGBoost,0.3251214757633381,16.47731447063466
+Non-statistical ML-DL,ElasticNet,16,LightGBM,-0.020860313254875328,16.47731447063466
+Non-statistical ML-DL,ElasticNet,16,Bagging,0.22169818499935554,16.47731447063466
+Non-statistical ML-DL,ElasticNet,16,GRU,-0.6567202573053011,16.47731447063466
+Non-statistical ML-DL,ElasticNet,16,LSTM,0.24188313739278167,16.47731447063466
+Non-statistical ML-DL,ElasticNet,17,LinearRegression,-0.014041783632245477,10.318351950920146
+Non-statistical ML-DL,ElasticNet,17,Ridge,0.0,10.318351950920146
+Non-statistical ML-DL,ElasticNet,17,ElasticNet,0.6696010696499074,10.318351950920146
+Non-statistical ML-DL,ElasticNet,17,GradientBoosting,-0.05895265430052735,10.318351950920146
+Non-statistical ML-DL,ElasticNet,17,RandomForest,-0.3244163467266236,10.318351950920146
+Non-statistical ML-DL,ElasticNet,17,XGBoost,0.2799617386035552,10.318351950920146
+Non-statistical ML-DL,ElasticNet,17,LightGBM,0.06468530777643448,10.318351950920146
+Non-statistical ML-DL,ElasticNet,17,Bagging,0.16386013534268531,10.318351950920146
+Non-statistical ML-DL,ElasticNet,17,GRU,-0.06394140460157413,10.318351950920146
+Non-statistical ML-DL,ElasticNet,17,LSTM,0.1041282499251495,10.318351950920146
+Non-statistical ML-DL,ElasticNet,18,LinearRegression,-0.03450186217663005,9.644239320728282
+Non-statistical ML-DL,ElasticNet,18,Ridge,0.0,9.644239320728282
+Non-statistical ML-DL,ElasticNet,18,ElasticNet,0.7848925952487094,9.644239320728282
+Non-statistical ML-DL,ElasticNet,18,GradientBoosting,-0.3516147518684699,9.644239320728282
+Non-statistical ML-DL,ElasticNet,18,RandomForest,-0.7453029240747914,9.644239320728282
+Non-statistical ML-DL,ElasticNet,18,XGBoost,0.6099302322684068,9.644239320728282
+Non-statistical ML-DL,ElasticNet,18,LightGBM,0.07160117781987857,9.644239320728282
+Non-statistical ML-DL,ElasticNet,18,Bagging,0.5569248193274091,9.644239320728282
+Non-statistical ML-DL,ElasticNet,18,GRU,-0.112872576154267,9.644239320728282
+Non-statistical ML-DL,ElasticNet,18,LSTM,0.06281971802266986,9.644239320728282
+Non-statistical ML-DL,ElasticNet,19,LinearRegression,0.08724252279507742,0.5829788754352592
+Non-statistical ML-DL,ElasticNet,19,Ridge,-0.07785098317720954,0.5829788754352592
+Non-statistical ML-DL,ElasticNet,19,ElasticNet,0.650995897664778,0.5829788754352592
+Non-statistical ML-DL,ElasticNet,19,GradientBoosting,-0.07027178231601752,0.5829788754352592
+Non-statistical ML-DL,ElasticNet,19,RandomForest,-0.6556662665938079,0.5829788754352592
+Non-statistical ML-DL,ElasticNet,19,XGBoost,0.6502576014644347,0.5829788754352592
+Non-statistical ML-DL,ElasticNet,19,LightGBM,-0.08389191352467636,0.5829788754352592
+Non-statistical ML-DL,ElasticNet,19,Bagging,0.490164896140196,0.5829788754352592
+Non-statistical ML-DL,ElasticNet,19,GRU,-0.09371624005540663,0.5829788754352592
+Non-statistical ML-DL,ElasticNet,19,LSTM,0.13182063718335837,0.5829788754352592
+Non-statistical ML-DL,ElasticNet,20,LinearRegression,0.08184767219456429,3.2954196484273126
+Non-statistical ML-DL,ElasticNet,20,Ridge,0.20054050361071743,3.2954196484273126
+Non-statistical ML-DL,ElasticNet,20,ElasticNet,0.464864014105614,3.2954196484273126
+Non-statistical ML-DL,ElasticNet,20,GradientBoosting,0.13778610106515157,3.2954196484273126
+Non-statistical ML-DL,ElasticNet,20,RandomForest,-0.38449364616885484,3.2954196484273126
+Non-statistical ML-DL,ElasticNet,20,XGBoost,0.5553429088095664,3.2954196484273126
+Non-statistical ML-DL,ElasticNet,20,LightGBM,-0.1319002486830803,3.2954196484273126
+Non-statistical ML-DL,ElasticNet,20,Bagging,0.10611360943768115,3.2954196484273126
+Non-statistical ML-DL,ElasticNet,20,GRU,-0.16037525722826235,3.2954196484273126
+Non-statistical ML-DL,ElasticNet,20,LSTM,0.10294713689064978,3.2954196484273126
+Non-statistical ML-DL,ElasticNet,21,LinearRegression,0.021457576822682515,2.649100778114324
+Non-statistical ML-DL,ElasticNet,21,Ridge,0.2752884370062439,2.649100778114324
+Non-statistical ML-DL,ElasticNet,21,ElasticNet,0.4885766300997033,2.649100778114324
+Non-statistical ML-DL,ElasticNet,21,GradientBoosting,0.3121860262757323,2.649100778114324
+Non-statistical ML-DL,ElasticNet,21,RandomForest,-0.14862143866322144,2.649100778114324
+Non-statistical ML-DL,ElasticNet,21,XGBoost,0.16793002737199184,2.649100778114324
+Non-statistical ML-DL,ElasticNet,21,LightGBM,-0.012032053998359481,2.649100778114324
+Non-statistical ML-DL,ElasticNet,21,Bagging,-0.14187611374748638,2.649100778114324
+Non-statistical ML-DL,ElasticNet,21,GRU,-0.04798531295596502,2.649100778114324
+Non-statistical ML-DL,ElasticNet,21,LSTM,0.06005125094437913,2.649100778114324
+Non-statistical ML-DL,ElasticNet,22,LinearRegression,-0.059184770034509455,5.141927767226306
+Non-statistical ML-DL,ElasticNet,22,Ridge,0.24826173825223935,5.141927767226306
+Non-statistical ML-DL,ElasticNet,22,ElasticNet,0.6059051238758024,5.141927767226306
+Non-statistical ML-DL,ElasticNet,22,GradientBoosting,-0.23003460135074968,5.141927767226306
+Non-statistical ML-DL,ElasticNet,22,RandomForest,-0.003362746302231427,5.141927767226306
+Non-statistical ML-DL,ElasticNet,22,XGBoost,0.190158761787849,5.141927767226306
+Non-statistical ML-DL,ElasticNet,22,LightGBM,0.19417514220050502,5.141927767226306
+Non-statistical ML-DL,ElasticNet,22,Bagging,-0.11341964756328246,5.141927767226306
+Non-statistical ML-DL,ElasticNet,22,GRU,-0.0006707782323601446,5.141927767226306
+Non-statistical ML-DL,ElasticNet,22,LSTM,0.09625722691039681,5.141927767226306
+Non-statistical ML-DL,ElasticNet,23,LinearRegression,-0.09038961015335305,8.995843022309074
+Non-statistical ML-DL,ElasticNet,23,Ridge,0.0,8.995843022309074
+Non-statistical ML-DL,ElasticNet,23,ElasticNet,0.9808438014077037,8.995843022309074
+Non-statistical ML-DL,ElasticNet,23,GradientBoosting,0.052257857534112634,8.995843022309074
+Non-statistical ML-DL,ElasticNet,23,RandomForest,-0.010420010946493039,8.995843022309074
+Non-statistical ML-DL,ElasticNet,23,XGBoost,-0.2275610358386006,8.995843022309074
+Non-statistical ML-DL,ElasticNet,23,LightGBM,0.1017388312957855,8.995843022309074
+Non-statistical ML-DL,ElasticNet,23,Bagging,0.03898779362280135,8.995843022309074
+Non-statistical ML-DL,ElasticNet,23,GRU,-0.04671512468492615,8.995843022309074
+Non-statistical ML-DL,ElasticNet,23,LSTM,0.05480746443528044,8.995843022309074
+Non-statistical ML-DL,ElasticNet,24,LinearRegression,-0.03204513317233496,17.114974014938262
+Non-statistical ML-DL,ElasticNet,24,Ridge,-0.25298976066975276,17.114974014938262
+Non-statistical ML-DL,ElasticNet,24,ElasticNet,1.1594291246116861,17.114974014938262
+Non-statistical ML-DL,ElasticNet,24,GradientBoosting,0.12052545739195117,17.114974014938262
+Non-statistical ML-DL,ElasticNet,24,RandomForest,0.012437709646526783,17.114974014938262
+Non-statistical ML-DL,ElasticNet,24,XGBoost,0.350535689814628,17.114974014938262
+Non-statistical ML-DL,ElasticNet,24,LightGBM,-0.41702725655874634,17.114974014938262
+Non-statistical ML-DL,ElasticNet,24,Bagging,-0.26326028404594104,17.114974014938262
+Non-statistical ML-DL,ElasticNet,24,GRU,0.2640180266032603,17.114974014938262
+Non-statistical ML-DL,ElasticNet,24,LSTM,-0.250974778767041,17.114974014938262
+Homogeneous tree-based,Ridge,1,GradientBoosting,0.5750847100897319,10.158829332140833
+Homogeneous tree-based,Ridge,1,RandomForest,-0.3933818474513056,10.158829332140833
+Homogeneous tree-based,Ridge,1,XGBoost,-0.3250052313716715,10.158829332140833
+Homogeneous tree-based,Ridge,1,LightGBM,0.6495679688241236,10.158829332140833
+Homogeneous tree-based,Ridge,1,Bagging,0.3355593301951257,10.158829332140833
+Homogeneous tree-based,Ridge,2,GradientBoosting,-0.26398744348472714,16.225414533782374
+Homogeneous tree-based,Ridge,2,RandomForest,-0.1812717379765727,16.225414533782374
+Homogeneous tree-based,Ridge,2,XGBoost,-0.13199596939249036,16.225414533782374
+Homogeneous tree-based,Ridge,2,LightGBM,1.0437478676174392,16.225414533782374
+Homogeneous tree-based,Ridge,2,Bagging,0.23194888636480063,16.225414533782374
+Homogeneous tree-based,Ridge,3,GradientBoosting,0.02145882491256517,15.551504701281878
+Homogeneous tree-based,Ridge,3,RandomForest,-0.35982490006396606,15.551504701281878
+Homogeneous tree-based,Ridge,3,XGBoost,-0.12374306285595253,15.551504701281878
+Homogeneous tree-based,Ridge,3,LightGBM,0.8901660245642986,15.551504701281878
+Homogeneous tree-based,Ridge,3,Bagging,0.27419875622111683,15.551504701281878
+Homogeneous tree-based,Ridge,4,GradientBoosting,-0.3054486806743384,18.101830080511547
+Homogeneous tree-based,Ridge,4,RandomForest,-0.6993891036731575,18.101830080511547
+Homogeneous tree-based,Ridge,4,XGBoost,0.22431911937550225,18.101830080511547
+Homogeneous tree-based,Ridge,4,LightGBM,0.8619713623269941,18.101830080511547
+Homogeneous tree-based,Ridge,4,Bagging,0.5454600569330532,18.101830080511547
+Homogeneous tree-based,Ridge,5,GradientBoosting,-0.09691478459095924,17.923042313041986
+Homogeneous tree-based,Ridge,5,RandomForest,-0.6934417644668079,17.923042313041986
+Homogeneous tree-based,Ridge,5,XGBoost,0.13401500402959213,17.923042313041986
+Homogeneous tree-based,Ridge,5,LightGBM,0.7722955116573782,17.923042313041986
+Homogeneous tree-based,Ridge,5,Bagging,0.5127087160047523,17.923042313041986
+Homogeneous tree-based,Ridge,6,GradientBoosting,0.16004952796071842,17.499646807810738
+Homogeneous tree-based,Ridge,6,RandomForest,-0.5666008785900228,17.499646807810738
+Homogeneous tree-based,Ridge,6,XGBoost,-0.12407355798761617,17.499646807810738
+Homogeneous tree-based,Ridge,6,LightGBM,0.766059213393892,17.499646807810738
+Homogeneous tree-based,Ridge,6,Bagging,0.40382471972113265,17.499646807810738
+Homogeneous tree-based,Ridge,7,GradientBoosting,0.3855144219613233,14.253347023466858
+Homogeneous tree-based,Ridge,7,RandomForest,-0.03844260662786213,14.253347023466858
+Homogeneous tree-based,Ridge,7,XGBoost,-0.3124451595124928,14.253347023466858
+Homogeneous tree-based,Ridge,7,LightGBM,0.8321772315238649,14.253347023466858
+Homogeneous tree-based,Ridge,7,Bagging,-0.14244910695480956,14.253347023466858
+Homogeneous tree-based,Ridge,8,GradientBoosting,0.5587740563019882,8.525011782937732
+Homogeneous tree-based,Ridge,8,RandomForest,-0.05582966642404385,8.525011782937732
+Homogeneous tree-based,Ridge,8,XGBoost,-0.4008571764235721,8.525011782937732
+Homogeneous tree-based,Ridge,8,LightGBM,0.8208662907842129,8.525011782937732
+Homogeneous tree-based,Ridge,8,Bagging,-0.0645654179882594,8.525011782937732
+Homogeneous tree-based,Ridge,9,GradientBoosting,0.5986733140855531,6.974053135718584
+Homogeneous tree-based,Ridge,9,RandomForest,-0.5003473803235083,6.974053135718584
+Homogeneous tree-based,Ridge,9,XGBoost,-0.3269941704553105,6.974053135718584
+Homogeneous tree-based,Ridge,9,LightGBM,0.8491109524379508,6.974053135718584
+Homogeneous tree-based,Ridge,9,Bagging,0.2690153463017228,6.974053135718584
+Homogeneous tree-based,Ridge,10,GradientBoosting,0.5348296187289756,8.03772170285179
+Homogeneous tree-based,Ridge,10,RandomForest,-0.7305110656068583,8.03772170285179
+Homogeneous tree-based,Ridge,10,XGBoost,-0.18216928034968058,8.03772170285179
+Homogeneous tree-based,Ridge,10,LightGBM,0.9540219940250645,8.03772170285179
+Homogeneous tree-based,Ridge,10,Bagging,0.2917144079216755,8.03772170285179
+Homogeneous tree-based,Ridge,11,GradientBoosting,0.9410695426451705,1.394778454914558
+Homogeneous tree-based,Ridge,11,RandomForest,-0.3722325109385751,1.394778454914558
+Homogeneous tree-based,Ridge,11,XGBoost,-0.41190653749128964,1.394778454914558
+Homogeneous tree-based,Ridge,11,LightGBM,0.7432252422995388,1.394778454914558
+Homogeneous tree-based,Ridge,11,Bagging,0.0839318665667894,1.394778454914558
+Homogeneous tree-based,Ridge,12,GradientBoosting,1.0959145902601097,2.3245722001979985
+Homogeneous tree-based,Ridge,12,RandomForest,-0.5309083232429052,2.3245722001979985
+Homogeneous tree-based,Ridge,12,XGBoost,-0.10847659851198584,2.3245722001979985
+Homogeneous tree-based,Ridge,12,LightGBM,0.45590634371378314,2.3245722001979985
+Homogeneous tree-based,Ridge,12,Bagging,0.04898185971401541,2.3245722001979985
+Homogeneous tree-based,Ridge,13,GradientBoosting,1.2179125340552095,1.166107218924509
+Homogeneous tree-based,Ridge,13,RandomForest,-0.2357978168647027,1.166107218924509
+Homogeneous tree-based,Ridge,13,XGBoost,-0.577286073243656,1.166107218924509
+Homogeneous tree-based,Ridge,13,LightGBM,0.5988876278026468,1.166107218924509
+Homogeneous tree-based,Ridge,13,Bagging,-0.015337669357520343,1.166107218924509
+Homogeneous tree-based,Ridge,14,GradientBoosting,1.050461618709791,-1.5088478553558247
+Homogeneous tree-based,Ridge,14,RandomForest,-0.5303073627565605,-1.5088478553558247
+Homogeneous tree-based,Ridge,14,XGBoost,-0.12485138308936258,-1.5088478553558247
+Homogeneous tree-based,Ridge,14,LightGBM,0.5586894552978697,-1.5088478553558247
+Homogeneous tree-based,Ridge,14,Bagging,0.09166571476124989,-1.5088478553558247
+Homogeneous tree-based,Ridge,15,GradientBoosting,0.12324219041949352,8.046026623976992
+Homogeneous tree-based,Ridge,15,RandomForest,-1.0356801852982391,8.046026623976992
+Homogeneous tree-based,Ridge,15,XGBoost,0.6224164800643995,8.046026623976992
+Homogeneous tree-based,Ridge,15,LightGBM,0.6224630528037413,8.046026623976992
+Homogeneous tree-based,Ridge,15,Bagging,0.5412367546966493,8.046026623976992
+Homogeneous tree-based,Ridge,16,GradientBoosting,0.753304344914259,6.2715598026480635
+Homogeneous tree-based,Ridge,16,RandomForest,-0.755292685965428,6.2715598026480635
+Homogeneous tree-based,Ridge,16,XGBoost,-0.02450703546175588,6.2715598026480635
+Homogeneous tree-based,Ridge,16,LightGBM,0.49716930315668245,6.2715598026480635
+Homogeneous tree-based,Ridge,16,Bagging,0.44990489511932064,6.2715598026480635
+Homogeneous tree-based,Ridge,17,GradientBoosting,0.34717828366419046,8.469276919532454
+Homogeneous tree-based,Ridge,17,RandomForest,-0.5510689065394256,8.469276919532454
+Homogeneous tree-based,Ridge,17,XGBoost,-0.036688452801662025,8.469276919532454
+Homogeneous tree-based,Ridge,17,LightGBM,0.7429930345281635,8.469276919532454
+Homogeneous tree-based,Ridge,17,Bagging,0.3755159425038834,8.469276919532454
+Homogeneous tree-based,Ridge,18,GradientBoosting,0.21118772189844326,6.384077803177675
+Homogeneous tree-based,Ridge,18,RandomForest,-0.9042519316328632,6.384077803177675
+Homogeneous tree-based,Ridge,18,XGBoost,0.20948307477960662,6.384077803177675
+Homogeneous tree-based,Ridge,18,LightGBM,0.7551890556571925,6.384077803177675
+Homogeneous tree-based,Ridge,18,Bagging,0.6505296767568131,6.384077803177675
+Homogeneous tree-based,Ridge,19,GradientBoosting,0.25423174006391513,-0.15511451476329796
+Homogeneous tree-based,Ridge,19,RandomForest,-0.7425703541670844,-0.15511451476329796
+Homogeneous tree-based,Ridge,19,XGBoost,0.5570642804448748,-0.15511451476329796
+Homogeneous tree-based,Ridge,19,LightGBM,0.5095409385453498,-0.15511451476329796
+Homogeneous tree-based,Ridge,19,Bagging,0.4852144450915155,-0.15511451476329796
+Homogeneous tree-based,Ridge,20,GradientBoosting,0.37767029549390985,-1.1950293411395378
+Homogeneous tree-based,Ridge,20,RandomForest,-0.5184107691193588,-1.1950293411395378
+Homogeneous tree-based,Ridge,20,XGBoost,0.48671632934530956,-1.1950293411395378
+Homogeneous tree-based,Ridge,20,LightGBM,0.6474157804297122,-1.1950293411395378
+Homogeneous tree-based,Ridge,20,Bagging,0.07470558238519885,-1.1950293411395378
+Homogeneous tree-based,Ridge,21,GradientBoosting,0.7813959251640613,-5.073359571304884
+Homogeneous tree-based,Ridge,21,RandomForest,-0.3299817908716834,-5.073359571304884
+Homogeneous tree-based,Ridge,21,XGBoost,-0.0889839919485503,-5.073359571304884
+Homogeneous tree-based,Ridge,21,LightGBM,0.9405681623764434,-5.073359571304884
+Homogeneous tree-based,Ridge,21,Bagging,-0.17977292371290546,-5.073359571304884
+Homogeneous tree-based,Ridge,22,GradientBoosting,0.5661820901646855,-0.2200607989742096
+Homogeneous tree-based,Ridge,22,RandomForest,-0.6233826664035008,-0.2200607989742096
+Homogeneous tree-based,Ridge,22,XGBoost,-0.22830624975744465,-0.2200607989742096
+Homogeneous tree-based,Ridge,22,LightGBM,1.0896147943585412,-0.2200607989742096
+Homogeneous tree-based,Ridge,22,Bagging,0.2186391799265034,-0.2200607989742096
+Homogeneous tree-based,Ridge,23,GradientBoosting,0.317110941958406,6.416260035669957
+Homogeneous tree-based,Ridge,23,RandomForest,-0.6822917750781426,6.416260035669957
+Homogeneous tree-based,Ridge,23,XGBoost,-0.3575275855020742,6.416260035669957
+Homogeneous tree-based,Ridge,23,LightGBM,1.159105839884534,6.416260035669957
+Homogeneous tree-based,Ridge,23,Bagging,0.4778083451426493,6.416260035669957
+Homogeneous tree-based,Ridge,24,GradientBoosting,1.1893039828834968,7.544476463395661
+Homogeneous tree-based,Ridge,24,RandomForest,-0.322325366688941,7.544476463395661
+Homogeneous tree-based,Ridge,24,XGBoost,-0.1080838592019885,7.544476463395661
+Homogeneous tree-based,Ridge,24,LightGBM,0.21292806226622107,7.544476463395661
+Homogeneous tree-based,Ridge,24,Bagging,-0.07833036614027038,7.544476463395661
+Homogeneous tree-based,ElasticNet,1,GradientBoosting,0.5567436659461406,10.326064849468104
+Homogeneous tree-based,ElasticNet,1,RandomForest,-0.33079919900618016,10.326064849468104
+Homogeneous tree-based,ElasticNet,1,XGBoost,-0.30495950285440515,10.326064849468104
+Homogeneous tree-based,ElasticNet,1,LightGBM,0.6420914762189655,10.326064849468104
+Homogeneous tree-based,ElasticNet,1,Bagging,0.27529691088268415,10.326064849468104
+Homogeneous tree-based,ElasticNet,2,GradientBoosting,-0.2519825606815856,16.220548599145484
+Homogeneous tree-based,ElasticNet,2,RandomForest,-0.13299938238019288,16.220548599145484
+Homogeneous tree-based,ElasticNet,2,XGBoost,-0.1284765666358181,16.220548599145484
+Homogeneous tree-based,ElasticNet,2,LightGBM,1.0290557045737516,16.220548599145484
+Homogeneous tree-based,ElasticNet,2,Bagging,0.18296307560930145,16.220548599145484
+Homogeneous tree-based,ElasticNet,3,GradientBoosting,0.022575215276937177,15.568665904541682
+Homogeneous tree-based,ElasticNet,3,RandomForest,-0.30434385997772095,15.568665904541682
+Homogeneous tree-based,ElasticNet,3,XGBoost,-0.11794064692672936,15.568665904541682
+Homogeneous tree-based,ElasticNet,3,LightGBM,0.880758886653825,15.568665904541682
+Homogeneous tree-based,ElasticNet,3,Bagging,0.22084142060534048,15.568665904541682
+Homogeneous tree-based,ElasticNet,4,GradientBoosting,-0.2774413940104649,17.979396516083455
+Homogeneous tree-based,ElasticNet,4,RandomForest,-0.6176310022410406,17.979396516083455
+Homogeneous tree-based,ElasticNet,4,XGBoost,0.21398806224259465,17.979396516083455
+Homogeneous tree-based,ElasticNet,4,LightGBM,0.8471055924023586,17.979396516083455
+Homogeneous tree-based,ElasticNet,4,Bagging,0.4636157268497967,17.979396516083455
+Homogeneous tree-based,ElasticNet,5,GradientBoosting,-0.07495833974217694,17.791541885201354
+Homogeneous tree-based,ElasticNet,5,RandomForest,-0.611889551565848,17.791541885201354
+Homogeneous tree-based,ElasticNet,5,XGBoost,0.1251902753058403,17.791541885201354
+Homogeneous tree-based,ElasticNet,5,LightGBM,0.7604168351169099,17.791541885201354
+Homogeneous tree-based,ElasticNet,5,Bagging,0.4328349820798046,17.791541885201354
+Homogeneous tree-based,ElasticNet,6,GradientBoosting,0.15417876199122504,17.519343528381583
+Homogeneous tree-based,ElasticNet,6,RandomForest,-0.49440631791145967,17.519343528381583
+Homogeneous tree-based,ElasticNet,6,XGBoost,-0.11276277217308203,17.519343528381583
+Homogeneous tree-based,ElasticNet,6,LightGBM,0.7570984023295928,17.519343528381583
+Homogeneous tree-based,ElasticNet,6,Bagging,0.33452745263865746,17.519343528381583
+Homogeneous tree-based,ElasticNet,7,GradientBoosting,0.37579711642001223,14.344617838227855
+Homogeneous tree-based,ElasticNet,7,RandomForest,-0.047816862900142684,14.344617838227855
+Homogeneous tree-based,ElasticNet,7,XGBoost,-0.29646989188859535,14.344617838227855
+Homogeneous tree-based,ElasticNet,7,LightGBM,0.8207259593649234,14.344617838227855
+Homogeneous tree-based,ElasticNet,7,Bagging,-0.12968649919873154,14.344617838227855
+Homogeneous tree-based,ElasticNet,8,GradientBoosting,0.547520881628128,8.626379511120042
+Homogeneous tree-based,ElasticNet,8,RandomForest,-0.05984233473358652,8.626379511120042
+Homogeneous tree-based,ElasticNet,8,XGBoost,-0.3741686153618094,8.626379511120042
+Homogeneous tree-based,ElasticNet,8,LightGBM,0.8057851296257034,8.626379511120042
+Homogeneous tree-based,ElasticNet,8,Bagging,-0.0624971665307837,8.626379511120042
+Homogeneous tree-based,ElasticNet,9,GradientBoosting,0.5954809001521538,7.053026561989292
+Homogeneous tree-based,ElasticNet,9,RandomForest,-0.4420105688601845,7.053026561989292
+Homogeneous tree-based,ElasticNet,9,XGBoost,-0.31010136131209914,7.053026561989292
+Homogeneous tree-based,ElasticNet,9,LightGBM,0.8334889651215707,7.053026561989292
+Homogeneous tree-based,ElasticNet,9,Bagging,0.21082531698946813,7.053026561989292
+Homogeneous tree-based,ElasticNet,10,GradientBoosting,0.5361383093314664,8.099168741053646
+Homogeneous tree-based,ElasticNet,10,RandomForest,-0.6576052974744834,8.099168741053646
+Homogeneous tree-based,ElasticNet,10,XGBoost,-0.16467613497004654,8.099168741053646
+Homogeneous tree-based,ElasticNet,10,LightGBM,0.9319955198836868,8.099168741053646
+Homogeneous tree-based,ElasticNet,10,Bagging,0.2204128773446545,8.099168741053646
+Homogeneous tree-based,ElasticNet,11,GradientBoosting,0.9309166817039615,1.534044910662864
+Homogeneous tree-based,ElasticNet,11,RandomForest,-0.32595495404389246,1.534044910662864
+Homogeneous tree-based,ElasticNet,11,XGBoost,-0.39640396998140404,1.534044910662864
+Homogeneous tree-based,ElasticNet,11,LightGBM,0.7360917023957702,1.534044910662864
+Homogeneous tree-based,ElasticNet,11,Bagging,0.03675596631249062,1.534044910662864
+Homogeneous tree-based,ElasticNet,12,GradientBoosting,1.0831525135854452,2.39806474284169
+Homogeneous tree-based,ElasticNet,12,RandomForest,-0.47948981116293127,2.39806474284169
+Homogeneous tree-based,ElasticNet,12,XGBoost,-0.09575592198928477,2.39806474284169
+Homogeneous tree-based,ElasticNet,12,LightGBM,0.4520161960804487,2.39806474284169
+Homogeneous tree-based,ElasticNet,12,Bagging,0.0,2.39806474284169
+Homogeneous tree-based,ElasticNet,13,GradientBoosting,1.1993722283694597,1.2771172813989011
+Homogeneous tree-based,ElasticNet,13,RandomForest,-0.23428911357511592,1.2771172813989011
+Homogeneous tree-based,ElasticNet,13,XGBoost,-0.5580880942312586,1.2771172813989011
+Homogeneous tree-based,ElasticNet,13,LightGBM,0.5963675792270521,1.2771172813989011
+Homogeneous tree-based,ElasticNet,13,Bagging,-0.016791689786567372,1.2771172813989011
+Homogeneous tree-based,ElasticNet,14,GradientBoosting,1.0425608705061635,-1.4302210638022501
+Homogeneous tree-based,ElasticNet,14,RandomForest,-0.4731703128841949,-1.4302210638022501
+Homogeneous tree-based,ElasticNet,14,XGBoost,-0.11769568579512595,-1.4302210638022501
+Homogeneous tree-based,ElasticNet,14,LightGBM,0.5545005669208983,-1.4302210638022501
+Homogeneous tree-based,ElasticNet,14,Bagging,0.037679262847539675,-1.4302210638022501
+Homogeneous tree-based,ElasticNet,15,GradientBoosting,0.13563161804033322,7.950938300321184
+Homogeneous tree-based,ElasticNet,15,RandomForest,-0.9317644188686957,7.950938300321184
+Homogeneous tree-based,ElasticNet,15,XGBoost,0.606667464611334,7.950938300321184
+Homogeneous tree-based,ElasticNet,15,LightGBM,0.6158938696263633,7.950938300321184
+Homogeneous tree-based,ElasticNet,15,Bagging,0.4484763963139727,7.950938300321184
+Homogeneous tree-based,ElasticNet,16,GradientBoosting,0.732076637720366,6.425773853878006
+Homogeneous tree-based,ElasticNet,16,RandomForest,-0.6702426593774345,6.425773853878006
+Homogeneous tree-based,ElasticNet,16,XGBoost,-0.0025113168185977278,6.425773853878006
+Homogeneous tree-based,ElasticNet,16,LightGBM,0.48768252131125356,6.425773853878006
+Homogeneous tree-based,ElasticNet,16,Bagging,0.3699024851168454,6.425773853878006
+Homogeneous tree-based,ElasticNet,17,GradientBoosting,0.33436978115335036,8.596735695557065
+Homogeneous tree-based,ElasticNet,17,RandomForest,-0.4791945155427068,8.596735695557065
+Homogeneous tree-based,ElasticNet,17,XGBoost,-0.018078637661050785,8.596735695557065
+Homogeneous tree-based,ElasticNet,17,LightGBM,0.7294909708717443,8.596735695557065
+Homogeneous tree-based,ElasticNet,17,Bagging,0.30829046256189996,8.596735695557065
+Homogeneous tree-based,ElasticNet,18,GradientBoosting,0.2162857601229708,6.359745496417354
+Homogeneous tree-based,ElasticNet,18,RandomForest,-0.8083924724185378,6.359745496417354
+Homogeneous tree-based,ElasticNet,18,XGBoost,0.2069503513507749,6.359745496417354
+Homogeneous tree-based,ElasticNet,18,LightGBM,0.7444727532106858,6.359745496417354
+Homogeneous tree-based,ElasticNet,18,Bagging,0.5625242487171507,6.359745496417354
+Homogeneous tree-based,ElasticNet,19,GradientBoosting,0.26034026214402345,-0.20227373384447844
+Homogeneous tree-based,ElasticNet,19,RandomForest,-0.6586951820876369,-0.20227373384447844
+Homogeneous tree-based,ElasticNet,19,XGBoost,0.5524422274914561,-0.20227373384447844
+Homogeneous tree-based,ElasticNet,19,LightGBM,0.5032449577587855,-0.20227373384447844
+Homogeneous tree-based,ElasticNet,19,Bagging,0.4064112859688975,-0.20227373384447844
+Homogeneous tree-based,ElasticNet,20,GradientBoosting,0.3806614031501857,-1.302249859264549
+Homogeneous tree-based,ElasticNet,20,RandomForest,-0.4518625878381938,-1.302249859264549
+Homogeneous tree-based,ElasticNet,20,XGBoost,0.4877409741614699,-1.302249859264549
+Homogeneous tree-based,ElasticNet,20,LightGBM,0.6376126851538358,-1.302249859264549
+Homogeneous tree-based,ElasticNet,20,Bagging,0.015607960119182616,-1.302249859264549
+Homogeneous tree-based,ElasticNet,21,GradientBoosting,0.7517036543300276,-4.941685646279318
+Homogeneous tree-based,ElasticNet,21,RandomForest,-0.3208287368973305,-4.941685646279318
+Homogeneous tree-based,ElasticNet,21,XGBoost,-0.05528094990782461,-4.941685646279318
+Homogeneous tree-based,ElasticNet,21,LightGBM,0.9248123302560538,-4.941685646279318
+Homogeneous tree-based,ElasticNet,21,Bagging,-0.17933706132787505,-4.941685646279318
+Homogeneous tree-based,ElasticNet,22,GradientBoosting,0.5523330019618116,-0.04368190796373028
+Homogeneous tree-based,ElasticNet,22,RandomForest,-0.5439953448997454,-0.04368190796373028
+Homogeneous tree-based,ElasticNet,22,XGBoost,-0.2065264092966846,-0.04368190796373028
+Homogeneous tree-based,ElasticNet,22,LightGBM,1.0783634385627403,-0.04368190796373028
+Homogeneous tree-based,ElasticNet,22,Bagging,0.13946668529296535,-0.04368190796373028
+Homogeneous tree-based,ElasticNet,23,GradientBoosting,0.31204645097193573,6.618497879644224
+Homogeneous tree-based,ElasticNet,23,RandomForest,-0.597209440801921,6.618497879644224
+Homogeneous tree-based,ElasticNet,23,XGBoost,-0.33507342727194095,6.618497879644224
+Homogeneous tree-based,ElasticNet,23,LightGBM,1.1411722259855979,6.618497879644224
+Homogeneous tree-based,ElasticNet,23,Bagging,0.38946460099070973,6.618497879644224
+Homogeneous tree-based,ElasticNet,24,GradientBoosting,1.1633006210156713,7.724606617949377
+Homogeneous tree-based,ElasticNet,24,RandomForest,-0.3129795220230747,7.724606617949377
+Homogeneous tree-based,ElasticNet,24,XGBoost,-0.08938189250823064,7.724606617949377
+Homogeneous tree-based,ElasticNet,24,LightGBM,0.21150372212823845,7.724606617949377
+Homogeneous tree-based,ElasticNet,24,Bagging,-0.08233470553724158,7.724606617949377
+Five least-correlated (2017),Ridge,1,XGBoost,0.19093497171743934,14.357685270289174
+Five least-correlated (2017),Ridge,1,Bagging,-0.08925731930635308,14.357685270289174
+Five least-correlated (2017),Ridge,1,LSTM,0.06086130609127051,14.357685270289174
+Five least-correlated (2017),Ridge,1,ETS_day,0.38343729577354424,14.357685270289174
+Five least-correlated (2017),Ridge,1,Naive_day,0.1837584471051673,14.357685270289174
+Five least-correlated (2017),Ridge,2,XGBoost,0.13922611075979388,14.173444690536947
+Five least-correlated (2017),Ridge,2,Bagging,-0.001173784681534115,14.173444690536947
+Five least-correlated (2017),Ridge,2,LSTM,0.043876725069944666,14.173444690536947
+Five least-correlated (2017),Ridge,2,ETS_day,0.29243709437790566,14.173444690536947
+Five least-correlated (2017),Ridge,2,Naive_day,0.24374124633492764,14.173444690536947
+Five least-correlated (2017),Ridge,3,XGBoost,0.08490855500887207,14.279627795441328
+Five least-correlated (2017),Ridge,3,Bagging,0.10553557718404948,14.279627795441328
+Five least-correlated (2017),Ridge,3,LSTM,0.039555214436422736,14.279627795441328
+Five least-correlated (2017),Ridge,3,ETS_day,0.23722786119805764,14.279627795441328
+Five least-correlated (2017),Ridge,3,Naive_day,0.2459487209831787,14.279627795441328
+Five least-correlated (2017),Ridge,4,XGBoost,0.32532652961402186,15.752384252982225
+Five least-correlated (2017),Ridge,4,Bagging,-0.07231333841683144,15.752384252982225
+Five least-correlated (2017),Ridge,4,LSTM,-0.024464043422305282,15.752384252982225
+Five least-correlated (2017),Ridge,4,ETS_day,0.18377795200352173,15.752384252982225
+Five least-correlated (2017),Ridge,4,Naive_day,0.24600047767609878,15.752384252982225
+Five least-correlated (2017),Ridge,5,XGBoost,0.24812560700993921,15.857787953445595
+Five least-correlated (2017),Ridge,5,Bagging,-0.02409033587634381,15.857787953445595
+Five least-correlated (2017),Ridge,5,LSTM,0.028448834808958903,15.857787953445595
+Five least-correlated (2017),Ridge,5,ETS_day,0.14560757257571053,15.857787953445595
+Five least-correlated (2017),Ridge,5,Naive_day,0.2602541181378187,15.857787953445595
+Five least-correlated (2017),Ridge,6,XGBoost,0.18752804918437205,17.019497822113326
+Five least-correlated (2017),Ridge,6,Bagging,0.005127236643419681,17.019497822113326
+Five least-correlated (2017),Ridge,6,LSTM,0.03746182740340565,17.019497822113326
+Five least-correlated (2017),Ridge,6,ETS_day,0.12696456464015723,17.019497822113326
+Five least-correlated (2017),Ridge,6,Naive_day,0.28123107137493303,17.019497822113326
+Five least-correlated (2017),Ridge,7,XGBoost,0.2429833483796962,17.269249000073398
+Five least-correlated (2017),Ridge,7,Bagging,-0.003461648787129689,17.269249000073398
+Five least-correlated (2017),Ridge,7,LSTM,0.049780422422365404,17.269249000073398
+Five least-correlated (2017),Ridge,7,ETS_day,0.10857448764474739,17.269249000073398
+Five least-correlated (2017),Ridge,7,Naive_day,0.2582227566652613,17.269249000073398
+Five least-correlated (2017),Ridge,8,XGBoost,0.6197276388662218,11.915065592507013
+Five least-correlated (2017),Ridge,8,Bagging,-0.20126012264642745,11.915065592507013
+Five least-correlated (2017),Ridge,8,LSTM,0.014163279474046041,11.915065592507013
+Five least-correlated (2017),Ridge,8,ETS_day,0.08198636484617298,11.915065592507013
+Five least-correlated (2017),Ridge,8,Naive_day,0.2812618535838389,11.915065592507013
+Five least-correlated (2017),Ridge,9,XGBoost,0.6623484932784538,7.252676187830133
+Five least-correlated (2017),Ridge,9,Bagging,-0.3057940945017524,7.252676187830133
+Five least-correlated (2017),Ridge,9,LSTM,0.17419988602634276,7.252676187830133
+Five least-correlated (2017),Ridge,9,ETS_day,0.06651177401333656,7.252676187830133
+Five least-correlated (2017),Ridge,9,Naive_day,0.2815508706086566,7.252676187830133
+Five least-correlated (2017),Ridge,10,XGBoost,0.7587799324137002,10.472173175628221
+Five least-correlated (2017),Ridge,10,Bagging,-0.4099130558412214,10.472173175628221
+Five least-correlated (2017),Ridge,10,LSTM,0.08680126343286254,10.472173175628221
+Five least-correlated (2017),Ridge,10,ETS_day,0.07345882660477458,10.472173175628221
+Five least-correlated (2017),Ridge,10,Naive_day,0.30779581204315454,10.472173175628221
+Five least-correlated (2017),Ridge,11,XGBoost,0.5998301655628286,11.23221637321587
+Five least-correlated (2017),Ridge,11,Bagging,-0.38267513447924173,11.23221637321587
+Five least-correlated (2017),Ridge,11,LSTM,0.15035829434264078,11.23221637321587
+Five least-correlated (2017),Ridge,11,ETS_day,0.0975262285972839,11.23221637321587
+Five least-correlated (2017),Ridge,11,Naive_day,0.34399038543088883,11.23221637321587
+Five least-correlated (2017),Ridge,12,XGBoost,0.8111284096488871,9.884581474408257
+Five least-correlated (2017),Ridge,12,Bagging,-0.5009036998269771,9.884581474408257
+Five least-correlated (2017),Ridge,12,LSTM,0.09127018404551039,9.884581474408257
+Five least-correlated (2017),Ridge,12,ETS_day,0.10022400838685623,9.884581474408257
+Five least-correlated (2017),Ridge,12,Naive_day,0.3275719611019368,9.884581474408257
+Five least-correlated (2017),Ridge,13,XGBoost,0.6502330205770859,10.058885837368791
+Five least-correlated (2017),Ridge,13,Bagging,-0.42892915862378517,10.058885837368791
+Five least-correlated (2017),Ridge,13,LSTM,0.16360261589311062,10.058885837368791
+Five least-correlated (2017),Ridge,13,ETS_day,0.10143471471800926,10.058885837368791
+Five least-correlated (2017),Ridge,13,Naive_day,0.3403910961917543,10.058885837368791
+Five least-correlated (2017),Ridge,14,XGBoost,0.9099230448342084,8.115795207721689
+Five least-correlated (2017),Ridge,14,Bagging,-0.5781916602889858,8.115795207721689
+Five least-correlated (2017),Ridge,14,LSTM,0.030711049406238793,8.115795207721689
+Five least-correlated (2017),Ridge,14,ETS_day,0.09727399204585291,8.115795207721689
+Five least-correlated (2017),Ridge,14,Naive_day,0.40265487824256807,8.115795207721689
+Five least-correlated (2017),Ridge,15,XGBoost,0.872708787791186,11.130937904023419
+Five least-correlated (2017),Ridge,15,Bagging,-0.4902975188306802,11.130937904023419
+Five least-correlated (2017),Ridge,15,LSTM,0.0375058447552978,11.130937904023419
+Five least-correlated (2017),Ridge,15,ETS_day,0.08625300094433924,11.130937904023419
+Five least-correlated (2017),Ridge,15,Naive_day,0.2940019332430397,11.130937904023419
+Five least-correlated (2017),Ridge,16,XGBoost,0.6819292440906708,10.445034280618337
+Five least-correlated (2017),Ridge,16,Bagging,-0.30934333213767995,10.445034280618337
+Five least-correlated (2017),Ridge,16,LSTM,0.07514004473798602,10.445034280618337
+Five least-correlated (2017),Ridge,16,ETS_day,0.08574320639576595,10.445034280618337
+Five least-correlated (2017),Ridge,16,Naive_day,0.2843830970750528,10.445034280618337
+Five least-correlated (2017),Ridge,17,XGBoost,0.6055716339591333,8.534306386741868
+Five least-correlated (2017),Ridge,17,Bagging,-0.30187844705698336,8.534306386741868
+Five least-correlated (2017),Ridge,17,LSTM,0.17869957914949228,8.534306386741868
+Five least-correlated (2017),Ridge,17,ETS_day,0.07084220462504474,8.534306386741868
+Five least-correlated (2017),Ridge,17,Naive_day,0.2991307902853404,8.534306386741868
+Five least-correlated (2017),Ridge,18,XGBoost,0.7550731870325207,7.335065371655581
+Five least-correlated (2017),Ridge,18,Bagging,-0.3294677915036419,7.335065371655581
+Five least-correlated (2017),Ridge,18,LSTM,0.03142172536547627,7.335065371655581
+Five least-correlated (2017),Ridge,18,ETS_day,0.06139952648310835,7.335065371655581
+Five least-correlated (2017),Ridge,18,Naive_day,0.3663449106717066,7.335065371655581
+Five least-correlated (2017),Ridge,19,XGBoost,0.7614160887728737,-0.5992723324693827
+Five least-correlated (2017),Ridge,19,Bagging,-0.22228786617662258,-0.5992723324693827
+Five least-correlated (2017),Ridge,19,LSTM,0.10289954903882942,-0.5992723324693827
+Five least-correlated (2017),Ridge,19,ETS_day,0.013275735060801631,-0.5992723324693827
+Five least-correlated (2017),Ridge,19,Naive_day,0.3858266478008445,-0.5992723324693827
+Five least-correlated (2017),Ridge,20,XGBoost,0.7432036480668465,4.1926530682808405
+Five least-correlated (2017),Ridge,20,Bagging,-0.3614302358989207,4.1926530682808405
+Five least-correlated (2017),Ridge,20,LSTM,0.11974204686396545,4.1926530682808405
+Five least-correlated (2017),Ridge,20,ETS_day,0.05705307984500283,4.1926530682808405
+Five least-correlated (2017),Ridge,20,Naive_day,0.3860875078391702,4.1926530682808405
+Five least-correlated (2017),Ridge,21,XGBoost,0.6514685744698638,12.181600869016023
+Five least-correlated (2017),Ridge,21,Bagging,-0.5144705570192838,12.181600869016023
+Five least-correlated (2017),Ridge,21,LSTM,0.10600382196040348,12.181600869016023
+Five least-correlated (2017),Ridge,21,ETS_day,0.0618314487225363,12.181600869016023
+Five least-correlated (2017),Ridge,21,Naive_day,0.4940770674783246,12.181600869016023
+Five least-correlated (2017),Ridge,22,XGBoost,0.6261107305703687,16.768702892940667
+Five least-correlated (2017),Ridge,22,Bagging,-0.606221462766525,16.768702892940667
+Five least-correlated (2017),Ridge,22,LSTM,0.07555818845318625,16.768702892940667
+Five least-correlated (2017),Ridge,22,ETS_day,0.026276625042163604,16.768702892940667
+Five least-correlated (2017),Ridge,22,Naive_day,0.5970273856169009,16.768702892940667
+Five least-correlated (2017),Ridge,23,XGBoost,0.3847398559109872,17.779546210649585
+Five least-correlated (2017),Ridge,23,Bagging,-0.42891763111312436,17.779546210649585
+Five least-correlated (2017),Ridge,23,LSTM,0.11288272823360979,17.779546210649585
+Five least-correlated (2017),Ridge,23,ETS_day,-0.0182604257425062,17.779546210649585
+Five least-correlated (2017),Ridge,23,Naive_day,0.6338658434652308,17.779546210649585
+Five least-correlated (2017),Ridge,24,XGBoost,0.47065967610991466,21.86001502420365
+Five least-correlated (2017),Ridge,24,Bagging,-0.42095320894751936,21.86001502420365
+Five least-correlated (2017),Ridge,24,LSTM,-0.02091327676273964,21.86001502420365
+Five least-correlated (2017),Ridge,24,ETS_day,-0.006788081087314226,21.86001502420365
+Five least-correlated (2017),Ridge,24,Naive_day,0.5575519530161512,21.86001502420365
+Five least-correlated (2017),ElasticNet,1,XGBoost,0.18734708671406983,14.296753098821178
+Five least-correlated (2017),ElasticNet,1,Bagging,-0.08113984626606872,14.296753098821178
+Five least-correlated (2017),ElasticNet,1,LSTM,0.05970918299766423,14.296753098821178
+Five least-correlated (2017),ElasticNet,1,ETS_day,0.3807196449312176,14.296753098821178
+Five least-correlated (2017),ElasticNet,1,Naive_day,0.18472049101623686,14.296753098821178
+Five least-correlated (2017),ElasticNet,2,XGBoost,0.1382054917859651,14.218414443664983
+Five least-correlated (2017),ElasticNet,2,Bagging,0.0,14.218414443664983
+Five least-correlated (2017),ElasticNet,2,LSTM,0.044338456048492805,14.218414443664983
+Five least-correlated (2017),ElasticNet,2,ETS_day,0.2914581079521969,14.218414443664983
+Five least-correlated (2017),ElasticNet,2,Naive_day,0.24323171176001138,14.218414443664983
+Five least-correlated (2017),ElasticNet,3,XGBoost,0.08463697247369428,14.33196580456788
+Five least-correlated (2017),ElasticNet,3,Bagging,0.1052586440781131,14.33196580456788
+Five least-correlated (2017),ElasticNet,3,LSTM,0.040461263992133886,14.33196580456788
+Five least-correlated (2017),ElasticNet,3,ETS_day,0.2364726462543974,14.33196580456788
+Five least-correlated (2017),ElasticNet,3,Naive_day,0.2451879914532806,14.33196580456788
+Five least-correlated (2017),ElasticNet,4,XGBoost,0.31968419511180973,15.6756299572031
+Five least-correlated (2017),ElasticNet,4,Bagging,-0.06633630364206361,15.6756299572031
+Five least-correlated (2017),ElasticNet,4,LSTM,-0.020165281734093182,15.6756299572031
+Five least-correlated (2017),ElasticNet,4,ETS_day,0.18230083991034804,15.6756299572031
+Five least-correlated (2017),ElasticNet,4,Naive_day,0.24525310659614977,15.6756299572031
+Five least-correlated (2017),ElasticNet,5,XGBoost,0.24474034362692296,15.817343917209293
+Five least-correlated (2017),ElasticNet,5,Bagging,-0.018047282798546303,15.817343917209293
+Five least-correlated (2017),ElasticNet,5,LSTM,0.028470873598130837,15.817343917209293
+Five least-correlated (2017),ElasticNet,5,ETS_day,0.1446484402497712,15.817343917209293
+Five least-correlated (2017),ElasticNet,5,Naive_day,0.2598970913150788,15.817343917209293
+Five least-correlated (2017),ElasticNet,6,XGBoost,0.18651848483735467,17.065798632321798
+Five least-correlated (2017),ElasticNet,6,Bagging,0.005610189544414383,17.065798632321798
+Five least-correlated (2017),ElasticNet,6,LSTM,0.03835560183322806,17.065798632321798
+Five least-correlated (2017),ElasticNet,6,ETS_day,0.12654810424491164,17.065798632321798
+Five least-correlated (2017),ElasticNet,6,Naive_day,0.2802624694641149,17.065798632321798
+Five least-correlated (2017),ElasticNet,7,XGBoost,0.23994430948623724,17.28063392124245
+Five least-correlated (2017),ElasticNet,7,Bagging,0.0,17.28063392124245
+Five least-correlated (2017),ElasticNet,7,LSTM,0.050558599312703165,17.28063392124245
+Five least-correlated (2017),ElasticNet,7,ETS_day,0.10813478925064819,17.28063392124245
+Five least-correlated (2017),ElasticNet,7,Naive_day,0.25741288501046006,17.28063392124245
+Five least-correlated (2017),ElasticNet,8,XGBoost,0.6110577435633867,11.829573399279312
+Five least-correlated (2017),ElasticNet,8,Bagging,-0.1904460161561039,11.829573399279312
+Five least-correlated (2017),ElasticNet,8,LSTM,0.015129381935875296,11.829573399279312
+Five least-correlated (2017),ElasticNet,8,ETS_day,0.08170204402398917,11.829573399279312
+Five least-correlated (2017),ElasticNet,8,Naive_day,0.28046540068682,11.829573399279312
+Five least-correlated (2017),ElasticNet,9,XGBoost,0.6544885353466132,7.175755301104246
+Five least-correlated (2017),ElasticNet,9,Bagging,-0.29508126758445086,7.175755301104246
+Five least-correlated (2017),ElasticNet,9,LSTM,0.17404645339957603,7.175755301104246
+Five least-correlated (2017),ElasticNet,9,ETS_day,0.06639350475614775,7.175755301104246
+Five least-correlated (2017),ElasticNet,9,Naive_day,0.28076953271155564,7.175755301104246
+Five least-correlated (2017),ElasticNet,10,XGBoost,0.749670103264578,10.379324303373885
+Five least-correlated (2017),ElasticNet,10,Bagging,-0.39870664231858377,10.379324303373885
+Five least-correlated (2017),ElasticNet,10,LSTM,0.08759089490600606,10.379324303373885
+Five least-correlated (2017),ElasticNet,10,ETS_day,0.0735488133884823,10.379324303373885
+Five least-correlated (2017),ElasticNet,10,Naive_day,0.30685732997508525,10.379324303373885
+Five least-correlated (2017),ElasticNet,11,XGBoost,0.590661767666048,11.147823269498765
+Five least-correlated (2017),ElasticNet,11,Bagging,-0.3696571768272536,11.147823269498765
+Five least-correlated (2017),ElasticNet,11,LSTM,0.14926884945256153,11.147823269498765
+Five least-correlated (2017),ElasticNet,11,ETS_day,0.09755193494901207,11.147823269498765
+Five least-correlated (2017),ElasticNet,11,Naive_day,0.3429755523136274,11.147823269498765
+Five least-correlated (2017),ElasticNet,12,XGBoost,0.800477931360422,9.825790258747716
+Five least-correlated (2017),ElasticNet,12,Bagging,-0.4868111446498136,9.825790258747716
+Five least-correlated (2017),ElasticNet,12,LSTM,0.09006918843605607,9.825790258747716
+Five least-correlated (2017),ElasticNet,12,ETS_day,0.10019845016984025,9.825790258747716
+Five least-correlated (2017),ElasticNet,12,Naive_day,0.326734710565672,9.825790258747716
+Five least-correlated (2017),ElasticNet,13,XGBoost,0.6399504694918242,10.033280714514284
+Five least-correlated (2017),ElasticNet,13,Bagging,-0.4159576734463017,10.033280714514284
+Five least-correlated (2017),ElasticNet,13,LSTM,0.1630742723927201,10.033280714514284
+Five least-correlated (2017),ElasticNet,13,ETS_day,0.10127163796526086,10.033280714514284
+Five least-correlated (2017),ElasticNet,13,Naive_day,0.33913552421642307,10.033280714514284
+Five least-correlated (2017),ElasticNet,14,XGBoost,0.8971062071010005,8.112777841242305
+Five least-correlated (2017),ElasticNet,14,Bagging,-0.5632952764420532,8.112777841242305
+Five least-correlated (2017),ElasticNet,14,LSTM,0.03142189595369255,8.112777841242305
+Five least-correlated (2017),ElasticNet,14,ETS_day,0.09717238650175349,8.112777841242305
+Five least-correlated (2017),ElasticNet,14,Naive_day,0.4003140661756525,8.112777841242305
+Five least-correlated (2017),ElasticNet,15,XGBoost,0.8626717265813645,11.077153705855416
+Five least-correlated (2017),ElasticNet,15,Bagging,-0.47850679097665816,11.077153705855416
+Five least-correlated (2017),ElasticNet,15,LSTM,0.038190528914941485,11.077153705855416
+Five least-correlated (2017),ElasticNet,15,ETS_day,0.08609667725831575,11.077153705855416
+Five least-correlated (2017),ElasticNet,15,Naive_day,0.29311317560661476,11.077153705855416
+Five least-correlated (2017),ElasticNet,16,XGBoost,0.6756384566931638,10.413001674210669
+Five least-correlated (2017),ElasticNet,16,Bagging,-0.3010505942514454,10.413001674210669
+Five least-correlated (2017),ElasticNet,16,LSTM,0.07517989996613031,10.413001674210669
+Five least-correlated (2017),ElasticNet,16,ETS_day,0.08562028131696897,10.413001674210669
+Five least-correlated (2017),ElasticNet,16,Naive_day,0.2833917011375851,10.413001674210669
+Five least-correlated (2017),ElasticNet,17,XGBoost,0.6000130518914732,8.493691966024357
+Five least-correlated (2017),ElasticNet,17,Bagging,-0.2936559190235805,8.493691966024357
+Five least-correlated (2017),ElasticNet,17,LSTM,0.17840594795401982,8.493691966024357
+Five least-correlated (2017),ElasticNet,17,ETS_day,0.07084629307640876,8.493691966024357
+Five least-correlated (2017),ElasticNet,17,Naive_day,0.29782030728410674,8.493691966024357
+Five least-correlated (2017),ElasticNet,18,XGBoost,0.7483281427000146,7.266937197302326
+Five least-correlated (2017),ElasticNet,18,Bagging,-0.32024786531184296,7.266937197302326
+Five least-correlated (2017),ElasticNet,18,LSTM,0.031843173911608194,7.266937197302326
+Five least-correlated (2017),ElasticNet,18,ETS_day,0.06185454782275696,7.266937197302326
+Five least-correlated (2017),ElasticNet,18,Naive_day,0.3645242616244921,7.266937197302326
+Five least-correlated (2017),ElasticNet,19,XGBoost,0.756232743069493,-0.6496916499251668
+Five least-correlated (2017),ElasticNet,19,Bagging,-0.2153522633184523,-0.6496916499251668
+Five least-correlated (2017),ElasticNet,19,LSTM,0.10269241673001898,-0.6496916499251668
+Five least-correlated (2017),ElasticNet,19,ETS_day,0.014252519136128888,-0.6496916499251668
+Five least-correlated (2017),ElasticNet,19,Naive_day,0.38433537255456907,-0.6496916499251668
+Five least-correlated (2017),ElasticNet,20,XGBoost,0.7367270532886078,4.065833586144308
+Five least-correlated (2017),ElasticNet,20,Bagging,-0.35103774207951044,4.065833586144308
+Five least-correlated (2017),ElasticNet,20,LSTM,0.11859145083656933,4.065833586144308
+Five least-correlated (2017),ElasticNet,20,ETS_day,0.05766656649929588,4.065833586144308
+Five least-correlated (2017),ElasticNet,20,Naive_day,0.3850976042237881,4.065833586144308
+Five least-correlated (2017),ElasticNet,21,XGBoost,0.6451616278231156,12.045976168156947
+Five least-correlated (2017),ElasticNet,21,Bagging,-0.503646955999239,12.045976168156947
+Five least-correlated (2017),ElasticNet,21,LSTM,0.10528884559356058,12.045976168156947
+Five least-correlated (2017),ElasticNet,21,ETS_day,0.06269954036413977,12.045976168156947
+Five least-correlated (2017),ElasticNet,21,Naive_day,0.49187231782554064,12.045976168156947
+Five least-correlated (2017),ElasticNet,22,XGBoost,0.6157174532157187,16.72662873630339
+Five least-correlated (2017),ElasticNet,22,Bagging,-0.5907275497150036,16.72662873630339
+Five least-correlated (2017),ElasticNet,22,LSTM,0.07334281565024794,16.72662873630339
+Five least-correlated (2017),ElasticNet,22,ETS_day,0.02790501142241268,16.72662873630339
+Five least-correlated (2017),ElasticNet,22,Naive_day,0.5933001266610538,16.72662873630339
+Five least-correlated (2017),ElasticNet,23,XGBoost,0.3790747154345353,17.87790651498924
+Five least-correlated (2017),ElasticNet,23,Bagging,-0.4192851757785245,17.87790651498924
+Five least-correlated (2017),ElasticNet,23,LSTM,0.1106801083444012,17.87790651498924
+Five least-correlated (2017),ElasticNet,23,ETS_day,-0.012303420840289386,17.87790651498924
+Five least-correlated (2017),ElasticNet,23,Naive_day,0.6245838825061234,17.87790651498924
+Five least-correlated (2017),ElasticNet,24,XGBoost,0.46770840427199223,21.955185872745577
+Five least-correlated (2017),ElasticNet,24,Bagging,-0.41571674404915226,21.955185872745577
+Five least-correlated (2017),ElasticNet,24,LSTM,-0.020605436562342833,21.955185872745577
+Five least-correlated (2017),ElasticNet,24,ETS_day,-0.0,21.955185872745577
+Five least-correlated (2017),ElasticNet,24,Naive_day,0.5467651152360439,21.955185872745577

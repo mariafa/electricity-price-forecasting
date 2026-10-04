@@ -1,0 +1,3 @@
+delivery_day,year,previous_day_hours,reason
+2017-03-27,2017,23,previous_calendar_day_not_24_hours
+2017-10-30,2017,25,previous_calendar_day_not_24_hours

@@ -1,0 +1,17 @@
+reference,comparator,loss,mean_loss_advantage,dm_statistic,p_value,holm_p_value,significant_0_05
+Diversity-guided heterogeneous | Equal weight,Single ElasticNet,absolute,0.363879007243332,3.000201463318221,0.0028859500584757186,0.014862462883638903,True
+Diversity-guided heterogeneous | Equal weight,Single Ridge,absolute,0.3822170917308668,3.0476123206423478,0.0024770771472731505,0.014862462883638903,True
+Diversity-guided heterogeneous | Equal weight,Seasonal naive,absolute,0.8283045846902388,4.079882128440479,5.5521785201410374e-05,0.000444174281611283,True
+Diversity-guided heterogeneous | Equal weight,Accuracy top-five ElasticNet stack,absolute,0.17812105228566422,1.2715170052514766,0.20436563920153739,0.23614520700782854,False
+Diversity-guided heterogeneous | Equal weight,All-model ElasticNet stack,absolute,0.47874621139389123,2.9400938098050093,0.0034930674879331417,0.014862462883638903,True
+Diversity-guided heterogeneous | Equal weight,Diversity Ridge stack,absolute,0.21591855837697238,1.7632001415415335,0.07871506900260951,0.23614520700782854,False
+Diversity-guided heterogeneous | Equal weight,Diversity ElasticNet stack,absolute,0.21072691678737887,1.722688903790737,0.08580358280239866,0.23614520700782854,False
+Diversity-guided heterogeneous | Equal weight,Non-statistical ML-DL ElasticNet stack,absolute,0.5674984164764415,3.20125666226046,0.0014900346073903716,0.010430242251732601,True
+Diversity-guided heterogeneous | Equal weight,Single ElasticNet,squared,2.7800389799652954,1.1766624036161573,0.2401077086678806,0.5023803050089335,False
+Diversity-guided heterogeneous | Equal weight,Single Ridge,squared,3.3028482061028837,1.3832021476357865,0.1674601016696445,0.5023803050089335,False
+Diversity-guided heterogeneous | Equal weight,Seasonal naive,squared,33.28790854670408,5.311647764084039,1.9070164005022627e-07,1.5256131204018102e-06,True
+Diversity-guided heterogeneous | Equal weight,Accuracy top-five ElasticNet stack,squared,3.779080720934935,1.0225930830050236,0.3071869470191002,0.5023803050089335,False
+Diversity-guided heterogeneous | Equal weight,All-model ElasticNet stack,squared,8.538777890053524,1.934388944625134,0.053848623907433245,0.32309174344459946,False
+Diversity-guided heterogeneous | Equal weight,Diversity Ridge stack,squared,5.329296614616265,1.7461828736548393,0.08163215278040845,0.40816076390204226,False
+Diversity-guided heterogeneous | Equal weight,Diversity ElasticNet stack,squared,5.221384767607633,1.7161100666142748,0.08700218439163376,0.40816076390204226,False
+Diversity-guided heterogeneous | Equal weight,Non-statistical ML-DL ElasticNet stack,squared,10.322859945625808,2.1184339536476897,0.034822926275378405,0.24376048392764882,False

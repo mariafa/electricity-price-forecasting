@@ -1,0 +1,12 @@
+item,value
+energy_rows_loaded,35064
+weather_rows_loaded,178396
+exact_energy_duplicates_removed,0
+exact_weather_duplicates_removed,3076
+duplicate_city_hours_removed,0
+energy_columns_excluded,4
+noninformative_variables_removed,8
+missing_values_before_interpolation,292
+missing_values_after_interpolation,0
+final_rows,35064
+final_columns,21

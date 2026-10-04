@@ -1,0 +1,73 @@
+{
+  "feature_manifest": {
+    "timezone": "Europe/Paris",
+    "forecast_origin_local_hour": 11,
+    "price_window": 168,
+    "forecast_horizon": 24,
+    "target": "price",
+    "exogenous_variables": [
+      "total_load_actual",
+      "gen_wind_onshore",
+      "gen_solar",
+      "gen_fossil_gas",
+      "gen_hydro_pumped_storage_consumption",
+      "humidity",
+      "temperature"
+    ],
+    "calendar_features": [
+      "delivery_dow_sin",
+      "delivery_dow_cos",
+      "delivery_month_sin",
+      "delivery_month_cos",
+      "delivery_is_weekend"
+    ],
+    "tabular_shape": [
+      1445,
+      201
+    ],
+    "sequence_shape": [
+      1445,
+      168,
+      34
+    ],
+    "target_shape": [
+      1445,
+      24
+    ],
+    "dtype": "float32"
+  },
+  "ets_settings": {
+    "seasonal_periods": 24,
+    "trend": "add",
+    "seasonal": "add",
+    "initialization_method": "estimated",
+    "use_boxcox": false
+  },
+  "rolling_window_hours": null,
+  "windows": {
+    "2017": [
+      2015,
+      2016
+    ],
+    "2018": [
+      2015,
+      2016,
+      2017
+    ]
+  },
+  "naive_rule": "Previous local calendar day; exclude when its length is not 24 hours",
+  "mase_rule": "Notebook 2 training-year targets paired at exactly 24 elapsed hours",
+  "versions": {
+    "python": "3.12.2",
+    "numpy": "1.26.4",
+    "pandas": "2.2.2",
+    "statsmodels": "0.14.2"
+  },
+  "input_sha256": {
+    "data/processed/energy_dataset_clean.csv": "ae0977565d3b123cdc5ebbba21678bb8f1a47a7d8f74636a0ca9ce3fefeb69a9",
+    "data/features/day_ahead_features.npz": "ea8ed4a859fbf2464dbd547cfc06fad86c7cd1a0dadc6fe988fd8dbf21eae169",
+    "data/features/sample_metadata.csv": "b68c14a12a4863c298d41f599dc250a401d20ed084789a56d811b8dcd22486bf",
+    "data/features/target_timestamps.csv": "f2bc8da7a6a733118a811993fef980170e093b325dbce5cee8c990cb55176d63",
+    "data/features/feature_manifest.json": "7063f9eaa438dbad253a9a1b1586719f7235683363e4320e20bc6db38b6cf3fe"
+  }
+}

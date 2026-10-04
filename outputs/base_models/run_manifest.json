@@ -1,0 +1,51 @@
+{
+  "features": {
+    "timezone": "Europe/Paris",
+    "forecast_origin_local_hour": 11,
+    "price_window": 168,
+    "forecast_horizon": 24,
+    "target": "price",
+    "exogenous_variables": [
+      "total_load_actual",
+      "gen_wind_onshore",
+      "gen_solar",
+      "gen_fossil_gas",
+      "gen_hydro_pumped_storage_consumption",
+      "humidity",
+      "temperature"
+    ],
+    "calendar_features": [
+      "delivery_dow_sin",
+      "delivery_dow_cos",
+      "delivery_month_sin",
+      "delivery_month_cos",
+      "delivery_is_weekend"
+    ],
+    "tabular_shape": [
+      1445,
+      201
+    ],
+    "sequence_shape": [
+      1445,
+      168,
+      34
+    ],
+    "target_shape": [
+      1445,
+      24
+    ],
+    "dtype": "float32"
+  },
+  "seed": 42,
+  "selection_year": 2016,
+  "input_sha256": {
+    "day_ahead_features.npz": "ea8ed4a859fbf2464dbd547cfc06fad86c7cd1a0dadc6fe988fd8dbf21eae169",
+    "sample_metadata.csv": "b68c14a12a4863c298d41f599dc250a401d20ed084789a56d811b8dcd22486bf",
+    "target_timestamps.csv": "f2bc8da7a6a733118a811993fef980170e093b325dbce5cee8c990cb55176d63",
+    "tabular_feature_names.csv": "8dcfe45b5d69f5c96e58e5e7fd42eb6b6b2337685fbd930edba2644be90b149e",
+    "sequence_feature_names.csv": "0d6c2852c95601611fc87ab2a4cdebc8bd7057f2192004a2eee7b8e693c32d51",
+    "feature_manifest.json": "7063f9eaa438dbad253a9a1b1586719f7235683363e4320e20bc6db38b6cf3fe"
+  },
+  "n_random_configs": 10,
+  "dl_max_epochs": 60
+}

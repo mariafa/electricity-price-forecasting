@@ -1,0 +1,11 @@
+model,submitted_RMSE,tuned_RMSE,RMSE_improvement_percent,selected_parameters
+Ridge,12.688876373350165,10.828009446533502,14.665340508202545,"{""alpha"": 100.0}"
+ElasticNet,10.922981435372852,10.922981435372852,0.0,"{""alpha"": 0.1, ""l1_ratio"": 0.5}"
+Bagging,12.28781242365697,11.975980231921138,2.537735611389056,"{""max_features"": 1.0, ""max_samples"": 0.7, ""n_estimators"": 100, ""tree_max_depth"": 10}"
+RandomForest,12.333242502783683,12.236482342516881,0.7845476179112095,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 1, ""n_estimators"": 600}"
+GradientBoosting,12.578297894817945,12.388601196684574,1.508126931955739,"{""learning_rate"": 0.03, ""max_depth"": 2, ""min_samples_leaf"": 5, ""n_estimators"": 300}"
+GRU,13.111884839635055,12.470072817127138,4.894887579913956,"{""batch_size"": 32, ""dense_units"": 32, ""dropout"": 0.0, ""learning_rate"": 0.0005, ""units"": 64}"
+XGBoost,12.887741746679344,12.791357245829298,0.7478773453454775,"{""colsample_bytree"": 1.0, ""learning_rate"": 0.05, ""max_depth"": 3, ""n_estimators"": 500, ""reg_lambda"": 1.0, ""subsample"": 1.0}"
+LightGBM,12.8521274884651,12.797327887104432,0.4263854479334413,"{""colsample_bytree"": 1.0, ""learning_rate"": 0.03, ""min_child_samples"": 50, ""n_estimators"": 500, ""num_leaves"": 63, ""subsample"": 0.8, ""subsample_freq"": 0}"
+LSTM,15.484629239209482,13.98106357005091,9.710052762201828,"{""batch_size"": 64, ""dense_units"": 64, ""dropout"": 0.2, ""learning_rate"": 0.001, ""units"": 64}"
+LinearRegression,14.348899432255848,14.348899432255848,0.0,{}

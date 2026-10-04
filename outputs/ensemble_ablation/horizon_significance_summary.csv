@@ -1,0 +1,13 @@
+comparator,loss,significant_horizons,reference_better_horizons,reference_worse_horizons,significant_all_24
+Accuracy top-five ElasticNet stack,absolute,0,0,0,False
+Accuracy top-five ElasticNet stack,squared,0,0,0,False
+All-model ElasticNet stack,absolute,7,7,0,False
+All-model ElasticNet stack,squared,2,2,0,False
+Non-statistical ML-DL ElasticNet stack,absolute,8,8,0,False
+Non-statistical ML-DL ElasticNet stack,squared,3,3,0,False
+Seasonal naive,absolute,11,11,0,False
+Seasonal naive,squared,24,24,0,True
+Single ElasticNet,absolute,7,7,0,False
+Single ElasticNet,squared,0,0,0,False
+Single Ridge,absolute,7,7,0,False
+Single Ridge,squared,0,0,0,False

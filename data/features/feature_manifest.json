@@ -1,0 +1,37 @@
+{
+  "timezone": "Europe/Paris",
+  "forecast_origin_local_hour": 11,
+  "price_window": 168,
+  "forecast_horizon": 24,
+  "target": "price",
+  "exogenous_variables": [
+    "total_load_actual",
+    "gen_wind_onshore",
+    "gen_solar",
+    "gen_fossil_gas",
+    "gen_hydro_pumped_storage_consumption",
+    "humidity",
+    "temperature"
+  ],
+  "calendar_features": [
+    "delivery_dow_sin",
+    "delivery_dow_cos",
+    "delivery_month_sin",
+    "delivery_month_cos",
+    "delivery_is_weekend"
+  ],
+  "tabular_shape": [
+    1445,
+    201
+  ],
+  "sequence_shape": [
+    1445,
+    168,
+    34
+  ],
+  "target_shape": [
+    1445,
+    24
+  ],
+  "dtype": "float32"
+}

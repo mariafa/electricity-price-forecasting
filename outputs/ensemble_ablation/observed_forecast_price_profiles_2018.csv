@@ -1,0 +1,169 @@
+method,delivery_hour,mean_price
+Observed price,1,56.25891966759003
+Observed price,2,52.830221606648195
+Observed price,3,50.387783933518
+Observed price,4,49.041966759002776
+Observed price,5,48.48833795013851
+Observed price,6,49.4762326869806
+Observed price,7,53.3512188365651
+Observed price,8,57.463185595567865
+Observed price,9,59.49573407202216
+Observed price,10,61.174709141274235
+Observed price,11,61.257950138504164
+Observed price,12,60.63
+Observed price,13,60.10218836565098
+Observed price,14,59.78903047091412
+Observed price,15,58.59321329639889
+Observed price,16,57.13351800554016
+Observed price,17,56.66883656509695
+Observed price,18,57.837396121883664
+Observed price,19,59.47365650969529
+Observed price,20,61.57085872576178
+Observed price,21,63.017506925207755
+Observed price,22,63.180941828254845
+Observed price,23,61.10822714681441
+Observed price,24,58.11886426592799
+Proposed heterogeneous equal weight,1,54.60123710311151
+Proposed heterogeneous equal weight,2,50.39397950988157
+Proposed heterogeneous equal weight,3,47.77093695891441
+Proposed heterogeneous equal weight,4,46.22588517676826
+Proposed heterogeneous equal weight,5,45.70742674032554
+Proposed heterogeneous equal weight,6,46.86667943233433
+Proposed heterogeneous equal weight,7,51.06835893587071
+Proposed heterogeneous equal weight,8,55.77285609069883
+Proposed heterogeneous equal weight,9,57.974889344408204
+Proposed heterogeneous equal weight,10,59.86553412690426
+Proposed heterogeneous equal weight,11,60.493716834652886
+Proposed heterogeneous equal weight,12,59.92494420232287
+Proposed heterogeneous equal weight,13,59.32257491015718
+Proposed heterogeneous equal weight,14,58.95294079981977
+Proposed heterogeneous equal weight,15,57.267546007625874
+Proposed heterogeneous equal weight,16,55.39109322967021
+Proposed heterogeneous equal weight,17,55.243830715165096
+Proposed heterogeneous equal weight,18,56.59075951936451
+Proposed heterogeneous equal weight,19,58.917684213508295
+Proposed heterogeneous equal weight,20,61.23130221812393
+Proposed heterogeneous equal weight,21,62.24670394447913
+Proposed heterogeneous equal weight,22,62.59140898930987
+Proposed heterogeneous equal weight,23,59.86071218887012
+Proposed heterogeneous equal weight,24,56.48118815963236
+Single ElasticNet,1,54.008577166204994
+Single ElasticNet,2,49.54029477285319
+Single ElasticNet,3,46.789314246537394
+Single ElasticNet,4,45.43348331855955
+Single ElasticNet,5,44.79088311911358
+Single ElasticNet,6,45.81118471745152
+Single ElasticNet,7,49.93489243490304
+Single ElasticNet,8,54.935839570637114
+Single ElasticNet,9,57.33097789473684
+Single ElasticNet,10,59.35220611357341
+Single ElasticNet,11,59.7791317036011
+Single ElasticNet,12,59.14222635180056
+Single ElasticNet,13,58.66262987811634
+Single ElasticNet,14,58.22235602493075
+Single ElasticNet,15,56.431970329639896
+Single ElasticNet,16,54.50138235457064
+Single ElasticNet,17,54.06204839889197
+Single ElasticNet,18,55.624563470914126
+Single ElasticNet,19,58.48797010526316
+Single ElasticNet,20,60.69362608310248
+Single ElasticNet,21,62.058961168975074
+Single ElasticNet,22,62.39234389750692
+Single ElasticNet,23,59.824012146814404
+Single ElasticNet,24,56.086380980609405
+Single Ridge,1,54.13304571191135
+Single Ridge,2,49.80117732132964
+Single Ridge,3,47.09584347922437
+Single Ridge,4,45.68365024099723
+Single Ridge,5,45.045495778393345
+Single Ridge,6,46.089432551246524
+Single Ridge,7,50.064303495844875
+Single Ridge,8,54.93708873130194
+Single Ridge,9,57.29126823268699
+Single Ridge,10,59.23613162603878
+Single Ridge,11,59.70970952631579
+Single Ridge,12,59.068292977839334
+Single Ridge,13,58.6057734099723
+Single Ridge,14,58.1648130803324
+Single Ridge,15,56.47817231855956
+Single Ridge,16,54.58195236842105
+Single Ridge,17,54.06255818282549
+Single Ridge,18,55.6204420969529
+Single Ridge,19,58.50484782271468
+Single Ridge,20,60.70975952077562
+Single Ridge,21,62.02792449584488
+Single Ridge,22,62.31935590027702
+Single Ridge,23,59.730435210526316
+Single Ridge,24,56.10142602770084
+Accuracy top-five ElasticNet stack,1,55.15032855528389
+Accuracy top-five ElasticNet stack,2,51.051580780985205
+Accuracy top-five ElasticNet stack,3,49.27240591853124
+Accuracy top-five ElasticNet stack,4,47.90208156923803
+Accuracy top-five ElasticNet stack,5,47.30198154600301
+Accuracy top-five ElasticNet stack,6,47.77123794696551
+Accuracy top-five ElasticNet stack,7,51.35966532110612
+Accuracy top-five ElasticNet stack,8,56.5112407908849
+Accuracy top-five ElasticNet stack,9,59.053982665945746
+Accuracy top-five ElasticNet stack,10,60.94224855928475
+Accuracy top-five ElasticNet stack,11,60.56655274911885
+Accuracy top-five ElasticNet stack,12,59.61810654878669
+Accuracy top-five ElasticNet stack,13,59.19526123120334
+Accuracy top-five ElasticNet stack,14,59.07219336316719
+Accuracy top-five ElasticNet stack,15,56.85252625456417
+Accuracy top-five ElasticNet stack,16,55.80207468681246
+Accuracy top-five ElasticNet stack,17,54.99086813316103
+Accuracy top-five ElasticNet stack,18,57.06608335611522
+Accuracy top-five ElasticNet stack,19,60.59782456726585
+Accuracy top-five ElasticNet stack,20,62.441068323345284
+Accuracy top-five ElasticNet stack,21,63.659936007622036
+Accuracy top-five ElasticNet stack,22,63.271894609512934
+Accuracy top-five ElasticNet stack,23,60.3023160128543
+Accuracy top-five ElasticNet stack,24,56.4589713934333
+All-model ElasticNet stack,1,54.30052595401356
+All-model ElasticNet stack,2,50.68182055852223
+All-model ElasticNet stack,3,48.647200090324226
+All-model ElasticNet stack,4,47.67223453303329
+All-model ElasticNet stack,5,47.24793458617975
+All-model ElasticNet stack,6,47.49347780328339
+All-model ElasticNet stack,7,50.78616829851431
+All-model ElasticNet stack,8,55.60039657552678
+All-model ElasticNet stack,9,57.594909386041614
+All-model ElasticNet stack,10,60.79480543647869
+All-model ElasticNet stack,11,59.7409023297198
+All-model ElasticNet stack,12,59.70521175963984
+All-model ElasticNet stack,13,58.64671429897929
+All-model ElasticNet stack,14,59.2569019832807
+All-model ElasticNet stack,15,56.03514442342503
+All-model ElasticNet stack,16,54.84834914748465
+All-model ElasticNet stack,17,55.40671882688428
+All-model ElasticNet stack,18,57.45443156159234
+All-model ElasticNet stack,19,60.535484142742426
+All-model ElasticNet stack,20,61.35567940645489
+All-model ElasticNet stack,21,61.93781534585293
+All-model ElasticNet stack,22,62.97624824859232
+All-model ElasticNet stack,23,59.652678091774604
+All-model ElasticNet stack,24,55.99882866638599
+Seasonal naive,1,56.16709141274238
+Seasonal naive,2,52.73534626038781
+Seasonal naive,3,50.272243767313014
+Seasonal naive,4,48.948753462603875
+Seasonal naive,5,48.39063711911356
+Seasonal naive,6,49.418116343490304
+Seasonal naive,7,53.32581717451523
+Seasonal naive,8,57.488254847645436
+Seasonal naive,9,59.521772853185595
+Seasonal naive,10,61.161412742382275
+Seasonal naive,11,61.22559556786704
+Seasonal naive,12,60.589916897506924
+Seasonal naive,13,60.057673130193905
+Seasonal naive,14,59.74296398891966
+Seasonal naive,15,58.52653739612189
+Seasonal naive,16,57.07335180055401
+Seasonal naive,17,56.61695290858726
+Seasonal naive,18,57.801274238227144
+Seasonal naive,19,59.473490304709145
+Seasonal naive,20,61.549307479224375
+Seasonal naive,21,62.96038781163435
+Seasonal naive,22,63.10282548476455
+Seasonal naive,23,61.003351800554015
+Seasonal naive,24,58.028642659279775

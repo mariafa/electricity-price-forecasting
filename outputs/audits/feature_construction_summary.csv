@@ -1,0 +1,7 @@
+item,value
+eligible_daily_samples,1445
+tabular_predictors,201
+sequence_length,168
+sequence_channels,34
+target_horizons,24
+excluded_delivery_days,16
